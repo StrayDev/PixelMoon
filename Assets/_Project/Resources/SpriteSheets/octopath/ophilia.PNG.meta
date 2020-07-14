@@ -1,0 +1,7183 @@
+fileFormatVersion: 2
+guid: 6aaa16a5d68820f4b8b0cb13bd4e94b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3125275141499698957
+    second: ophilia_0
+  - first:
+      213: 1927362708717652140
+    second: ophilia_1
+  - first:
+      213: -3878436043359749788
+    second: ophilia_2
+  - first:
+      213: -389200966171400331
+    second: ophilia_3
+  - first:
+      213: 3645431050067030739
+    second: ophilia_4
+  - first:
+      213: 7755030678492178985
+    second: ophilia_5
+  - first:
+      213: 118660888196308028
+    second: ophilia_6
+  - first:
+      213: 4725163631893311144
+    second: ophilia_7
+  - first:
+      213: -404418190166704791
+    second: ophilia_8
+  - first:
+      213: 4535147817441771389
+    second: ophilia_9
+  - first:
+      213: 49320776263791444
+    second: ophilia_10
+  - first:
+      213: 2339861541158399489
+    second: ophilia_11
+  - first:
+      213: -6308812161308162171
+    second: ophilia_12
+  - first:
+      213: 1629156574367009456
+    second: ophilia_13
+  - first:
+      213: 6149935642125795167
+    second: ophilia_14
+  - first:
+      213: 374781058335260402
+    second: ophilia_15
+  - first:
+      213: -9172553396720453966
+    second: ophilia_16
+  - first:
+      213: 4620052045106849819
+    second: ophilia_17
+  - first:
+      213: 6038998848201463243
+    second: ophilia_18
+  - first:
+      213: -3206876383435643937
+    second: ophilia_19
+  - first:
+      213: -7010516192834937762
+    second: ophilia_20
+  - first:
+      213: -3627284049924332973
+    second: ophilia_21
+  - first:
+      213: 4900091568176661711
+    second: ophilia_22
+  - first:
+      213: -1210570787259916235
+    second: ophilia_23
+  - first:
+      213: 5248277685851996441
+    second: ophilia_24
+  - first:
+      213: 3818188921998558539
+    second: ophilia_25
+  - first:
+      213: -862096575173578297
+    second: ophilia_26
+  - first:
+      213: 5383520075158670241
+    second: ophilia_27
+  - first:
+      213: 2323278544518377541
+    second: ophilia_28
+  - first:
+      213: -1418174240723983524
+    second: ophilia_29
+  - first:
+      213: -5040443865476132301
+    second: ophilia_30
+  - first:
+      213: -6405043885621553250
+    second: ophilia_31
+  - first:
+      213: 5325863580510937420
+    second: ophilia_32
+  - first:
+      213: 1417896771216673421
+    second: ophilia_33
+  - first:
+      213: -2597526443918539633
+    second: ophilia_34
+  - first:
+      213: 6972308418424668891
+    second: ophilia_35
+  - first:
+      213: 8624344892804877508
+    second: ophilia_36
+  - first:
+      213: 5567136306386223616
+    second: ophilia_37
+  - first:
+      213: 8269026601138619648
+    second: ophilia_38
+  - first:
+      213: -8416429257149302082
+    second: ophilia_39
+  - first:
+      213: 4306828316349735541
+    second: ophilia_40
+  - first:
+      213: -5173877124769586045
+    second: ophilia_41
+  - first:
+      213: -4399688112465029419
+    second: ophilia_42
+  - first:
+      213: 7851848221077214678
+    second: ophilia_43
+  - first:
+      213: -5392414926886835087
+    second: ophilia_44
+  - first:
+      213: -1606365523856587513
+    second: ophilia_45
+  - first:
+      213: -1148859055537781323
+    second: ophilia_46
+  - first:
+      213: -8620835371246981422
+    second: ophilia_47
+  - first:
+      213: 3674957978166080782
+    second: ophilia_48
+  - first:
+      213: -5300931832497541625
+    second: ophilia_49
+  - first:
+      213: 7265269311677996624
+    second: ophilia_50
+  - first:
+      213: -5240289250032815785
+    second: ophilia_51
+  - first:
+      213: -1093709260731956736
+    second: ophilia_52
+  - first:
+      213: -8026880642352433685
+    second: ophilia_53
+  - first:
+      213: 5469342055548576109
+    second: ophilia_54
+  - first:
+      213: -7693147819144537040
+    second: ophilia_55
+  - first:
+      213: 4444161653905961789
+    second: ophilia_56
+  - first:
+      213: 1122021606652358892
+    second: ophilia_57
+  - first:
+      213: -2840591321423113286
+    second: ophilia_58
+  - first:
+      213: 852783443832122084
+    second: ophilia_59
+  - first:
+      213: -6664364071569423395
+    second: ophilia_60
+  - first:
+      213: -5414041585669499224
+    second: ophilia_61
+  - first:
+      213: -3518668221440661356
+    second: ophilia_62
+  - first:
+      213: 2483350404666713162
+    second: ophilia_63
+  - first:
+      213: 4178735577378940810
+    second: ophilia_64
+  - first:
+      213: 1683189757459781188
+    second: ophilia_65
+  - first:
+      213: -3115448700726543928
+    second: ophilia_66
+  - first:
+      213: -2993515530187486958
+    second: ophilia_67
+  - first:
+      213: -7592501604933906755
+    second: ophilia_68
+  - first:
+      213: 3434163703890714733
+    second: ophilia_69
+  - first:
+      213: 4936531342741969291
+    second: ophilia_70
+  - first:
+      213: 8309837754865227321
+    second: ophilia_71
+  - first:
+      213: 1937177804606886753
+    second: ophilia_72
+  - first:
+      213: -3538568334974872104
+    second: ophilia_73
+  - first:
+      213: -3358029258009063997
+    second: ophilia_74
+  - first:
+      213: 4993593841510552290
+    second: ophilia_75
+  - first:
+      213: 3913109762043542087
+    second: ophilia_76
+  - first:
+      213: 4342065305155496163
+    second: ophilia_77
+  - first:
+      213: 2299914651936666127
+    second: ophilia_78
+  - first:
+      213: -8359482443010627745
+    second: ophilia_79
+  - first:
+      213: -579053810569305788
+    second: ophilia_80
+  - first:
+      213: 8126644290480309931
+    second: ophilia_81
+  - first:
+      213: 8894835364220929718
+    second: ophilia_82
+  - first:
+      213: 6976640700214940485
+    second: ophilia_83
+  - first:
+      213: 6243648718761541903
+    second: ophilia_84
+  - first:
+      213: -114006303436270815
+    second: ophilia_85
+  - first:
+      213: -7437308959351810462
+    second: ophilia_86
+  - first:
+      213: -7099260663939301891
+    second: ophilia_87
+  - first:
+      213: -3696895069426611735
+    second: ophilia_88
+  - first:
+      213: -5479600806864889650
+    second: ophilia_89
+  - first:
+      213: -878500333015408177
+    second: ophilia_90
+  - first:
+      213: 4260935492016157217
+    second: ophilia_91
+  - first:
+      213: -8580350611151946285
+    second: ophilia_92
+  - first:
+      213: 7938948052574705891
+    second: ophilia_93
+  - first:
+      213: -7989218246635253826
+    second: ophilia_94
+  - first:
+      213: -2890501217229124686
+    second: ophilia_95
+  - first:
+      213: 2917693545995841658
+    second: ophilia_96
+  - first:
+      213: -3505831869020126030
+    second: ophilia_97
+  - first:
+      213: 6384679833374925992
+    second: ophilia_98
+  - first:
+      213: -1496467942575175824
+    second: ophilia_99
+  - first:
+      213: -2834218741670617019
+    second: ophilia_100
+  - first:
+      213: -4697314732053123054
+    second: ophilia_101
+  - first:
+      213: 1721074940466893049
+    second: ophilia_102
+  - first:
+      213: 9093473584740069259
+    second: ophilia_103
+  - first:
+      213: -3457914019144665226
+    second: ophilia_104
+  - first:
+      213: 3263352952134496824
+    second: ophilia_105
+  - first:
+      213: 8352299528315476582
+    second: ophilia_106
+  - first:
+      213: 6883570563537470933
+    second: ophilia_107
+  - first:
+      213: -8866120284909247627
+    second: ophilia_108
+  - first:
+      213: 2725628168782717143
+    second: ophilia_109
+  - first:
+      213: 2454759514388678540
+    second: ophilia_110
+  - first:
+      213: -2093705655768272869
+    second: ophilia_111
+  - first:
+      213: 2524482131159640019
+    second: ophilia_112
+  - first:
+      213: -7474669158791723973
+    second: ophilia_113
+  - first:
+      213: -1544133689233830369
+    second: ophilia_114
+  - first:
+      213: 6928604285287268744
+    second: ophilia_115
+  - first:
+      213: -9191715227803411970
+    second: ophilia_116
+  - first:
+      213: 6717385180071398730
+    second: ophilia_117
+  - first:
+      213: 3790310658109905025
+    second: ophilia_118
+  - first:
+      213: 3368683827247104638
+    second: ophilia_119
+  - first:
+      213: -592836465908176308
+    second: ophilia_120
+  - first:
+      213: 2138662863458181203
+    second: ophilia_121
+  - first:
+      213: 4839618376047164225
+    second: ophilia_122
+  - first:
+      213: 906634365965983808
+    second: ophilia_123
+  - first:
+      213: 5855530372135482928
+    second: ophilia_124
+  - first:
+      213: 7995709009463332552
+    second: ophilia_125
+  - first:
+      213: 8698657930731028177
+    second: ophilia_126
+  - first:
+      213: 24487017672482610
+    second: ophilia_127
+  - first:
+      213: -2961661989597521890
+    second: ophilia_128
+  - first:
+      213: -2338005848823989086
+    second: ophilia_129
+  - first:
+      213: -2622214036247773857
+    second: ophilia_130
+  - first:
+      213: 1986879999793497951
+    second: ophilia_131
+  - first:
+      213: 7463695572690219994
+    second: ophilia_132
+  - first:
+      213: -3578071071973982808
+    second: ophilia_133
+  - first:
+      213: 3978880537001359961
+    second: ophilia_134
+  - first:
+      213: -1520632959633160579
+    second: ophilia_135
+  - first:
+      213: -4574347876457885257
+    second: ophilia_136
+  - first:
+      213: 4617065007338106975
+    second: ophilia_137
+  - first:
+      213: -8161206251449721029
+    second: ophilia_138
+  - first:
+      213: 1429510120185504189
+    second: ophilia_139
+  - first:
+      213: 5742294458322992051
+    second: ophilia_140
+  - first:
+      213: 2060951046969988968
+    second: ophilia_141
+  - first:
+      213: 4313362843063325498
+    second: ophilia_142
+  - first:
+      213: 7957188081386264491
+    second: ophilia_143
+  - first:
+      213: -6056456782196734977
+    second: ophilia_144
+  - first:
+      213: -3313927601273714953
+    second: ophilia_145
+  - first:
+      213: 483187393854779256
+    second: ophilia_146
+  - first:
+      213: 2143620848656121422
+    second: ophilia_147
+  - first:
+      213: -3324658329329301132
+    second: ophilia_148
+  - first:
+      213: 6707280164833074138
+    second: ophilia_149
+  - first:
+      213: -4745511869260882845
+    second: ophilia_150
+  - first:
+      213: -1707501958796049703
+    second: ophilia_151
+  - first:
+      213: -7514648551991639813
+    second: ophilia_152
+  - first:
+      213: -2900280182128335835
+    second: ophilia_153
+  - first:
+      213: 5714268997135319065
+    second: ophilia_154
+  - first:
+      213: -7263239542187586673
+    second: ophilia_155
+  - first:
+      213: -6014681195446561507
+    second: ophilia_156
+  - first:
+      213: -620956113021934457
+    second: ophilia_157
+  - first:
+      213: 9119700621544757939
+    second: ophilia_158
+  - first:
+      213: 8272359563165229112
+    second: ophilia_159
+  - first:
+      213: -267899476232697337
+    second: ophilia_160
+  - first:
+      213: 4811205939595461574
+    second: ophilia_161
+  - first:
+      213: -2721100315178056660
+    second: ophilia_162
+  - first:
+      213: -9086855788639759788
+    second: ophilia_163
+  - first:
+      213: 2505438940576537039
+    second: ophilia_164
+  - first:
+      213: 3027181284523454662
+    second: ophilia_165
+  - first:
+      213: 714211068788704520
+    second: ophilia_166
+  - first:
+      213: -3219167784755033046
+    second: ophilia_167
+  - first:
+      213: 3706246126419123923
+    second: ophilia_168
+  - first:
+      213: -4596977607589521629
+    second: ophilia_169
+  - first:
+      213: -2415140303799371151
+    second: ophilia_170
+  - first:
+      213: 4749697325363736221
+    second: ophilia_171
+  - first:
+      213: 2257840954646600746
+    second: ophilia_172
+  - first:
+      213: -8612298855589408472
+    second: ophilia_173
+  - first:
+      213: -3470158145778630298
+    second: ophilia_174
+  - first:
+      213: -8938649238665668193
+    second: ophilia_175
+  - first:
+      213: 8021940348579900147
+    second: ophilia_176
+  - first:
+      213: 6915000962216822526
+    second: ophilia_177
+  - first:
+      213: -1407804472090787519
+    second: ophilia_178
+  - first:
+      213: -3413749929256284023
+    second: ophilia_179
+  - first:
+      213: -5348186411979930875
+    second: ophilia_180
+  - first:
+      213: 4274834721400625022
+    second: ophilia_181
+  - first:
+      213: -5159268664972627428
+    second: ophilia_182
+  - first:
+      213: -168266757926807025
+    second: ophilia_183
+  - first:
+      213: -81917257696316051
+    second: ophilia_184
+  - first:
+      213: -6134840179676627561
+    second: ophilia_185
+  - first:
+      213: 4299680775780562247
+    second: ophilia_186
+  - first:
+      213: 3243985880502591704
+    second: ophilia_187
+  - first:
+      213: -8343532660096180291
+    second: ophilia_188
+  - first:
+      213: 1828425651273105829
+    second: ophilia_189
+  - first:
+      213: -5723635259883739888
+    second: ophilia_190
+  - first:
+      213: 6947012273100971952
+    second: ophilia_191
+  - first:
+      213: -1631567833330022112
+    second: ophilia_192
+  - first:
+      213: -463239349876840416
+    second: ophilia_193
+  - first:
+      213: 5961688983214203022
+    second: ophilia_194
+  - first:
+      213: -5275908242181062861
+    second: ophilia_195
+  - first:
+      213: 5091279109915504661
+    second: ophilia_196
+  - first:
+      213: 7381580340065529320
+    second: ophilia_197
+  - first:
+      213: -1015719477536588979
+    second: ophilia_198
+  - first:
+      213: -5448249866463257622
+    second: ophilia_199
+  - first:
+      213: -5369896558871038395
+    second: ophilia_200
+  - first:
+      213: 4677547769070263608
+    second: ophilia_201
+  - first:
+      213: -2935740040987272840
+    second: ophilia_202
+  - first:
+      213: 3271455570168350353
+    second: ophilia_203
+  - first:
+      213: 4285640063779762145
+    second: ophilia_204
+  - first:
+      213: 8031637230722656065
+    second: ophilia_205
+  - first:
+      213: 6331979643150700875
+    second: ophilia_206
+  - first:
+      213: -5335249977720111547
+    second: ophilia_207
+  - first:
+      213: 8000551470427424528
+    second: ophilia_208
+  - first:
+      213: 6694515885356205717
+    second: ophilia_209
+  - first:
+      213: -7698364870905200269
+    second: ophilia_210
+  - first:
+      213: 2731989844697875372
+    second: ophilia_211
+  - first:
+      213: -3254242782889757395
+    second: ophilia_212
+  - first:
+      213: -8971930835898915625
+    second: ophilia_213
+  - first:
+      213: 86103997865195339
+    second: ophilia_214
+  - first:
+      213: -8687192662271753740
+    second: ophilia_215
+  - first:
+      213: 2692692788005260363
+    second: ophilia_216
+  - first:
+      213: -4959863740355824504
+    second: ophilia_217
+  - first:
+      213: 6494558101580899323
+    second: ophilia_218
+  - first:
+      213: 1406358145582646106
+    second: ophilia_219
+  - first:
+      213: 3169804501642779816
+    second: ophilia_220
+  - first:
+      213: 8214346229451990703
+    second: ophilia_221
+  - first:
+      213: 3963043712703150243
+    second: ophilia_222
+  - first:
+      213: -4398609948770025477
+    second: ophilia_223
+  - first:
+      213: -6312528521072859886
+    second: ophilia_224
+  - first:
+      213: -6526058132761039992
+    second: ophilia_225
+  - first:
+      213: -3564022886706103858
+    second: ophilia_226
+  - first:
+      213: 8650084262226190508
+    second: ophilia_227
+  - first:
+      213: -4239212321110961448
+    second: ophilia_228
+  - first:
+      213: -6876174747379530421
+    second: ophilia_229
+  - first:
+      213: -3638819274706555533
+    second: ophilia_230
+  - first:
+      213: -5182192651223363313
+    second: ophilia_231
+  - first:
+      213: 6834815307842321326
+    second: ophilia_232
+  - first:
+      213: -1655228597313696932
+    second: ophilia_233
+  - first:
+      213: 8878668105389869
+    second: ophilia_234
+  - first:
+      213: 7611862609307536387
+    second: ophilia_235
+  - first:
+      213: 5077238239466143164
+    second: ophilia_236
+  - first:
+      213: -8550857154428661483
+    second: ophilia_237
+  - first:
+      213: -5164653123627154167
+    second: ophilia_238
+  - first:
+      213: 837383359287261685
+    second: ophilia_239
+  - first:
+      213: 4817352277837768461
+    second: ophilia_240
+  - first:
+      213: 8505928657040096217
+    second: ophilia_241
+  - first:
+      213: 9118313853450743712
+    second: ophilia_242
+  - first:
+      213: -2216600828324190018
+    second: ophilia_243
+  - first:
+      213: 6945774950251433394
+    second: ophilia_244
+  - first:
+      213: -2213150423450062299
+    second: ophilia_245
+  - first:
+      213: -6527979352931397958
+    second: ophilia_246
+  - first:
+      213: -2471849125307680078
+    second: ophilia_247
+  - first:
+      213: 3150174973245238883
+    second: ophilia_248
+  - first:
+      213: -3482857338837292174
+    second: ophilia_249
+  - first:
+      213: -504168049514087918
+    second: ophilia_250
+  - first:
+      213: 2181290136124933432
+    second: ophilia_251
+  - first:
+      213: -2087193046458040954
+    second: ophilia_252
+  - first:
+      213: -8546939295528671101
+    second: ophilia_253
+  - first:
+      213: -4818569306632241417
+    second: ophilia_254
+  - first:
+      213: -2453656765158745150
+    second: ophilia_255
+  - first:
+      213: 4138588645953946737
+    second: ophilia_256
+  - first:
+      213: 991760314205803546
+    second: ophilia_257
+  - first:
+      213: 2919294104526585824
+    second: ophilia_258
+  - first:
+      213: 2889090497478980596
+    second: ophilia_259
+  - first:
+      213: 6347723478554249320
+    second: ophilia_260
+  - first:
+      213: -8101920774664318927
+    second: ophilia_261
+  - first:
+      213: -5403909120697702543
+    second: ophilia_262
+  - first:
+      213: 5490059114313212059
+    second: ophilia_263
+  - first:
+      213: 5970607755258047307
+    second: ophilia_264
+  - first:
+      213: -1229807053031655659
+    second: ophilia_265
+  - first:
+      213: -3971270251949209380
+    second: ophilia_266
+  - first:
+      213: -415722417685447992
+    second: ophilia_267
+  - first:
+      213: 7675026832350347129
+    second: ophilia_268
+  - first:
+      213: -509523281137149732
+    second: ophilia_269
+  - first:
+      213: 7731137512723856896
+    second: ophilia_270
+  - first:
+      213: 3155105859823554004
+    second: ophilia_271
+  - first:
+      213: -2834710184383357491
+    second: ophilia_272
+  - first:
+      213: 3172989119511424942
+    second: ophilia_273
+  - first:
+      213: -6905943304335183278
+    second: ophilia_274
+  - first:
+      213: -2025110596499136754
+    second: ophilia_275
+  - first:
+      213: 3970474638688193433
+    second: ophilia_276
+  - first:
+      213: 1754171818926423930
+    second: ophilia_277
+  - first:
+      213: 6999379088793817641
+    second: ophilia_278
+  - first:
+      213: -4933727748760530849
+    second: ophilia_279
+  - first:
+      213: 5143126420302870012
+    second: ophilia_280
+  - first:
+      213: -3114147337035472903
+    second: ophilia_281
+  - first:
+      213: -1713690336948704667
+    second: ophilia_282
+  - first:
+      213: 744681326717166670
+    second: ophilia_283
+  - first:
+      213: 395113967203160807
+    second: ophilia_284
+  - first:
+      213: 60923914018937339
+    second: ophilia_285
+  - first:
+      213: 465514029497126233
+    second: ophilia_286
+  - first:
+      213: 777914814643919575
+    second: ophilia_287
+  - first:
+      213: 1586404306066345221
+    second: ophilia_288
+  - first:
+      213: 4132428677199848649
+    second: ophilia_289
+  - first:
+      213: -5680732656441231947
+    second: ophilia_290
+  - first:
+      213: 8570544947733580263
+    second: ophilia_291
+  - first:
+      213: -2747974485005501745
+    second: ophilia_292
+  - first:
+      213: -7561624403885873380
+    second: ophilia_293
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ophilia_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 478
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910eef7f823ec1a46a80072b2d1a8227
+      internalID: 3125275141499698957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 478
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c97f492b21b9ec4b9525e30d3550d46
+      internalID: 1927362708717652140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 478
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20d32f1e67e69646a173edd0e154f2d
+      internalID: -3878436043359749788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 478
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475aa9b6501714449ab4c5c2c5f802cf
+      internalID: -389200966171400331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 478
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5ac4a1f2fba6c468464ea03d7696c4
+      internalID: 3645431050067030739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_5
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 478
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d718ac3f259ff42ae71f6dd017a925
+      internalID: 7755030678492178985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 478
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d42a1a477714114298098f79ee46f9c
+      internalID: 118660888196308028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 478
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d345d913d64c0f4418e5078238297867
+      internalID: 4725163631893311144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 478
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb4704310e88814c84c530189ec51e9
+      internalID: -404418190166704791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_9
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 480
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926d50419aed5d84b85cf73a36fbc66c
+      internalID: 4535147817441771389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 482
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75399c93de1cf0458e4eb00c1c8f815
+      internalID: 49320776263791444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 482
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d477fe6ecb74f3b4194373a1e82ec04a
+      internalID: 2339861541158399489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_12
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 483
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d431a87fea4e647a7ff16cab0bb5a6
+      internalID: -6308812161308162171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_13
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 483
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafd11a0be7c1dd4d95b874766d5d0b3
+      internalID: 1629156574367009456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 483
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ff48c1d1403e34a9f79c9de52524c9
+      internalID: 6149935642125795167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_15
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 482
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6a2180d2b5f6d489ad8fe02a1e39eb
+      internalID: 374781058335260402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_16
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 480
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91802ac7a9520c649b5b4068418f5f37
+      internalID: -9172553396720453966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_17
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 478
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcc0070ace3c18449c77982409c82a5
+      internalID: 4620052045106849819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_18
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 480
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2f0c1332daed647a1a55e57640b061
+      internalID: 6038998848201463243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_19
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 482
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893f1bef43de84f489f2393edd7d9717
+      internalID: -3206876383435643937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_20
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 482
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7520f1869a6d91447ba7cc6cfc0cf2bc
+      internalID: -7010516192834937762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_21
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 483
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f9c5b58a51e724284e29b66beafbd2
+      internalID: -3627284049924332973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_22
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 483
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee1f9f1c92948c46b020dbc297897cb
+      internalID: 4900091568176661711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 449
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911e753fc80c66341aeeeab60340f663
+      internalID: -1210570787259916235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 448
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d008c14ab4aa6c142b0d1e985f875f39
+      internalID: 5248277685851996441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_25
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 446
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e248201412797747b0a01701e87b734
+      internalID: 3818188921998558539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 447
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183f6766dd608924c8e6219e5f0051c9
+      internalID: -862096575173578297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 447
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4765ae012ed200f43a9f054585293e27
+      internalID: 5383520075158670241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 452
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff82198b35ca9044fb843f07a99dbc53
+      internalID: 2323278544518377541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 452
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196a2cbd7d4648a45b0756cbd2034b84
+      internalID: -1418174240723983524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_30
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 452
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c2f8d398151fa4abc70af75d78f5c3
+      internalID: -5040443865476132301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_31
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 452
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331463d0e46abeb4b971a4649298ba72
+      internalID: -6405043885621553250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_32
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 452
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fbeee553dcaae439e56e61493ee062
+      internalID: 5325863580510937420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_33
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 452
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356680009293e9c43a8d5bf0a5797b7a
+      internalID: 1417896771216673421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_34
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 444
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75242a9bea23a14f949e3ba467dbb70
+      internalID: -2597526443918539633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_35
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 444
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718a3ab25c2c46f41a779dd987a6205f
+      internalID: 6972308418424668891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_36
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 444
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63470d74df86f34f8978ce510d91894
+      internalID: 8624344892804877508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_37
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 444
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41af5699ce133794b8fcd1de4c97a609
+      internalID: 5567136306386223616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_38
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 451
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3456fccb302ebe7419a5287305b401b3
+      internalID: 8269026601138619648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_39
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 451
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7334fa6866e0f1946b4d636b99e9293b
+      internalID: -8416429257149302082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_40
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 451
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f57ddd5ce560041b43b99ef4f288f3
+      internalID: 4306828316349735541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_41
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 451
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c5b953ae90fbf40a27bc906183e7f1
+      internalID: -5173877124769586045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_42
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 451
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a7e93d8f19f02438636bc6678762ea
+      internalID: -4399688112465029419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_43
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 451
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa4db6da355b824399552c9605ed798
+      internalID: 7851848221077214678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_44
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 451
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9c91fab44ca814e82300d0fb4507d3
+      internalID: -5392414926886835087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 417
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a9625ee5fbf0b4ca16496b680f7c1b
+      internalID: -1606365523856587513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_46
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 410
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c460d17313c217a47a63cd58220ef514
+      internalID: -1148859055537781323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_47
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 412
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfef258e2e7bc9a418b2bc52a57fd37e
+      internalID: -8620835371246981422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_48
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 404
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518174d8fb61dbb44a366a59f4758433
+      internalID: 3674957978166080782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_49
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 414
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf381dfa7ec5264fb8df3fa4f09ca14
+      internalID: -5300931832497541625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_50
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 415
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5c72f6cf9b2ec429ce7e7abba1760b
+      internalID: 7265269311677996624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_51
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 415
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f8fc24da9c7a242aacc5f7f0718722
+      internalID: -5240289250032815785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_52
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 415
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126785346740fe740b3a9684fff234e2
+      internalID: -1093709260731956736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_53
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 414
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df479ab23e7c8f14ab55e131d36a887e
+      internalID: -8026880642352433685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_54
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 412
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38e80ab2161b74499904884c83d3a82
+      internalID: 5469342055548576109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_55
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 410
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051f6e47024382c47a7a77c4ebda296e
+      internalID: -7693147819144537040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_56
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 412
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11296e3fb4b8d39439200cae94c27f1d
+      internalID: 4444161653905961789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_57
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 404
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d36740aa0917794988c82ecdfa7ee21
+      internalID: 1122021606652358892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_58
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 414
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c36cb21a8730347bf0bd1d39953584
+      internalID: -2840591321423113286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_59
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 415
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea39654139d3449439dca0771b3f1f32
+      internalID: 852783443832122084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 375
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db86b9045947c274398830f8334edaf4
+      internalID: -6664364071569423395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_61
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 375
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de45d4ac4a3131d4394ba1e7eb4f540e
+      internalID: -5414041585669499224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 374
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d5460d720d5a040b289dfc8f4f39a3
+      internalID: -3518668221440661356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_63
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 372
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4787e5d7446cf0947b0d928d144de918
+      internalID: 2483350404666713162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_64
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 373
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6511d0d088600d641b3d16f43d309d1a
+      internalID: 4178735577378940810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_65
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 373
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759f2983f3201b640a463e84cf47905b
+      internalID: 1683189757459781188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_66
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 370
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b70ad81cb5e8164fb1d0778a8214725
+      internalID: -3115448700726543928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_67
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 370
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1805a7ac5eef7764ca6fbc176ddadd1a
+      internalID: -2993515530187486958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_68
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 370
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221e26c0a25e92846ad76df8da6e0144
+      internalID: -7592501604933906755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_69
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 370
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024f9293291eb1d4ba86928bd1df9ffb
+      internalID: 3434163703890714733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_70
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 370
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60edc93dcc5896c40a4f83fb17831cbf
+      internalID: 4936531342741969291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_71
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 370
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4919d29a79b677d46907e032e1abb4c4
+      internalID: 8309837754865227321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_72
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 369
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5e8dbee2c339f479c1eaef3d157f39
+      internalID: 1937177804606886753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_73
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 369
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5d746f799ee5f4d8ad4f5cb5b39271
+      internalID: -3538568334974872104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_74
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 390
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0b11f5f1d7f844a9b5e6555bdaeb28
+      internalID: -3358029258009063997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_75
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 390
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3605c5c112d867841a8cd9609686bc82
+      internalID: 4993593841510552290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_76
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 370
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d08be043586404c8b99a0b3ccb1dd8
+      internalID: 3913109762043542087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_77
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 370
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2bfce390345ca49bee4df12623ae20
+      internalID: 4342065305155496163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_78
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 337
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92d39705e6b57f46a42c3935d7aeeb9
+      internalID: 2299914651936666127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_79
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 337
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecea1b419f5e514b96d117c79539496
+      internalID: -8359482443010627745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_80
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 337
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2780ce5ea001e446927992ef107ecd7
+      internalID: -579053810569305788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_81
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 337
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024691b5249612847b4cfd53f60c0209
+      internalID: 8126644290480309931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_82
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 337
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faf62737d95f904ca9f376b914a76f8
+      internalID: 8894835364220929718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_83
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 337
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4492f52626d7ca419b2ebe6abd20600
+      internalID: 6976640700214940485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_84
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 335
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ee38c4be415374582b4ca54626ea1c
+      internalID: 6243648718761541903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_85
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 335
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bca7694cfeb6804982241e59a879a47
+      internalID: -114006303436270815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_86
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 335
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a773e70f3b0cc44ab9e73e8d7eb368
+      internalID: -7437308959351810462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_87
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 335
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3021b7835aeea7449828c3b002895161
+      internalID: -7099260663939301891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_88
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 335
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b947a2523af48e4787efadac9a3bb30
+      internalID: -3696895069426611735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_89
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 335
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af73961f4bd53f4db584090f52c827f
+      internalID: -5479600806864889650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_90
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 335
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b74324c8160546429ac93cbe91f5e63
+      internalID: -878500333015408177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_91
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 335
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c575df5da17020846b5d613e39ecbfcb
+      internalID: 4260935492016157217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_92
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 335
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d6a629339a61e4da764ec1ba0984b8
+      internalID: -8580350611151946285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_93
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 335
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9df9ddfe1749243a707c84c932faa3
+      internalID: 7938948052574705891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_94
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 335
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f093dfc4ae829944b8215fab204a632
+      internalID: -7989218246635253826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_95
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 335
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe76f01562a32345bda82578661c4e2
+      internalID: -2890501217229124686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_96
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 335
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e41bea479968745954b610c7b114f6
+      internalID: 2917693545995841658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_97
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 335
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e651f2726c50b3544a0a6b2ce578de60
+      internalID: -3505831869020126030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_98
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 335
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd4682df7eade1489332b62b89c1059
+      internalID: 6384679833374925992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_99
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 335
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80cb8342560004499cb9f2a24c95a76
+      internalID: -1496467942575175824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_100
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 335
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc61cc217f994584cbacd78d8f686447
+      internalID: -2834218741670617019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_101
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 334
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9d2b9665f74bd4b830635ff33740f3
+      internalID: -4697314732053123054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_102
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 329
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e35f572724fdb740a38187284e508ac
+      internalID: 1721074940466893049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_103
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 283
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317363b4bf3a4c64099155389568dcd1
+      internalID: 9093473584740069259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_104
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 282
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4b59d48d265fd41ae77a6bc113f664
+      internalID: -3457914019144665226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_105
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 283
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa99fb75913595b48bcd9e6cd43fc3d7
+      internalID: 3263352952134496824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_106
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 295
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fbfe6772c51ba47944016c00cc33ea
+      internalID: 8352299528315476582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_107
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 295
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99af2e5b48450444e9c6433d56db7ac6
+      internalID: 6883570563537470933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_108
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 295
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561f0d227b9deeb4a837dbe3dd4f56c3
+      internalID: -8866120284909247627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_109
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 295
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d536e06ea82d34e9c9b7288e840d2e
+      internalID: 2725628168782717143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 296
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e9407a5ecba434e8af40811b293c47
+      internalID: 2454759514388678540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_111
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 296
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ffea0796fb8dc4da7b18f1c2c267cc
+      internalID: -2093705655768272869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_112
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 296
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071bf4a46d9caae408b29872fb87bf1e
+      internalID: 2524482131159640019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_113
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 296
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a329b2a1a11e6408849981c07acf0b
+      internalID: -7474669158791723973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_114
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 295
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899360d912df3594189688324cd12de8
+      internalID: -1544133689233830369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_115
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 295
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900530dbe04ac084cbc1cf422d14d388
+      internalID: 6928604285287268744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_116
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 295
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0a8edbc8256684381ac83cff47b81c
+      internalID: -9191715227803411970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_117
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 295
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74494ad285752fa4ebeee1c9c9f2e67c
+      internalID: 6717385180071398730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_118
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 295
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd57a388acbc83a4ea541f2d9dc198bc
+      internalID: 3790310658109905025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_119
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 295
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b184cc1ebebeaf4a81c6cc0a71d3bc7
+      internalID: 3368683827247104638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_120
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 295
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158cbb3be4a9bd247a77ee76b522bd5f
+      internalID: -592836465908176308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_121
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 295
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b1f8091a5afb348a55be23c1a1689b
+      internalID: 2138662863458181203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_122
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 313
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d63bee35c135e540a96a75fd630544c
+      internalID: 4839618376047164225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_123
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 313
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2337fb96f8ee544837587e14532dfa
+      internalID: 906634365965983808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_124
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 295
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3919436a9754e0540a19156bbac7d1f7
+      internalID: 5855530372135482928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_125
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 248
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a6a879d00830f4895af5ff5efb3b53
+      internalID: 7995709009463332552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_126
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 248
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea98c7fdac511a341b08705abab34f38
+      internalID: 8698657930731028177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_127
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 248
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf378dccb4a577546a19d86aad7f53d1
+      internalID: 24487017672482610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_128
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 248
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132314631e0be4e45a6e2cb484486e76
+      internalID: -2961661989597521890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_129
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 248
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae22ccaba72634547ad97bdf2cb9357e
+      internalID: -2338005848823989086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_130
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 248
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdf11fb5661da345ae10ca538d9ed05
+      internalID: -2622214036247773857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_131
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 248
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc86115bfc1a254586d84d4968fea89
+      internalID: 1986879999793497951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_132
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 248
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82ec33638403cb4880747b8dbef2dd5
+      internalID: 7463695572690219994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_133
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 248
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da500379edbeaf4891e6d27c20dd772
+      internalID: -3578071071973982808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_134
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 248
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50f703e18c3b5f42be3ad242bad6e27
+      internalID: 3978880537001359961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_135
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 248
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05da428afdf52bb46831e0d9806c036e
+      internalID: -1520632959633160579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_136
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 248
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7b0f46a7277084184d568f360c48de
+      internalID: -4574347876457885257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_137
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 249
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0780fc5bed689414c9d7f853dd7e7c86
+      internalID: 4617065007338106975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_138
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 249
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f4ee9a56b502741b709bbe22b0040c
+      internalID: -8161206251449721029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_139
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 252
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b8b092a34de6747b211b62a8a527a4
+      internalID: 1429510120185504189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_140
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 251
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc6474f64ba7504ba4011ab215cef5b
+      internalID: 5742294458322992051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_141
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 248
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff255d7d22ad4734889ff617b32c886e
+      internalID: 2060951046969988968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_142
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 248
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1ee58fc8c0ffd4196648a758a9e6ab
+      internalID: 4313362843063325498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_143
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 248
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa57eb6f8ff56404183e584fdd12878a
+      internalID: 7957188081386264491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_144
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 248
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61943740ed882ef41a19dc676cb8a71a
+      internalID: -6056456782196734977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_145
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 248
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0773c82e82f0036479bc3cf618090795
+      internalID: -3313927601273714953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_146
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 248
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c0b5af6969f4941b0488e404d4f728
+      internalID: 483187393854779256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_147
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 248
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c4ee3bd29defd489e58287b7e7369b
+      internalID: 2143620848656121422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_148
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 248
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec09782b5f7c6845a28a0a08be5b747
+      internalID: -3324658329329301132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_149
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 214
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261e442b20d7eed4a8341e760dffca6c
+      internalID: 6707280164833074138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_150
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 217
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05589a9e3da26c949aae17a4e1dc3f1a
+      internalID: -4745511869260882845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_151
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 215
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d53e580863311246a1ea680767ddfd7
+      internalID: -1707501958796049703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_152
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 214
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017514305f9219440a70681d205ef44f
+      internalID: -7514648551991639813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_153
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 217
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda49723206213c4390f737e346ab451
+      internalID: -2900280182128335835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_154
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 215
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b7fe4c1a3435f4c89767a3c115c849
+      internalID: 5714268997135319065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_155
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 214
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1caae7c23948f44e98de594e5d5acdc
+      internalID: -7263239542187586673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_156
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 217
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c7552e3dfc40642bd8ca623d0b6a80
+      internalID: -6014681195446561507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_157
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 215
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1172c076dff22479f9f6f2f596c60a
+      internalID: -620956113021934457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_158
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 214
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552fe270ac06ce84aaf3b077904500da
+      internalID: 9119700621544757939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_159
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 217
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd1fdea2e954cf43811f5d634c4fa74
+      internalID: 8272359563165229112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_160
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 215
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3623c0347ce62214b8df0aad21b8cb06
+      internalID: -267899476232697337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_161
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 214
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b823f5a636848204499d38a52402ea84
+      internalID: 4811205939595461574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_162
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 217
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105c1d92d6664ad419c58cbd9f5ca05e
+      internalID: -2721100315178056660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_163
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 216
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ed2ab03ae1f95468a91b76a772fdbe
+      internalID: -9086855788639759788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_164
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 215
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255adc8cf65292442aea1fe61fda6502
+      internalID: 2505438940576537039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_165
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 217
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a1cec3bbd8df0479f82d3a1378de14
+      internalID: 3027181284523454662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_166
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 216
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803846168876a0a45a4e9c0f50c0b3da
+      internalID: 714211068788704520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_167
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 215
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76842c272151f04d8c201f8c9ea28bf
+      internalID: -3219167784755033046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_168
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 217
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4421670242f96944986ba301f9e45b7
+      internalID: 3706246126419123923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_169
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 216
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc4ce6ec8fb5e54abdc4cf947d21e9c
+      internalID: -4596977607589521629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_170
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 215
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aa84b33642f0d4b94a1ecfa836c055
+      internalID: -2415140303799371151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_171
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 217
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05683f135581184ca5422c170e3a74b
+      internalID: 4749697325363736221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_172
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 216
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b37d943e869f148ae638fff6fae877
+      internalID: 2257840954646600746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_173
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 215
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c81b56f40d3ca643b4aba851991428a
+      internalID: -8612298855589408472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_174
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 181
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21abac02182780e48896d58593c87c38
+      internalID: -3470158145778630298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_175
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 180
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c04fb8a58406f4388c64d9347503d6
+      internalID: -8938649238665668193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_176
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 179
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4a3f6ff5ca69243a14b1b4b3300557
+      internalID: 8021940348579900147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_177
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 182
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0b92043e185204fb6f229bb8f303d3
+      internalID: 6915000962216822526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_178
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 181
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf468283570fdd41a14c6208a20644d
+      internalID: -1407804472090787519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_179
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 180
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993830c65fb650146a67cb754207de60
+      internalID: -3413749929256284023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_180
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 181
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12ad57991ed36e48888ba899632400d
+      internalID: -5348186411979930875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_181
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 180
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83a442d1ba533d4290ee964cccc6604
+      internalID: 4274834721400625022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_182
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 179
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26c632c7dd0f5145a955f60b1c793c1
+      internalID: -5159268664972627428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 182
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d5b7be1d571d740934b6c5f6d8a005
+      internalID: -168266757926807025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_184
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 181
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6a522db4bf8b54cb077e43bb6b4dde
+      internalID: -81917257696316051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_185
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 180
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fe14efa3868464d9c747a27a5eb857
+      internalID: -6134840179676627561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_186
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 181
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea600365812f9d47973dec30a2a9f4e
+      internalID: 4299680775780562247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_187
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 180
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7811e47f4c7ceb4ebdbcf08da0a32e1
+      internalID: 3243985880502591704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_188
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 179
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9d9b3e822df894281d7b65672c75ce
+      internalID: -8343532660096180291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_189
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 182
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8ccdcf0d333d1439b8929636597a93
+      internalID: 1828425651273105829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_190
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 181
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f289db622480a0344b2656cf62a2ac5f
+      internalID: -5723635259883739888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_191
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 180
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b1e6404f9262a43be7623ad49c492b
+      internalID: 6947012273100971952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_192
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 181
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e5dcb1074760e45b127a5167b05c25
+      internalID: -1631567833330022112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_193
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 180
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f9e79f7add98b47b6d6c15dc528370
+      internalID: -463239349876840416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_194
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 144
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedefccdea30d0b409b86c8cbb3b45e7
+      internalID: 5961688983214203022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_195
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 147
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db513b8b1edfe1f4f9009f3600e240cb
+      internalID: -5275908242181062861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_196
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 146
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2899bf797b0ec0c419850c5cb412ec9a
+      internalID: 5091279109915504661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_197
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 145
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fefa75ac095ed74f898de71cc97d21d
+      internalID: 7381580340065529320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_198
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 147
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1c803792f86f0439a05cc144839c50
+      internalID: -1015719477536588979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_199
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 145
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb077e909da34849a5b751f9a83b743
+      internalID: -5448249866463257622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_200
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 144
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548e03b68f121964ea5bdddd33e05524
+      internalID: -5369896558871038395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_201
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 147
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b39f9706705f34abe7e5a15c1753c4
+      internalID: 4677547769070263608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_202
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 145
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0c92a61de734b4595c5d492e08de3e
+      internalID: -2935740040987272840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_203
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 144
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c221cada2ee61db42b350ff173f3b42d
+      internalID: 3271455570168350353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_204
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 147
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c733f87985cd066418b7f25bacef4a71
+      internalID: 4285640063779762145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_205
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 145
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e463035ca050375499c37204ef77ea80
+      internalID: 8031637230722656065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_206
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 144
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a15381a02da9e4aa068af91ab68d34
+      internalID: 6331979643150700875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_207
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 147
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dddc01d600dd348a79c4f342b9a966
+      internalID: -5335249977720111547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_208
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 145
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cf793d7ff0ce44081d1d0778822e17
+      internalID: 8000551470427424528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_209
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 144
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb7524aa05268d409404d062dc91d35
+      internalID: 6694515885356205717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_210
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 147
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad497ef26535fc4dbb2152a989d2aab
+      internalID: -7698364870905200269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_211
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 146
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e43f32baa4258428799c7fd7473294
+      internalID: 2731989844697875372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_212
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 145
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3a87f357685144e938e7829fdf9c5d
+      internalID: -3254242782889757395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_213
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 147
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582fe8ef4cfa2ba42965d718cce68397
+      internalID: -8971930835898915625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_214
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 146
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920624e279db9534d9d7bfae5cf2f980
+      internalID: 86103997865195339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_215
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 145
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2b46648879ff34a9d99be457c385db
+      internalID: -8687192662271753740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_216
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 147
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f66e20b2c5f4ad4ea7de8a2bd9318d2
+      internalID: 2692692788005260363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_217
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 146
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1e8599c6a2d594e9cb300aac2a900c
+      internalID: -4959863740355824504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_218
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 110
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717d83d5eb1f03c459a256acb1375881
+      internalID: 6494558101580899323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_219
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 112
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4d9fecef04d5f4a9e369db5f261739
+      internalID: 1406358145582646106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_220
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 111
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4efcd385a9f7b4f812721cdcd4adc7
+      internalID: 3169804501642779816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_221
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 110
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8006298cbef0142abbdb39cf8ef064
+      internalID: 8214346229451990703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_222
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 111
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b565ed86e0453444ebd99c8eb59efb6e
+      internalID: 3963043712703150243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_223
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 110
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dda3c5db35a7f429999c63baea3cd4
+      internalID: -4398609948770025477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_224
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 109
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a69094148f29d2489ee7758c610425e
+      internalID: -6312528521072859886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_225
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 112
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39a3b6324186364c9cbf8931cfa5506
+      internalID: -6526058132761039992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_226
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 111
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3182df84f8b3c1441945b99099150010
+      internalID: -3564022886706103858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_227
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 110
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e44f5251efc1614389fe76bced4529a
+      internalID: 8650084262226190508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_228
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 111
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c05dd496b430eb42a6a521a047651c9
+      internalID: -4239212321110961448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_229
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 109
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea59b055ff983ab4482031a96b5fb81c
+      internalID: -6876174747379530421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_230
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 109
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98130c570351ec44a11fc98716929e8
+      internalID: -3638819274706555533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_231
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 112
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd3b1bd6a16ee1478b2d56d97f4c578
+      internalID: -5182192651223363313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_232
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 111
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b80db77be9b56042844c8ea5ef036f9
+      internalID: 6834815307842321326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_233
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 110
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03175005704cbb34096b891fb9e4a86a
+      internalID: -1655228597313696932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_234
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 111
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94872a9df678ae468d9dbeda8368897
+      internalID: 8878668105389869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_235
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 110
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0256c6288eae34248b3e5d811d14f379
+      internalID: 7611862609307536387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_236
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 109
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25886b6e9abd744395de736207f0ff3
+      internalID: 5077238239466143164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_237
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 112
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e610816bc8ce03242b9f2f04ed2ae29f
+      internalID: -8550857154428661483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_238
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 111
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c49e2560e83f814582a5b0ba88f3f94
+      internalID: -5164653123627154167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_239
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 110
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1317fdcc53c6da84daab2a6c4c5cdf55
+      internalID: 837383359287261685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_240
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 76
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b3f35bd0c5c174b94b13eba70acaaf
+      internalID: 4817352277837768461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_241
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 74
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8444157d9183f743b9e172d803e44a5
+      internalID: 8505928657040096217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_242
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 74
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f14799cc7bf5a44196bf7fbabcf4812
+      internalID: 9118313853450743712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_243
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 77
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5581270f6c3714cbbab45d6109d781
+      internalID: -2216600828324190018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_244
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 76
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6730f82b5e62242b4096a49caa1ab5
+      internalID: 6945774950251433394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_245
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 75
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe5d9fcf5f1b034d8b7764b0c4eb48f
+      internalID: -2213150423450062299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_246
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 75
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4b03c075207a24498f0408639457a6
+      internalID: -6527979352931397958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_247
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 75
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd527d2eb1c57347bf5944ee34c58cf
+      internalID: -2471849125307680078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_248
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 75
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ec3ad0a03b7c14ba979166bdd396d7
+      internalID: 3150174973245238883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_249
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 75
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c3f337e27e7534fae91229e55a4f61
+      internalID: -3482857338837292174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_250
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 75
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e048dd0b7a1554ab7101e1889ed343
+      internalID: -504168049514087918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_251
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 75
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1704554bf9a9e40af409b0edfca891
+      internalID: 2181290136124933432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_252
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 75
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c0c8e41d8d36f408d9d85f72ae0f3b
+      internalID: -2087193046458040954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_253
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 75
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bec54c25e9bc764d9033fa83faa9d16
+      internalID: -8546939295528671101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_254
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 75
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3406ca91164ec4fb9659cae4ae0cbc
+      internalID: -4818569306632241417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_255
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 75
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cc862e87429124f9ffdddd338ae745
+      internalID: -2453656765158745150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_256
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 75
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e152d2d95335b4aa651d0b2b6ffb76
+      internalID: 4138588645953946737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_257
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 75
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a828688582e939843ba06f6d3cecd235
+      internalID: 991760314205803546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_258
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 75
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165f489dbf0ee814da12df9d04bbc043
+      internalID: 2919294104526585824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_259
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 75
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a5237c017eaaa4391267adae538da0
+      internalID: 2889090497478980596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_260
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 75
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8659ca74c7e094390206b023485efa
+      internalID: 6347723478554249320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_261
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 75
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6c129bd67886840994793f92f18689
+      internalID: -8101920774664318927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_262
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 75
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f83ffb5c1bf661488b9218542849cd4
+      internalID: -5403909120697702543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_263
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 75
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaec303280e361440a6c3ce518be03be
+      internalID: 5490059114313212059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_264
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 40
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cdc46c6ee0cdb42b876e1b7ed837c0
+      internalID: 5970607755258047307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_265
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 40
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad7ba1404d08334dab74072ab3d126d
+      internalID: -1229807053031655659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_266
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 40
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0c480703b05a740ab3642f7105cae8
+      internalID: -3971270251949209380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_267
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 40
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641022304305615448dc0b4705ed98e0
+      internalID: -415722417685447992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_268
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 40
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2328eae51adc5f3438f43e188e220f08
+      internalID: 7675026832350347129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_269
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 40
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db597549acfc5284eb84500d0416cefd
+      internalID: -509523281137149732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_270
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 41
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a1c66afd2a6b3429d8714a720c5b39
+      internalID: 7731137512723856896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_271
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 40
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c264dada09f054090538573b910872
+      internalID: 3155105859823554004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_272
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 40
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5827a710fb7ebaa479d3d110c92588fe
+      internalID: -2834710184383357491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_273
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 41
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b0c35f03b7d9248890dcac52afa8dc
+      internalID: 3172989119511424942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_274
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 40
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25913450e99e8b8478e86fdb9e2a3702
+      internalID: -6905943304335183278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_275
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 40
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c239af5e21f38944a9373c2b1714a1fa
+      internalID: -2025110596499136754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_276
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 41
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5f3257cf90e1e4697711edf3b020de
+      internalID: 3970474638688193433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_277
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 40
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cb3a9cbfe614a46807b756c020c419
+      internalID: 1754171818926423930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_278
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 40
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4918c58d1e20443abceaeac5066556
+      internalID: 6999379088793817641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_279
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 41
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127100182a18ec742b0e1abf93b50c87
+      internalID: -4933727748760530849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_280
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 40
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74e1451e3cc9ea438aa78ea3287fc5b
+      internalID: 5143126420302870012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_281
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 40
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdefb902064f75a45b98d72c047f248b
+      internalID: -3114147337035472903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_282
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 41
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07769972c39e6f3418c5f0a3b1929200
+      internalID: -1713690336948704667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_283
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 40
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1ad329d89673242838305f3b59d16c
+      internalID: 744681326717166670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_284
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 40
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a325d2c77b9e044ad11ac28e2a02ba
+      internalID: 395113967203160807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_285
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 41
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88214a227f490144b3a93609b4e067d
+      internalID: 60923914018937339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_286
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 40
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e098efbd25f6ed4ea1e76185d803def
+      internalID: 465514029497126233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_287
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 40
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa238b083f825e42959d5f11e432bb0
+      internalID: 777914814643919575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_288
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 41
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97cbe2d312b18646b752b9e79ca4a89
+      internalID: 1586404306066345221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_289
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 40
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25297db1a5a252a48b2f36fb7bf61f37
+      internalID: 4132428677199848649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_290
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3161dc64295024a9343f0281d1f6df
+      internalID: -5680732656441231947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_291
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 7
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ec547e9162f8f43b7ef07b404b71cb
+      internalID: 8570544947733580263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_292
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 6
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc5e14a1159cf542b323d799888f90f
+      internalID: -2747974485005501745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ophilia_293
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 6
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182b70635f3151d4994817f14fa691ff
+      internalID: -7561624403885873380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0468ff6bbd77f964e9fa2675b3074c6e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

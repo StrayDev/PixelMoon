@@ -1,0 +1,6679 @@
+fileFormatVersion: 2
+guid: c13e48934829cf84e9ef5b58236cbfaf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 283762500543899790
+    second: primrose_0
+  - first:
+      213: -2379143828825300215
+    second: primrose_1
+  - first:
+      213: -4283880453308823459
+    second: primrose_2
+  - first:
+      213: -249673148250466610
+    second: primrose_3
+  - first:
+      213: -8180100017992109082
+    second: primrose_4
+  - first:
+      213: 5028386281403450890
+    second: primrose_5
+  - first:
+      213: -3861702882619862396
+    second: primrose_6
+  - first:
+      213: 3264728332773614437
+    second: primrose_7
+  - first:
+      213: 1463571741738247535
+    second: primrose_8
+  - first:
+      213: 6729425015717085684
+    second: primrose_9
+  - first:
+      213: -3627325200604433895
+    second: primrose_10
+  - first:
+      213: 71529462298168797
+    second: primrose_11
+  - first:
+      213: -2156200181063093135
+    second: primrose_12
+  - first:
+      213: 3285057940199007473
+    second: primrose_13
+  - first:
+      213: 2792777460761109247
+    second: primrose_14
+  - first:
+      213: 557654078068893978
+    second: primrose_15
+  - first:
+      213: 4049014161949117287
+    second: primrose_16
+  - first:
+      213: -3006817046882367703
+    second: primrose_17
+  - first:
+      213: -5238669850143195652
+    second: primrose_18
+  - first:
+      213: 8793421839352636280
+    second: primrose_19
+  - first:
+      213: 1514311457078988276
+    second: primrose_20
+  - first:
+      213: -8146617172315955325
+    second: primrose_21
+  - first:
+      213: 733604457167095572
+    second: primrose_22
+  - first:
+      213: 1737940316801871261
+    second: primrose_23
+  - first:
+      213: 3118810602918199511
+    second: primrose_24
+  - first:
+      213: 8542281167117497443
+    second: primrose_25
+  - first:
+      213: 7300570108478777491
+    second: primrose_26
+  - first:
+      213: -5190697006975640640
+    second: primrose_27
+  - first:
+      213: 8323067517058652883
+    second: primrose_28
+  - first:
+      213: 1151601607985816154
+    second: primrose_29
+  - first:
+      213: 5801017647850553645
+    second: primrose_30
+  - first:
+      213: 6737406701108944744
+    second: primrose_31
+  - first:
+      213: -9198283187259992810
+    second: primrose_32
+  - first:
+      213: -4809744436050420173
+    second: primrose_33
+  - first:
+      213: 7545638674553239168
+    second: primrose_34
+  - first:
+      213: 620085132576339322
+    second: primrose_35
+  - first:
+      213: 5223796688906537264
+    second: primrose_36
+  - first:
+      213: 7946854353630022800
+    second: primrose_37
+  - first:
+      213: -2220731852943594317
+    second: primrose_38
+  - first:
+      213: -1386488372740316712
+    second: primrose_39
+  - first:
+      213: 3076625187016954750
+    second: primrose_40
+  - first:
+      213: 3865961167766411090
+    second: primrose_41
+  - first:
+      213: -9115242165388707543
+    second: primrose_42
+  - first:
+      213: 4711973051818622763
+    second: primrose_43
+  - first:
+      213: -8224411963480578615
+    second: primrose_44
+  - first:
+      213: 974813439326575246
+    second: primrose_45
+  - first:
+      213: -2253572708173020861
+    second: primrose_46
+  - first:
+      213: 1938753406501164188
+    second: primrose_47
+  - first:
+      213: -8105375594709052795
+    second: primrose_48
+  - first:
+      213: 4476686453361933813
+    second: primrose_49
+  - first:
+      213: -1237826635562778437
+    second: primrose_50
+  - first:
+      213: -5303839668375546156
+    second: primrose_51
+  - first:
+      213: 7216902391104177530
+    second: primrose_52
+  - first:
+      213: -4320015427260447711
+    second: primrose_53
+  - first:
+      213: 6058947870294791256
+    second: primrose_54
+  - first:
+      213: -7033855428436980293
+    second: primrose_55
+  - first:
+      213: -6050363578161475589
+    second: primrose_56
+  - first:
+      213: -7789641918955418517
+    second: primrose_57
+  - first:
+      213: -3315756773112235396
+    second: primrose_58
+  - first:
+      213: 4157579624008915370
+    second: primrose_59
+  - first:
+      213: -7141874234954187945
+    second: primrose_60
+  - first:
+      213: -6457854801263604338
+    second: primrose_61
+  - first:
+      213: -1910527433881001342
+    second: primrose_62
+  - first:
+      213: -1117167783338303273
+    second: primrose_63
+  - first:
+      213: 4081277573812317208
+    second: primrose_64
+  - first:
+      213: -6931521959131808266
+    second: primrose_65
+  - first:
+      213: 8840956883975491908
+    second: primrose_66
+  - first:
+      213: -5139818010292447027
+    second: primrose_67
+  - first:
+      213: 7901055185597026236
+    second: primrose_68
+  - first:
+      213: -3612403065119222095
+    second: primrose_69
+  - first:
+      213: -2511795494689270851
+    second: primrose_70
+  - first:
+      213: -1465054314396025717
+    second: primrose_71
+  - first:
+      213: -1420716867441770453
+    second: primrose_72
+  - first:
+      213: -5306920860246638717
+    second: primrose_73
+  - first:
+      213: -8006762535548116037
+    second: primrose_74
+  - first:
+      213: -3759352863675564781
+    second: primrose_75
+  - first:
+      213: 7134981191268671839
+    second: primrose_76
+  - first:
+      213: 858163401576010307
+    second: primrose_77
+  - first:
+      213: 3122046200984723812
+    second: primrose_78
+  - first:
+      213: -487839230204636637
+    second: primrose_79
+  - first:
+      213: 6701285640390029381
+    second: primrose_80
+  - first:
+      213: -4568979231522784541
+    second: primrose_81
+  - first:
+      213: 8835536154590439691
+    second: primrose_82
+  - first:
+      213: 8935243866619781703
+    second: primrose_83
+  - first:
+      213: -4340491614478874182
+    second: primrose_84
+  - first:
+      213: -6122847101828116597
+    second: primrose_85
+  - first:
+      213: -7092554829878241012
+    second: primrose_86
+  - first:
+      213: -3814117028803963057
+    second: primrose_87
+  - first:
+      213: 6280827229732295565
+    second: primrose_88
+  - first:
+      213: -771060472235756725
+    second: primrose_89
+  - first:
+      213: -2364856660958490880
+    second: primrose_90
+  - first:
+      213: 2361690390302237109
+    second: primrose_91
+  - first:
+      213: -7337889743359743764
+    second: primrose_92
+  - first:
+      213: 8436699692952960749
+    second: primrose_93
+  - first:
+      213: -2624643099247107860
+    second: primrose_94
+  - first:
+      213: -4160356939820675195
+    second: primrose_95
+  - first:
+      213: 3013439247146517294
+    second: primrose_96
+  - first:
+      213: 8949059348201257262
+    second: primrose_97
+  - first:
+      213: 1347364879054754830
+    second: primrose_98
+  - first:
+      213: 7648752935458300685
+    second: primrose_99
+  - first:
+      213: 3604427372561884380
+    second: primrose_100
+  - first:
+      213: -8387516172077073518
+    second: primrose_101
+  - first:
+      213: -3497371262675878130
+    second: primrose_102
+  - first:
+      213: -2173054643778732901
+    second: primrose_103
+  - first:
+      213: 2950706553196429790
+    second: primrose_104
+  - first:
+      213: -2804272268271103998
+    second: primrose_105
+  - first:
+      213: -4957795904322194575
+    second: primrose_106
+  - first:
+      213: -3699312335618671618
+    second: primrose_107
+  - first:
+      213: 2517323436431437023
+    second: primrose_108
+  - first:
+      213: -5557604037772814569
+    second: primrose_109
+  - first:
+      213: -7137521105281049154
+    second: primrose_110
+  - first:
+      213: -6094221328065670197
+    second: primrose_111
+  - first:
+      213: -5679776368365394843
+    second: primrose_112
+  - first:
+      213: 4543172421287926615
+    second: primrose_113
+  - first:
+      213: 595869766686932569
+    second: primrose_114
+  - first:
+      213: -9088916483529652838
+    second: primrose_115
+  - first:
+      213: -572202697733322124
+    second: primrose_116
+  - first:
+      213: -3622190934422823122
+    second: primrose_117
+  - first:
+      213: 5660440727008097948
+    second: primrose_118
+  - first:
+      213: 6929129928951041209
+    second: primrose_119
+  - first:
+      213: -1829439247340457508
+    second: primrose_120
+  - first:
+      213: 1826678575981268657
+    second: primrose_121
+  - first:
+      213: -3571811384992639135
+    second: primrose_122
+  - first:
+      213: -196975227865493475
+    second: primrose_123
+  - first:
+      213: 6417962644098945998
+    second: primrose_124
+  - first:
+      213: 5795506330390808
+    second: primrose_125
+  - first:
+      213: -5581201299532182257
+    second: primrose_126
+  - first:
+      213: -7451271736862678286
+    second: primrose_127
+  - first:
+      213: 708554735607483745
+    second: primrose_128
+  - first:
+      213: -6340808993946080806
+    second: primrose_129
+  - first:
+      213: -8393953690573322260
+    second: primrose_130
+  - first:
+      213: 3966572040322307250
+    second: primrose_131
+  - first:
+      213: 9117160519708707779
+    second: primrose_132
+  - first:
+      213: -186558148461655684
+    second: primrose_133
+  - first:
+      213: 6689566755838677503
+    second: primrose_134
+  - first:
+      213: 4628647435531853541
+    second: primrose_135
+  - first:
+      213: -5758524060663517925
+    second: primrose_136
+  - first:
+      213: -8852934064734443655
+    second: primrose_137
+  - first:
+      213: -3939974846767816784
+    second: primrose_138
+  - first:
+      213: -6450332871762313527
+    second: primrose_139
+  - first:
+      213: 1189241694358494619
+    second: primrose_140
+  - first:
+      213: -3866453301681889947
+    second: primrose_141
+  - first:
+      213: -177441864624068672
+    second: primrose_142
+  - first:
+      213: -1516885149236068697
+    second: primrose_143
+  - first:
+      213: 1525804277285151328
+    second: primrose_144
+  - first:
+      213: -3601123189134853880
+    second: primrose_145
+  - first:
+      213: -4186524465752786132
+    second: primrose_146
+  - first:
+      213: 664925483730976419
+    second: primrose_147
+  - first:
+      213: 8246049495652593729
+    second: primrose_148
+  - first:
+      213: -3908072897615741548
+    second: primrose_149
+  - first:
+      213: -5204903609748884912
+    second: primrose_150
+  - first:
+      213: -5879194342639975292
+    second: primrose_151
+  - first:
+      213: -239086843550302676
+    second: primrose_152
+  - first:
+      213: 575469502011498165
+    second: primrose_153
+  - first:
+      213: -3599404425862255618
+    second: primrose_154
+  - first:
+      213: -3759936475726691690
+    second: primrose_155
+  - first:
+      213: 7276391395870033043
+    second: primrose_156
+  - first:
+      213: 3312492908110148307
+    second: primrose_157
+  - first:
+      213: -8445175434682395349
+    second: primrose_158
+  - first:
+      213: 6613460120897769513
+    second: primrose_159
+  - first:
+      213: -6691810969040008400
+    second: primrose_160
+  - first:
+      213: -8875966157190980503
+    second: primrose_161
+  - first:
+      213: -6883268404773336639
+    second: primrose_162
+  - first:
+      213: -9104837516344290341
+    second: primrose_163
+  - first:
+      213: -5144658145400503591
+    second: primrose_164
+  - first:
+      213: 8941472583276682231
+    second: primrose_165
+  - first:
+      213: 1977410197997753375
+    second: primrose_166
+  - first:
+      213: 2805212391239409398
+    second: primrose_167
+  - first:
+      213: 5918814025134439168
+    second: primrose_168
+  - first:
+      213: -2555757090253250500
+    second: primrose_169
+  - first:
+      213: -3281028456484513582
+    second: primrose_170
+  - first:
+      213: -5571566393704085960
+    second: primrose_171
+  - first:
+      213: 3438952845584443320
+    second: primrose_172
+  - first:
+      213: 7405143038027437727
+    second: primrose_173
+  - first:
+      213: -5010595439828058076
+    second: primrose_174
+  - first:
+      213: -7740021015894523321
+    second: primrose_175
+  - first:
+      213: 6938671284074077156
+    second: primrose_176
+  - first:
+      213: -7928083926514367875
+    second: primrose_177
+  - first:
+      213: 4652494053438863005
+    second: primrose_178
+  - first:
+      213: 6206819278314726053
+    second: primrose_179
+  - first:
+      213: 8200129530838260602
+    second: primrose_180
+  - first:
+      213: 8113793910240221724
+    second: primrose_181
+  - first:
+      213: 5202375368828905112
+    second: primrose_182
+  - first:
+      213: 4255339726517609435
+    second: primrose_183
+  - first:
+      213: 499361694962218674
+    second: primrose_184
+  - first:
+      213: 6346658488075410682
+    second: primrose_185
+  - first:
+      213: 429394201028300065
+    second: primrose_186
+  - first:
+      213: 15725685644720857
+    second: primrose_187
+  - first:
+      213: -262884687662021935
+    second: primrose_188
+  - first:
+      213: -8822942112564689572
+    second: primrose_189
+  - first:
+      213: -5068317972856324660
+    second: primrose_190
+  - first:
+      213: -4541636225621087503
+    second: primrose_191
+  - first:
+      213: 1043131414903083385
+    second: primrose_192
+  - first:
+      213: 1466987671686778738
+    second: primrose_193
+  - first:
+      213: 1743426561737596882
+    second: primrose_194
+  - first:
+      213: 5962490843713910018
+    second: primrose_195
+  - first:
+      213: 3490749903889414484
+    second: primrose_196
+  - first:
+      213: -4637941529355518681
+    second: primrose_197
+  - first:
+      213: -4978914700914988892
+    second: primrose_198
+  - first:
+      213: -2279688892850717140
+    second: primrose_199
+  - first:
+      213: 5812106754111737885
+    second: primrose_200
+  - first:
+      213: -230964072171867723
+    second: primrose_201
+  - first:
+      213: -6759407434224937675
+    second: primrose_202
+  - first:
+      213: -8961505148548463539
+    second: primrose_203
+  - first:
+      213: -2023823163671171509
+    second: primrose_204
+  - first:
+      213: 3274311992646400126
+    second: primrose_205
+  - first:
+      213: 1161729608356707332
+    second: primrose_206
+  - first:
+      213: -1377750318773634143
+    second: primrose_207
+  - first:
+      213: -5903885046928164486
+    second: primrose_208
+  - first:
+      213: 850185412546539816
+    second: primrose_209
+  - first:
+      213: -7303037895837541686
+    second: primrose_210
+  - first:
+      213: 6612983167010168664
+    second: primrose_211
+  - first:
+      213: 8677976226641725922
+    second: primrose_212
+  - first:
+      213: 5335636175268767056
+    second: primrose_213
+  - first:
+      213: -8237647396446404779
+    second: primrose_214
+  - first:
+      213: 2471777779850294161
+    second: primrose_215
+  - first:
+      213: -5469002429756569577
+    second: primrose_216
+  - first:
+      213: 803910343424189965
+    second: primrose_217
+  - first:
+      213: 6237955200676340228
+    second: primrose_218
+  - first:
+      213: 6440000482901647844
+    second: primrose_219
+  - first:
+      213: 8388970546606449431
+    second: primrose_220
+  - first:
+      213: -4644831381851325598
+    second: primrose_221
+  - first:
+      213: 4657935585131009166
+    second: primrose_222
+  - first:
+      213: 666472352896774055
+    second: primrose_223
+  - first:
+      213: -4898789890068393369
+    second: primrose_224
+  - first:
+      213: -2830942186218738929
+    second: primrose_225
+  - first:
+      213: -6568764804430875084
+    second: primrose_226
+  - first:
+      213: 3781804498123526554
+    second: primrose_227
+  - first:
+      213: -5918991192982341562
+    second: primrose_228
+  - first:
+      213: 992904808856963263
+    second: primrose_229
+  - first:
+      213: 8547820522249479669
+    second: primrose_230
+  - first:
+      213: 2770786513977216408
+    second: primrose_231
+  - first:
+      213: 3868365344459002182
+    second: primrose_232
+  - first:
+      213: -7091658631883636559
+    second: primrose_233
+  - first:
+      213: 8181212559491716572
+    second: primrose_234
+  - first:
+      213: -1102184269269199591
+    second: primrose_235
+  - first:
+      213: 4318771391974740660
+    second: primrose_236
+  - first:
+      213: 4581013310824404917
+    second: primrose_237
+  - first:
+      213: -7011257286443967851
+    second: primrose_238
+  - first:
+      213: 6191146665335418630
+    second: primrose_239
+  - first:
+      213: -2431182970586551242
+    second: primrose_240
+  - first:
+      213: -3869363011697585490
+    second: primrose_241
+  - first:
+      213: 4796335067931165416
+    second: primrose_242
+  - first:
+      213: -620102566509610255
+    second: primrose_243
+  - first:
+      213: -2159922473059594978
+    second: primrose_244
+  - first:
+      213: 7149843320186249699
+    second: primrose_245
+  - first:
+      213: 6782951541443916062
+    second: primrose_246
+  - first:
+      213: -5474608031381425725
+    second: primrose_247
+  - first:
+      213: 3276897929441064816
+    second: primrose_248
+  - first:
+      213: 6491270126152928025
+    second: primrose_249
+  - first:
+      213: -855033294271974313
+    second: primrose_250
+  - first:
+      213: 2531341734946879459
+    second: primrose_251
+  - first:
+      213: -1002995740692490924
+    second: primrose_252
+  - first:
+      213: -2488831036408633673
+    second: primrose_253
+  - first:
+      213: 4119440376078729955
+    second: primrose_254
+  - first:
+      213: -6434199573745251849
+    second: primrose_255
+  - first:
+      213: 8704250558741074415
+    second: primrose_256
+  - first:
+      213: -4866371376521874835
+    second: primrose_257
+  - first:
+      213: 5271536435624508900
+    second: primrose_258
+  - first:
+      213: -2432321100002904913
+    second: primrose_259
+  - first:
+      213: 1696098026324387900
+    second: primrose_260
+  - first:
+      213: 6911401972735234207
+    second: primrose_261
+  - first:
+      213: -2633636768443438982
+    second: primrose_262
+  - first:
+      213: -5782170975368506746
+    second: primrose_263
+  - first:
+      213: 6848210639847087002
+    second: primrose_264
+  - first:
+      213: -3505024234177913253
+    second: primrose_265
+  - first:
+      213: 5940602949209221757
+    second: primrose_266
+  - first:
+      213: -2766854312019335387
+    second: primrose_267
+  - first:
+      213: -532886147430618845
+    second: primrose_268
+  - first:
+      213: -1065387909376100186
+    second: primrose_269
+  - first:
+      213: 2578009351022614237
+    second: primrose_270
+  - first:
+      213: -2959386395912029934
+    second: primrose_271
+  - first:
+      213: 6650920869785696250
+    second: primrose_272
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: primrose_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 477
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a23b9e23eb2d7144b583018d93ad466
+      internalID: 283762500543899790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 477
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f708d69575a0f24e8918129685b35e9
+      internalID: -2379143828825300215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 477
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f64cd4522f8ee242a467691058d4428
+      internalID: -4283880453308823459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 477
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b8596e11d5dc24cbc417ce88a6e2e7
+      internalID: -249673148250466610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 477
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21c74fa9d1371e45a3d658785e94308
+      internalID: -8180100017992109082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 477
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9ff2f04e72d764188673d8886cd415
+      internalID: 5028386281403450890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 477
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8270ab6b0e4bb74c8339ef481db8d64
+      internalID: -3861702882619862396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 477
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14b8dbebbf03bb4bb29b446f0dff3a1
+      internalID: 3264728332773614437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_8
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 477
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3494e258fcbac48892584a4e46b38f
+      internalID: 1463571741738247535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_9
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 477
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6d4e7b79b1fd842b0eaccab730945a
+      internalID: 6729425015717085684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5b87e123c10154ea1f2f52c9f56902
+      internalID: -3627325200604433895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 480
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75aa877a55a96ad4a835f6f8a9d0d1d2
+      internalID: 71529462298168797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_12
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 476
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d943e3b08392c48bc87491526fd4b4
+      internalID: -2156200181063093135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_13
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 476
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cad77d100575142ae0e359c68ff385
+      internalID: 3285057940199007473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_14
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 477
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f845f420ef012694c9d052216942a32e
+      internalID: 2792777460761109247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_15
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 477
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25312e1c7650b904db41d89c3db08343
+      internalID: 557654078068893978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 477
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66543ddcb2fb09c4dbbcf8845421ffa5
+      internalID: 4049014161949117287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_17
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 477
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4874fc20427604f4694ac402be8f182b
+      internalID: -3006817046882367703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_18
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 477
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0661bda9105a04684b89f305f79ef2
+      internalID: -5238669850143195652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_19
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 477
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d679537430cfe4fbff3b364ae3c1d1
+      internalID: 8793421839352636280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_20
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 477
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139e9a112778a8341b898f622e975d73
+      internalID: 1514311457078988276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_21
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 477
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8ecf79a092cd64190ee33b1aa6ea14
+      internalID: -8146617172315955325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_22
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 477
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553ba3ec4c3d12944be5430531a2ab7e
+      internalID: 733604457167095572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_23
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 477
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937c4606a59c296438fb5d074984e080
+      internalID: 1737940316801871261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 450
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabd19b4d1af31f46a8121b35edcf26b
+      internalID: 3118810602918199511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 450
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1edbca6607ab9a4aa3c5c931ff2bf49
+      internalID: 8542281167117497443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_26
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 450
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a9325642af0aa46904346587c022a0
+      internalID: 7300570108478777491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_27
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 450
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6804707911ecf48a96f84ea86bd25d
+      internalID: -5190697006975640640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_28
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 450
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98d3ef06a439a34589f05d53d262533
+      internalID: 8323067517058652883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 450
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5da4ae078dbe7d4da049f15bfe309d5
+      internalID: 1151601607985816154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_30
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 450
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5fbc7dd89aaab4b9704f71a74e7aff
+      internalID: 5801017647850553645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 450
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f702d9aa52d3043b21de36dee94525
+      internalID: 6737406701108944744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_32
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 442
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739243ff8e9f453419eafe23ea0370e2
+      internalID: -9198283187259992810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 437
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9706049409d012b4ba93414afbaf12e1
+      internalID: -4809744436050420173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_34
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 445
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a4831caefb4b742ac20389a16fefe3
+      internalID: 7545638674553239168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_35
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 446
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3850ca7878a7e0a43a427832b46fdc87
+      internalID: 620085132576339322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_36
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 446
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7031fc5ca35b0704b9d9a5e08fcdbce7
+      internalID: 5223796688906537264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_37
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 445
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eed0413f7c10844a0679854564859a
+      internalID: 7946854353630022800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_38
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 443
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc939d0248793b408a126ca9c58ac7b
+      internalID: -2220731852943594317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_39
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 441
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10b187e423523a44b4f1ac2f9005768
+      internalID: -1386488372740316712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_40
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 442
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a48632b7b2972349939b86f4fe76987
+      internalID: 3076625187016954750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_41
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 437
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5677a0a9568afa45b57a300fe049ce3
+      internalID: 3865961167766411090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_42
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 445
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80894418817bf5a4595099e20337d938
+      internalID: -9115242165388707543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 407
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a37555f3e19fd459b1aca62fdfdbf3
+      internalID: 4711973051818622763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_44
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 407
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a6c9b9f0a06db46af7f6900fdea716
+      internalID: -8224411963480578615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_45
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 406
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd8b40450facd94faa37bcf5714539d
+      internalID: 974813439326575246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_46
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 404
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932221aae3875774f9c0b7455e2a356a
+      internalID: -2253572708173020861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_47
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 402
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19ba6f411c2db840977d4048d6b67b9
+      internalID: 1938753406501164188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_48
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 403
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7475b2a7db53d9542a227d1fa162edb3
+      internalID: -8105375594709052795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_49
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 404
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c233c31a8436bb43940cdae4243bc2c
+      internalID: 4476686453361933813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_50
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 404
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec79cd9287dfd634a818161797be22ab
+      internalID: -1237826635562778437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_51
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 403
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8395b085167254eb41d4f18b8ae810
+      internalID: -5303839668375546156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 402
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a3b77a80bd34b4582c8b74af0a54da
+      internalID: 7216902391104177530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_53
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 403
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a240cd317ee2648854f3f173c3a5b4
+      internalID: -4320015427260447711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 369
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9298d17c345f334d84b0b666583ce26
+      internalID: 6058947870294791256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_55
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 369
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f1335557db39e42a3dfa0f4b86022c
+      internalID: -7033855428436980293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_56
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 368
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece62e24b0b4de2469ba48d75642a9e2
+      internalID: -6050363578161475589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_57
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 367
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491f405c3e3286d4ca537cea73fd8d4f
+      internalID: -7789641918955418517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_58
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 368
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57233c4665e1b124fb69dc5a1c9bf20a
+      internalID: -3315756773112235396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_59
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 369
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8a5bc8da631114a9201cebd7384604
+      internalID: 4157579624008915370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_60
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 369
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f417a532bc8b74986c0a94ad579bb8
+      internalID: -7141874234954187945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_61
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 369
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad152bbf7ce0d9e4280e2391121abf02
+      internalID: -6457854801263604338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_62
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 369
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e390b745b8401d4893c15351f189f71
+      internalID: -1910527433881001342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 368
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444f331be6fe2554b892db337f4be061
+      internalID: -1117167783338303273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_64
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 367
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dadead18ad8a8641b6c3b7de5318618
+      internalID: 4081277573812317208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_65
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 368
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ed1059601c3414ab1cc643d7e93d91
+      internalID: -6931521959131808266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_66
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 369
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a320361d09ed1d41b46af93cf5f383f
+      internalID: 8840956883975491908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_67
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 369
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0632545f5bb268344becc2dd37440e5b
+      internalID: -5139818010292447027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_68
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 369
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420cd044727e5dc42be3198cd82746ad
+      internalID: 7901055185597026236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_69
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 369
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f5e82b1a342594197676c40bd7cbce
+      internalID: -3612403065119222095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_70
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 368
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9159f2da4f149c94fa88db0af879e10d
+      internalID: -2511795494689270851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_71
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 367
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ac10f0308e4ec46a105ea3e9bc43f5
+      internalID: -1465054314396025717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 333
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0332fb221508504595c1bca011e9754
+      internalID: -1420716867441770453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_73
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 334
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6a33f8eeeff63428b0a257d49a3a2b
+      internalID: -5306920860246638717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_74
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 334
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda3405f0df7ebc4388c970c13518546
+      internalID: -8006762535548116037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_75
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 333
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e339eab8ee928f64d86015bda75c7bbd
+      internalID: -3759352863675564781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_76
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 332
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63e5daca7b434542b99ecedf62201cf
+      internalID: 7134981191268671839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_77
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 333
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b628f87269c8ec940a5693cf7d651a95
+      internalID: 858163401576010307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_78
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 334
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4039d3b701e18408666f9109ffc054
+      internalID: 3122046200984723812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_79
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 334
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bee5728aeee4c4f8ffa90fdb8ce660
+      internalID: -487839230204636637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_80
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 333
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6de41a0eee12814791d82472df9a37a
+      internalID: 6701285640390029381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_81
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 335
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af033e7e91dd3cd4897b41c12326c81a
+      internalID: -4568979231522784541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_82
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 335
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d621bd78da1883f4fa6be2c75ba845fa
+      internalID: 8835536154590439691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_83
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 332
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04d2c3b49e34b84f9e14fe587eae8b2
+      internalID: 8935243866619781703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_84
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 332
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10166d67f8ad5e147af6adb260b428f0
+      internalID: -4340491614478874182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_85
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 332
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3f3a778fa651248b2690bd03c1cd3e
+      internalID: -6122847101828116597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_86
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 332
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0c18fa64f485740a6de0aafa703f4d
+      internalID: -7092554829878241012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_87
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 332
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4092ecd66638c14bab5b1f9fc697568
+      internalID: -3814117028803963057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_88
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 332
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a003ba2a8ce7c4684aa8bc1ae4b779
+      internalID: 6280827229732295565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_89
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 332
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420a96cf964d6be42b3672fb40f35f50
+      internalID: -771060472235756725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 297
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31f9f6b83fcccc45bdff635ca24f50d
+      internalID: -2364856660958490880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_91
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 297
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325bb4dbdede62e40bd826df3ce83017
+      internalID: 2361690390302237109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_92
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 297
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f1f9313a0c1884bb5620dddeb829db
+      internalID: -7337889743359743764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_93
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 296
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f9ba8e45cd0674f89f589c046a669d
+      internalID: 8436699692952960749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_94
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 297
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43333988e9a43545b1787c6891623c9
+      internalID: -2624643099247107860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_95
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 297
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23008eab5d87e574fbd99539162bfcb3
+      internalID: -4160356939820675195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_96
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 296
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d9d944b51fea541a945bd625d739ac
+      internalID: 3013439247146517294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_97
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 297
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0860945f68dd5d64295c722beb7e929c
+      internalID: 8949059348201257262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_98
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 297
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b77e7c6496701c4ca22c8c8bcf57d30
+      internalID: 1347364879054754830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_99
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 297
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e387b98bf0a719f45bfdefd4fffdb0f4
+      internalID: 7648752935458300685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_100
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 297
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07134564b1fc77847851b805afaa40d7
+      internalID: 3604427372561884380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_101
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 297
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104f6e2132002bf42986fb97cdbc81a7
+      internalID: -8387516172077073518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_102
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 297
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2f52db016f63d46ab6d69d50fb2a2f
+      internalID: -3497371262675878130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_103
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 297
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5c7c023d2a8c64687705e343302fb0
+      internalID: -2173054643778732901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_104
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 297
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d7ec01f0a9f044cbeb273cd68f9fab
+      internalID: 2950706553196429790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_105
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 297
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994f2c1267163aa4a9e68c4ecbc4e5ea
+      internalID: -2804272268271103998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_106
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 297
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af667ce5ac900341a08fe87be56a92d
+      internalID: -4957795904322194575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_107
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 297
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5764afe662287a547a2fd2a17cb75697
+      internalID: -3699312335618671618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_108
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 297
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bb902ca2bcc29499705ec42ac599b4
+      internalID: 2517323436431437023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_109
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 298
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3685a4775cb74f648bbd7ab1b2eb9265
+      internalID: -5557604037772814569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_110
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 262
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f512c601199a3eb45acfe9e0a5e18d3d
+      internalID: -7137521105281049154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_111
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 283
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4001c83d102e449931963b3601afbe
+      internalID: -6094221328065670197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_112
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 283
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9f091fcbe92e44ab4ccca936db4e39
+      internalID: -5679776368365394843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_113
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 262
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2444405f3e95f74a82d319c30bf135d
+      internalID: 4543172421287926615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_114
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 262
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeca99753d2a3974d87eeacf35fb6485
+      internalID: 595869766686932569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_115
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 263
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6310abdddc4bb4f88341f4c293ef81
+      internalID: -9088916483529652838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_116
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 263
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fdaa1d1e3021e4cab5c811439fb3d0
+      internalID: -572202697733322124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_117
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 263
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4349e211ff7de07449ee6fe3d91477d8
+      internalID: -3622190934422823122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_118
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 263
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c4061c00497f54c9ad0f2450459079
+      internalID: 5660440727008097948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_119
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 263
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66512e25e85eb5e40946e97ad5010a20
+      internalID: 6929129928951041209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_120
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 263
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb560abe20d3b6248a982caa72662745
+      internalID: -1829439247340457508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_121
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 261
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7218675bde5c6114390c1de3593cf908
+      internalID: 1826678575981268657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_122
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 261
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff45aa9e9b08bf4b9dc27d4324eb7cb
+      internalID: -3571811384992639135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_123
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 261
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a6204ef6c1a8d4b9736a4ebb9857cc
+      internalID: -196975227865493475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_124
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 261
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa9995f5ce077e4abee5b9496ad3f5c
+      internalID: 6417962644098945998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_125
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 261
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cbaa2ae571eab4d94f1eba91d9a056
+      internalID: 5795506330390808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_126
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 261
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0730829d552243442b7b0912f3c16b8c
+      internalID: -5581201299532182257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_127
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 261
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d42e92a7297a0b439c101a1740abb0b
+      internalID: -7451271736862678286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_128
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 261
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16693639bb0236479a8d16af208be37
+      internalID: 708554735607483745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_129
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 261
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5083f7cc40f5bbc43acb25ed64b1060d
+      internalID: -6340808993946080806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_130
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 263
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eca05d682f549f41954aa7bfd82d81b
+      internalID: -8393953690573322260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_131
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 228
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5763805461cddb46a5e63b7b3e39e46
+      internalID: 3966572040322307250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_132
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 226
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ce8093ebfdd8d46b403f074fe9f945
+      internalID: 9117160519708707779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_133
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 226
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71e34a6b379b6249b108010ab6cbd6b
+      internalID: -186558148461655684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_134
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 226
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9685cc2f5a29034dab13aa05facd914
+      internalID: 6689566755838677503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_135
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 226
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f2df2dd25e6334ab1730771c56d7ac
+      internalID: 4628647435531853541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_136
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 226
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada572f93dd19014d9393d767fdf92ed
+      internalID: -5758524060663517925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_137
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 226
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9307aa09614e64fb98d158792e0997
+      internalID: -8852934064734443655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_138
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 226
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc350aa0b221eea4b824852bc93181e6
+      internalID: -3939974846767816784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_139
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 226
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684b57d36c012094d9a13a6dad57fe57
+      internalID: -6450332871762313527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_140
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 226
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a062c39e45a1f449378072a5f31028
+      internalID: 1189241694358494619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_141
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 226
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5f3a073c76dfd4d93dd1ae5c83f54a
+      internalID: -3866453301681889947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_142
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 226
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bc01561d223b6409477d9f4d17f82a
+      internalID: -177441864624068672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_143
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 226
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3891d93b4a0b91428feed67793dbb14
+      internalID: -1516885149236068697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_144
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 226
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e470577b919e8c44b74fbcc2823c82b
+      internalID: 1525804277285151328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_145
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 226
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e23df15e7c2b448ad0edf5aea78f87
+      internalID: -3601123189134853880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_146
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 226
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c20e193688bc044afef6ade1c4cd35
+      internalID: -4186524465752786132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_147
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 226
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9d417e4686122459e7e7fe6b3a04b3
+      internalID: 664925483730976419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_148
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 226
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116dddf6da8b5f4479d03f7f3e8760e9
+      internalID: 8246049495652593729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_149
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 226
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf984dac80d7994f9196f7c08d4bbfd
+      internalID: -3908072897615741548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_150
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 226
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7009419a9d139428276683ac36a83c
+      internalID: -5204903609748884912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_151
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 226
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e8f604276135d428a65b548b9f71d2
+      internalID: -5879194342639975292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_152
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 226
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45eb52a19a597b4b9d96808f478eed5
+      internalID: -239086843550302676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_153
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 227
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5e1edc786b5eb4c8b753436a982588
+      internalID: 575469502011498165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_154
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 227
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0b92fc1547e234290548497f2c7ad0
+      internalID: -3599404425862255618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_155
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 192
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc348ebb4f80f2b4aa1950a56409ccbe
+      internalID: -3759936475726691690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_156
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 192
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfafbbef91ff5c48a915d7bde674e43
+      internalID: 7276391395870033043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_157
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 192
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ddfab52b87e87439258b87bc9ed252
+      internalID: 3312492908110148307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_158
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 192
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb0a2fece0455141b7aa7965740c85a
+      internalID: -8445175434682395349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_159
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 191
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36219d80f66e44488999caf7bc58b26
+      internalID: 6613460120897769513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_160
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 191
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ebb6102fd97f74b99f7cd2288d5d2a
+      internalID: -6691810969040008400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_161
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 191
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e99246fc02f60046b215cd14503660d
+      internalID: -8875966157190980503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_162
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 191
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c23eec2a81e9c40a95d43f7405eeba
+      internalID: -6883268404773336639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_163
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 191
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00fa7d17c5382f49be43bbafc0a9979
+      internalID: -9104837516344290341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_164
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 191
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a2b89457d6d3c41ba17f8d59be2b4d
+      internalID: -5144658145400503591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_165
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 191
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd068520ae8093499514980d63362f4
+      internalID: 8941472583276682231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_166
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 191
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78c7e83ad1e6254fae94681a1c0a5a2
+      internalID: 1977410197997753375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_167
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 208
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc2d720f1a8d654daced84f280f9cfb
+      internalID: 2805212391239409398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_168
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 208
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac5c8c08ebd02342b2eddb77a621f2b
+      internalID: 5918814025134439168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_169
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 191
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cd1826969b15e478aeaadf7ebe26b4
+      internalID: -2555757090253250500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_170
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 191
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b794475210264f4fb4ceda3fe467f0e
+      internalID: -3281028456484513582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_171
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 198
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3437a7ae06428b43b16665c01ae5b40
+      internalID: -5571566393704085960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_172
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 198
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3e4813729da4a429aca95f7bacf2f3
+      internalID: 3438952845584443320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_173
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 198
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39a51a897bf9684eb647e9c8bc7eae8
+      internalID: 7405143038027437727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_174
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 198
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7486252778b48428fb6d1ccd831763
+      internalID: -5010595439828058076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_175
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 198
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97466ddd0bbb5244ab703106a08279dd
+      internalID: -7740021015894523321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_176
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 163
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99daaf5490e089645abc22abe03c7919
+      internalID: 6938671284074077156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_177
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 163
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f243e7b4d694d1438371d85de8e3bc9
+      internalID: -7928083926514367875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_178
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 163
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7f3c3f79a79c44b9578bc2d3358aef
+      internalID: 4652494053438863005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_179
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 163
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de80a9291f3190c4795b23e0e0659be6
+      internalID: 6206819278314726053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_180
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 164
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dec5154c290f474dbc568701f97b234
+      internalID: 8200129530838260602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_181
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 164
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff709f16d9c1de4c99881102a312e02
+      internalID: 8113793910240221724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_182
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 163
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f98b79b9c81b3f44b21b0538ec1e63a
+      internalID: 5202375368828905112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_183
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 164
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22715fd55077864d8cf84ad6e9ba342
+      internalID: 4255339726517609435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_184
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 164
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f865dd3df9ec05c47ac197c9d8aac2da
+      internalID: 499361694962218674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_185
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 156
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca2b0fa5aa51954eadd61ca7e315922
+      internalID: 6346658488075410682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_186
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 156
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3066ef85bed24c541857130327b2240a
+      internalID: 429394201028300065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_187
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 156
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbae81e41e354494bbb1f550a8f4f0e6
+      internalID: 15725685644720857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_188
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 156
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef42381cd41b6ca499ae7468ec0e3849
+      internalID: -262884687662021935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_189
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 163
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16556d197a83a14495f070351f71f76
+      internalID: -8822942112564689572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_190
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 163
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efd86ba728d4e044984a32a287dcf22
+      internalID: -5068317972856324660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_191
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 163
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6883b9b48a61c4e91c4880209db9db
+      internalID: -4541636225621087503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_192
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 163
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb66cf29e376fed44b25498fe20e7628
+      internalID: 1043131414903083385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_193
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 165
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35d53b445b939c49b28876b4682fb1f
+      internalID: 1466987671686778738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_194
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 165
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cd44aecb4468d4087c37855ed2f914
+      internalID: 1743426561737596882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_195
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 159
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048b09abfbfd4bf409490360094153f6
+      internalID: 5962490843713910018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_196
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 159
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b0cd74b88f10d4c93544b608519969
+      internalID: 3490749903889414484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_197
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 163
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ccf07ef9f45664b8a1de6da7a2c74e
+      internalID: -4637941529355518681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_198
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 163
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7733d519fed6f4a95f7c6e78d4cfb3
+      internalID: -4978914700914988892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_199
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 158
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17314b2c7d2672649b745ee1a05b9700
+      internalID: -2279688892850717140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_200
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 123
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4eff362713afe42821dd17b3e47003
+      internalID: 5812106754111737885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_201
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 124
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43d7b6b08b15ac4796f68b71f6190e8
+      internalID: -230964072171867723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_202
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 122
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3781466eaf925f4f82d263dfadb6a9a
+      internalID: -6759407434224937675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_203
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 121
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e8a18ed1fa9244e9bb43d0e21bd170
+      internalID: -8961505148548463539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_204
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 124
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf3af0b623462f4e8ba9c53dba6d663
+      internalID: -2023823163671171509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_205
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 122
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5308476b2e6fb4fa65f55c8b034ea5
+      internalID: 3274311992646400126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_206
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 121
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ade5c35d3685cc49a5903b08071dfeb
+      internalID: 1161729608356707332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_207
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 124
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb05299bf7d8d9f42895bdb4ef62b32c
+      internalID: -1377750318773634143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_208
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 123
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c11ffdab607fc745a440c6473697af4
+      internalID: -5903885046928164486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_209
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 122
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103888d39b93990428eae930b68dcbd5
+      internalID: 850185412546539816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_210
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 124
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b597aae274daab49be7b1471dd95f4b
+      internalID: -7303037895837541686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_211
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 123
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7355f305a8923ad4287b2af3770d510b
+      internalID: 6612983167010168664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_212
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 122
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c47c505833c35449888b5c52954d01
+      internalID: 8677976226641725922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_213
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 121
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d750efd7dcff7241bd4b100a01076af
+      internalID: 5335636175268767056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_214
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 121
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2555d8106d466747ba2feb19e16a6d8
+      internalID: -8237647396446404779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_215
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 120
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ef20e62048975428049c11b01ed1ad
+      internalID: 2471777779850294161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_216
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 122
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf039d573ebd7e9408588467071d589b
+      internalID: -5469002429756569577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_217
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 122
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b453d34fb660ab4e96b37339b322676
+      internalID: 803910343424189965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_218
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 121
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184ee590e0e46ab4981bc04aed6ab524
+      internalID: 6237955200676340228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_219
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 121
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bc411ecb4db084db9841f30b34381a
+      internalID: 6440000482901647844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_220
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 121
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12cde11b352ca24bb8443cccf1c459d
+      internalID: 8388970546606449431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_221
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 120
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561f0152ebf75af439d37b0dc6c6460a
+      internalID: -4644831381851325598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_222
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 122
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0e1570248d47047b8c44c1dbea20c0
+      internalID: 4657935585131009166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_223
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 122
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b8dcc2cf06c4342a14871329a973be
+      internalID: 666472352896774055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_224
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 85
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec8f2348b44888449db13b0ca7ec4e6
+      internalID: -4898789890068393369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_225
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 87
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5104371ae4cb0fd4192909c3e22f2ca6
+      internalID: -2830942186218738929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_226
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 85
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d385e1bd6666f48bf1386675d18304
+      internalID: -6568764804430875084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_227
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 84
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda4ef8c33177944c84fddc701876d5a
+      internalID: 3781804498123526554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_228
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 87
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e464386a7870975479915e64f5844087
+      internalID: -5918991192982341562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_229
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 85
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737b77260cc01fd40ad5b539481b26ef
+      internalID: 992904808856963263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_230
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 84
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cba5b90f5d22d42bb9c8e75016b2ed
+      internalID: 8547820522249479669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_231
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 87
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc115c9c6dae7ee4db50f7d3ee906a52
+      internalID: 2770786513977216408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_232
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 86
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1335d9e4d172fb44a973aa1459e9ffd
+      internalID: 3868365344459002182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_233
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 85
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be7d9df002f1324483461e8fbc7dfcb
+      internalID: -7091658631883636559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_234
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 87
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ccd1adccdcb1746b4fb8d2ac304dfd
+      internalID: 8181212559491716572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_235
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 86
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f397c9b42f8ea46878355f8bfffb77
+      internalID: -1102184269269199591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_236
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 85
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c71be8dae110046b7b9a47cb79fb50
+      internalID: 4318771391974740660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_237
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 85
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6ba258ba697ff4bbaf975bb1b4b824
+      internalID: 4581013310824404917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_238
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 85
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527d6543df1676746aca245c5d0be85b
+      internalID: -7011257286443967851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_239
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 84
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9ece40627f1bb46a5850266c72eea8
+      internalID: 6191146665335418630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_240
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 86
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee18d2baaa80b554397b58334850b7ac
+      internalID: -2431182970586551242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_241
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 86
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f37520a23141ca499087fe39ec852c0
+      internalID: -3869363011697585490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_242
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 85
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a357926cc6ce747bde33ae753285ad
+      internalID: 4796335067931165416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_243
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 85
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab5a231ba057654e8c8f79971a9e7d6
+      internalID: -620102566509610255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_244
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 85
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657a00e7a5aeb2c41a892de0819716a6
+      internalID: -2159922473059594978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_245
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 84
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fc5009028186443864ef718e6256df
+      internalID: 7149843320186249699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_246
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 86
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6928ae1452f4b5c4a9854499d5c1a89b
+      internalID: 6782951541443916062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_247
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 86
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b3f729d0315df4cbf6455ba2182c4d
+      internalID: -5474608031381425725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_248
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 85
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb1d332f904aeb4e8078a96fcbd352c
+      internalID: 3276897929441064816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_249
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 49
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2340492ac74b34f98d91f0f1c9e44f
+      internalID: 6491270126152928025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_250
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 49
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833b3bcc52b872a4cbc75a84fc027817
+      internalID: -855033294271974313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_251
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 49
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecae89683aeb82458ab5e59f185c546
+      internalID: 2531341734946879459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_252
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 49
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1185ea60fb8e61f4abdfd6c725504ab0
+      internalID: -1002995740692490924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_253
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 49
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bf05da898b81740bb846a2caff7a76
+      internalID: -2488831036408633673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_254
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 49
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8adf7892a390e14eb9e3c90157e6e4d
+      internalID: 4119440376078729955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_255
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 49
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbb53e6c59fc534584cc48a65f95ed1
+      internalID: -6434199573745251849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_256
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 49
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477b9a16fd7171b4dae57fa9d09fdc42
+      internalID: 8704250558741074415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_257
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 49
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e71b1c9d2a3e94b9563d46a61bd482
+      internalID: -4866371376521874835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_258
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 49
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc95da409bf50440b4fef443d11cc31
+      internalID: 5271536435624508900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_259
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 49
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8507459da6cdfa246b016a15a554a042
+      internalID: -2432321100002904913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_260
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 49
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0cdc4f7e725804798fe88d247b7f71
+      internalID: 1696098026324387900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_261
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 50
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f0cca1d593ae84cbc08e7086804b99
+      internalID: 6911401972735234207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_262
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 49
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda803276c141ce439f422cd4b71254b
+      internalID: -2633636768443438982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_263
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 49
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351f870b9ace4b84eb0d3e81cf703aaa
+      internalID: -5782170975368506746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_264
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 50
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9da2143e68915f4e905f2e6f229a104
+      internalID: 6848210639847087002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_265
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 49
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f67119132499a8409b419ed46b16880
+      internalID: -3505024234177913253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_266
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 49
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d224328ff527db74796be756ae28e502
+      internalID: 5940602949209221757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_267
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 50
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c0f0c6ef004764a849c3272285681c
+      internalID: -2766854312019335387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_268
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 49
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b0ad9dbb3cd4449afa90a3f0f39cc8
+      internalID: -532886147430618845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_269
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 49
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea179e05be580df4cbf501955fb87125
+      internalID: -1065387909376100186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_270
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 50
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b59e93030ac764438d8ed4c7517811e
+      internalID: 2578009351022614237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_271
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 49
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b753971c9d0aa7f4db9320ba667ff001
+      internalID: -2959386395912029934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primrose_272
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 49
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b6c1a7801830543bd5d5a131c74167
+      internalID: 6650920869785696250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a693918afebb0034982aa738897084f7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

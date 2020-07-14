@@ -1,0 +1,7183 @@
+fileFormatVersion: 2
+guid: 7742db7654e035642ae46658b68b9551
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3897287886090675468
+    second: hannit_0
+  - first:
+      213: 3511616642710829928
+    second: hannit_1
+  - first:
+      213: -752216125311803065
+    second: hannit_2
+  - first:
+      213: 4465686377994174494
+    second: hannit_3
+  - first:
+      213: -8920057666503571927
+    second: hannit_4
+  - first:
+      213: -800265557927240678
+    second: hannit_5
+  - first:
+      213: 5319669911569729636
+    second: hannit_6
+  - first:
+      213: -2341817677221425604
+    second: hannit_7
+  - first:
+      213: -1047397124177184666
+    second: hannit_8
+  - first:
+      213: 7071388257894970348
+    second: hannit_9
+  - first:
+      213: -1994639515232269914
+    second: hannit_10
+  - first:
+      213: -7576427907584681741
+    second: hannit_11
+  - first:
+      213: -5878368071487280746
+    second: hannit_12
+  - first:
+      213: -7874003035454500243
+    second: hannit_13
+  - first:
+      213: 4682799904483389071
+    second: hannit_14
+  - first:
+      213: -1044932539135429262
+    second: hannit_15
+  - first:
+      213: 1837158362605308430
+    second: hannit_16
+  - first:
+      213: -7400238711498257369
+    second: hannit_17
+  - first:
+      213: -3904011907379891492
+    second: hannit_18
+  - first:
+      213: 3837037471819901782
+    second: hannit_19
+  - first:
+      213: 4222358540997765424
+    second: hannit_20
+  - first:
+      213: 1397760784844913400
+    second: hannit_21
+  - first:
+      213: -8364266169276181149
+    second: hannit_22
+  - first:
+      213: -8158855369068068011
+    second: hannit_23
+  - first:
+      213: 5896207083780215646
+    second: hannit_24
+  - first:
+      213: -3790015883959034676
+    second: hannit_25
+  - first:
+      213: -1624276297813884136
+    second: hannit_26
+  - first:
+      213: -966384733982644770
+    second: hannit_27
+  - first:
+      213: 78794972983497125
+    second: hannit_28
+  - first:
+      213: -6447963843439503498
+    second: hannit_29
+  - first:
+      213: -4336458447572465359
+    second: hannit_30
+  - first:
+      213: -5166637827317773404
+    second: hannit_31
+  - first:
+      213: 7251956051601575828
+    second: hannit_32
+  - first:
+      213: 195707077370356305
+    second: hannit_33
+  - first:
+      213: 4452468396332956306
+    second: hannit_34
+  - first:
+      213: -5008535347751765034
+    second: hannit_35
+  - first:
+      213: -2410385717274543492
+    second: hannit_36
+  - first:
+      213: 8446533669945803027
+    second: hannit_37
+  - first:
+      213: 8445819224273611605
+    second: hannit_38
+  - first:
+      213: -464773224714105220
+    second: hannit_39
+  - first:
+      213: 6559917524542623936
+    second: hannit_40
+  - first:
+      213: 1243520436283663823
+    second: hannit_41
+  - first:
+      213: -1834689802587864254
+    second: hannit_42
+  - first:
+      213: 285817231927218448
+    second: hannit_43
+  - first:
+      213: 605797772426728425
+    second: hannit_44
+  - first:
+      213: 5811724381693214608
+    second: hannit_45
+  - first:
+      213: -1587956575257401859
+    second: hannit_46
+  - first:
+      213: 2055247967925614201
+    second: hannit_47
+  - first:
+      213: -7128488994864991608
+    second: hannit_48
+  - first:
+      213: 8953294833530410067
+    second: hannit_49
+  - first:
+      213: -4046659178977592449
+    second: hannit_50
+  - first:
+      213: 7881133032900856055
+    second: hannit_51
+  - first:
+      213: 6983813678140696702
+    second: hannit_52
+  - first:
+      213: -5912069083918629210
+    second: hannit_53
+  - first:
+      213: -9029248490713951685
+    second: hannit_54
+  - first:
+      213: -5156164232647017484
+    second: hannit_55
+  - first:
+      213: 9176065145377721663
+    second: hannit_56
+  - first:
+      213: 852224677004270398
+    second: hannit_57
+  - first:
+      213: 3973487770187494800
+    second: hannit_58
+  - first:
+      213: -1799061191183718564
+    second: hannit_59
+  - first:
+      213: -773651168358350817
+    second: hannit_60
+  - first:
+      213: 4938597845298719914
+    second: hannit_61
+  - first:
+      213: -6676390631333263986
+    second: hannit_62
+  - first:
+      213: 7481086920093555262
+    second: hannit_63
+  - first:
+      213: -4520643448889637022
+    second: hannit_64
+  - first:
+      213: 2439162539385030981
+    second: hannit_65
+  - first:
+      213: -6502778337455371280
+    second: hannit_66
+  - first:
+      213: -7344096036067206829
+    second: hannit_67
+  - first:
+      213: 7367342180547124224
+    second: hannit_68
+  - first:
+      213: -3311697097191244016
+    second: hannit_69
+  - first:
+      213: -7660362672508869415
+    second: hannit_70
+  - first:
+      213: 4034033033764580477
+    second: hannit_71
+  - first:
+      213: -8103990597301570188
+    second: hannit_72
+  - first:
+      213: 1363656168137655764
+    second: hannit_73
+  - first:
+      213: -2234577094047791304
+    second: hannit_74
+  - first:
+      213: -4501035491955862778
+    second: hannit_75
+  - first:
+      213: 9081256837435927590
+    second: hannit_76
+  - first:
+      213: 2194297915162210144
+    second: hannit_77
+  - first:
+      213: -162977736294442756
+    second: hannit_78
+  - first:
+      213: -2118740983320226424
+    second: hannit_79
+  - first:
+      213: -6619612617361381360
+    second: hannit_80
+  - first:
+      213: -8164629609018927469
+    second: hannit_81
+  - first:
+      213: 8339589796237319954
+    second: hannit_82
+  - first:
+      213: -3926824575038455506
+    second: hannit_83
+  - first:
+      213: -3793665203057484041
+    second: hannit_84
+  - first:
+      213: -7550055163942406836
+    second: hannit_85
+  - first:
+      213: 2253457967770773116
+    second: hannit_86
+  - first:
+      213: 3184493208376723079
+    second: hannit_87
+  - first:
+      213: 361594081170161770
+    second: hannit_88
+  - first:
+      213: 6783538805605560671
+    second: hannit_89
+  - first:
+      213: -5117086267753795810
+    second: hannit_90
+  - first:
+      213: 2490669611980499703
+    second: hannit_91
+  - first:
+      213: 8525709614183510255
+    second: hannit_92
+  - first:
+      213: -7992933754310907629
+    second: hannit_93
+  - first:
+      213: -8513575828117801019
+    second: hannit_94
+  - first:
+      213: -2249397339634818704
+    second: hannit_95
+  - first:
+      213: -477842009770930637
+    second: hannit_96
+  - first:
+      213: 307713824859998622
+    second: hannit_97
+  - first:
+      213: 4718045289021181201
+    second: hannit_98
+  - first:
+      213: -8166811487694655658
+    second: hannit_99
+  - first:
+      213: 6754045449368757040
+    second: hannit_100
+  - first:
+      213: 8419859569645468799
+    second: hannit_101
+  - first:
+      213: 7683158434452092828
+    second: hannit_102
+  - first:
+      213: 2889208560637063164
+    second: hannit_103
+  - first:
+      213: -8664013550852505248
+    second: hannit_104
+  - first:
+      213: -6531468737032397635
+    second: hannit_105
+  - first:
+      213: 7590341154985294721
+    second: hannit_106
+  - first:
+      213: 9094575816613269586
+    second: hannit_107
+  - first:
+      213: -1666061373335260176
+    second: hannit_108
+  - first:
+      213: -6113359301992930918
+    second: hannit_109
+  - first:
+      213: 8577693866694771784
+    second: hannit_110
+  - first:
+      213: 6078645193133651005
+    second: hannit_111
+  - first:
+      213: 8352857087073379905
+    second: hannit_112
+  - first:
+      213: 1646283358305373899
+    second: hannit_113
+  - first:
+      213: 3761857840710695023
+    second: hannit_114
+  - first:
+      213: 4234768220428115802
+    second: hannit_115
+  - first:
+      213: 6505289796373399009
+    second: hannit_116
+  - first:
+      213: 5159295599123458109
+    second: hannit_117
+  - first:
+      213: 1076929046625687164
+    second: hannit_118
+  - first:
+      213: -4746642278175844968
+    second: hannit_119
+  - first:
+      213: -2359049996873935512
+    second: hannit_120
+  - first:
+      213: -8289292392073557084
+    second: hannit_121
+  - first:
+      213: -1129880598583427765
+    second: hannit_122
+  - first:
+      213: -2106287315021533458
+    second: hannit_123
+  - first:
+      213: 6998768675894699779
+    second: hannit_124
+  - first:
+      213: -8443108202688591979
+    second: hannit_125
+  - first:
+      213: 4832861930269717738
+    second: hannit_126
+  - first:
+      213: -1866257068798919572
+    second: hannit_127
+  - first:
+      213: -911056794206621894
+    second: hannit_128
+  - first:
+      213: -8645387782569037406
+    second: hannit_129
+  - first:
+      213: -7312019479600504465
+    second: hannit_130
+  - first:
+      213: -5997106927305876781
+    second: hannit_131
+  - first:
+      213: 9170659187717063903
+    second: hannit_132
+  - first:
+      213: 50667708269706651
+    second: hannit_133
+  - first:
+      213: -9087258140928774358
+    second: hannit_134
+  - first:
+      213: 8146826324911605898
+    second: hannit_135
+  - first:
+      213: 2941117263587028850
+    second: hannit_136
+  - first:
+      213: -8598428447816409926
+    second: hannit_137
+  - first:
+      213: -5492493147831351535
+    second: hannit_138
+  - first:
+      213: 6882370029454813411
+    second: hannit_139
+  - first:
+      213: 6855774770935237258
+    second: hannit_140
+  - first:
+      213: -5995627484801438042
+    second: hannit_141
+  - first:
+      213: -6060531314998890358
+    second: hannit_142
+  - first:
+      213: 7817321459005465526
+    second: hannit_143
+  - first:
+      213: 3959158203372228514
+    second: hannit_144
+  - first:
+      213: 5915793235642290209
+    second: hannit_145
+  - first:
+      213: 1676736418987028610
+    second: hannit_146
+  - first:
+      213: 1231157258217284975
+    second: hannit_147
+  - first:
+      213: 344412553882480483
+    second: hannit_148
+  - first:
+      213: 4241792858629156831
+    second: hannit_149
+  - first:
+      213: -2468538287374744063
+    second: hannit_150
+  - first:
+      213: 7224028983283826712
+    second: hannit_151
+  - first:
+      213: -6494175379922896716
+    second: hannit_152
+  - first:
+      213: -1537631521886095102
+    second: hannit_153
+  - first:
+      213: 3027502409976737902
+    second: hannit_154
+  - first:
+      213: 1337639011290115823
+    second: hannit_155
+  - first:
+      213: 230742195524185237
+    second: hannit_156
+  - first:
+      213: -1566857169963263408
+    second: hannit_157
+  - first:
+      213: -5708211592489755393
+    second: hannit_158
+  - first:
+      213: -5208270305289285461
+    second: hannit_159
+  - first:
+      213: 8367136524015678243
+    second: hannit_160
+  - first:
+      213: 751012901149478340
+    second: hannit_161
+  - first:
+      213: 6493167059084720302
+    second: hannit_162
+  - first:
+      213: 2856180318310653045
+    second: hannit_163
+  - first:
+      213: 2009348289449669956
+    second: hannit_164
+  - first:
+      213: 1565396087901255557
+    second: hannit_165
+  - first:
+      213: -7198303847619676242
+    second: hannit_166
+  - first:
+      213: -5267321264543648211
+    second: hannit_167
+  - first:
+      213: -5746125356428069782
+    second: hannit_168
+  - first:
+      213: -7274906135308488524
+    second: hannit_169
+  - first:
+      213: -1941297204412197271
+    second: hannit_170
+  - first:
+      213: 6042390034330920367
+    second: hannit_171
+  - first:
+      213: 5366541488769989913
+    second: hannit_172
+  - first:
+      213: -1432005147560421019
+    second: hannit_173
+  - first:
+      213: 7683223483315604106
+    second: hannit_174
+  - first:
+      213: -3261100648627334230
+    second: hannit_175
+  - first:
+      213: -3866723692449710283
+    second: hannit_176
+  - first:
+      213: -237825603450401538
+    second: hannit_177
+  - first:
+      213: 3994013239158326187
+    second: hannit_178
+  - first:
+      213: -1860818756791062647
+    second: hannit_179
+  - first:
+      213: -2230664606851919937
+    second: hannit_180
+  - first:
+      213: 4958007211472664718
+    second: hannit_181
+  - first:
+      213: -3850732374124516832
+    second: hannit_182
+  - first:
+      213: -4329505029165160261
+    second: hannit_183
+  - first:
+      213: 650045061133290735
+    second: hannit_184
+  - first:
+      213: -3323062949536570848
+    second: hannit_185
+  - first:
+      213: -8992648780007778028
+    second: hannit_186
+  - first:
+      213: 2186926466991900298
+    second: hannit_187
+  - first:
+      213: -4319214248223416564
+    second: hannit_188
+  - first:
+      213: -1501026436563803686
+    second: hannit_189
+  - first:
+      213: 370551233950564106
+    second: hannit_190
+  - first:
+      213: 6557949049339001789
+    second: hannit_191
+  - first:
+      213: 5463340627450996242
+    second: hannit_192
+  - first:
+      213: 7598130951781892883
+    second: hannit_193
+  - first:
+      213: -4257697990346717521
+    second: hannit_194
+  - first:
+      213: -5855856785146389844
+    second: hannit_195
+  - first:
+      213: -911215771884144310
+    second: hannit_196
+  - first:
+      213: 2118730175842507405
+    second: hannit_197
+  - first:
+      213: 5643440512502850308
+    second: hannit_198
+  - first:
+      213: -1337829395141893781
+    second: hannit_199
+  - first:
+      213: -8082850388030658086
+    second: hannit_200
+  - first:
+      213: 7832457598241702192
+    second: hannit_201
+  - first:
+      213: 6773901739310560627
+    second: hannit_202
+  - first:
+      213: -6861648521448826707
+    second: hannit_203
+  - first:
+      213: 3462106445493814158
+    second: hannit_204
+  - first:
+      213: -6092666425413981822
+    second: hannit_205
+  - first:
+      213: -2085299423006010427
+    second: hannit_206
+  - first:
+      213: 5565235812119797521
+    second: hannit_207
+  - first:
+      213: -5561531084042572281
+    second: hannit_208
+  - first:
+      213: 4324534085471379756
+    second: hannit_209
+  - first:
+      213: 8225660736909410666
+    second: hannit_210
+  - first:
+      213: -6330079198600650758
+    second: hannit_211
+  - first:
+      213: 9003685907471033800
+    second: hannit_212
+  - first:
+      213: 9105419200889463293
+    second: hannit_213
+  - first:
+      213: 6174008695556107387
+    second: hannit_214
+  - first:
+      213: 2995929452593426282
+    second: hannit_215
+  - first:
+      213: -8332837045137389542
+    second: hannit_216
+  - first:
+      213: 2091706153673336239
+    second: hannit_217
+  - first:
+      213: 2739891404030469761
+    second: hannit_218
+  - first:
+      213: -7232949528226873123
+    second: hannit_219
+  - first:
+      213: -7701497636902955628
+    second: hannit_220
+  - first:
+      213: -5822255903112749019
+    second: hannit_221
+  - first:
+      213: -291341467417176669
+    second: hannit_222
+  - first:
+      213: 1880889407915570720
+    second: hannit_223
+  - first:
+      213: -2249925915065107817
+    second: hannit_224
+  - first:
+      213: -3736007011737634274
+    second: hannit_225
+  - first:
+      213: 3281849356852109397
+    second: hannit_226
+  - first:
+      213: -1094477421748573832
+    second: hannit_227
+  - first:
+      213: -1620408208505431954
+    second: hannit_228
+  - first:
+      213: 6677155369049909985
+    second: hannit_229
+  - first:
+      213: -5941335540212885155
+    second: hannit_230
+  - first:
+      213: 8253385858391295786
+    second: hannit_231
+  - first:
+      213: -3215191100088178737
+    second: hannit_232
+  - first:
+      213: -5161839373619722417
+    second: hannit_233
+  - first:
+      213: -8339862449539712549
+    second: hannit_234
+  - first:
+      213: -8829988276781393221
+    second: hannit_235
+  - first:
+      213: 5605087253218493583
+    second: hannit_236
+  - first:
+      213: -4186243460392280231
+    second: hannit_237
+  - first:
+      213: 4308796724240939890
+    second: hannit_238
+  - first:
+      213: 2310627853095379133
+    second: hannit_239
+  - first:
+      213: -7888373080202647689
+    second: hannit_240
+  - first:
+      213: -6647952221928112576
+    second: hannit_241
+  - first:
+      213: -6022238870441355057
+    second: hannit_242
+  - first:
+      213: -3838974243031889831
+    second: hannit_243
+  - first:
+      213: -8361876594579277651
+    second: hannit_244
+  - first:
+      213: 8944562552099561026
+    second: hannit_245
+  - first:
+      213: -6357546893120830714
+    second: hannit_246
+  - first:
+      213: -7167885422157767360
+    second: hannit_247
+  - first:
+      213: 4224856833499942700
+    second: hannit_248
+  - first:
+      213: 2574988484208045267
+    second: hannit_249
+  - first:
+      213: 4282956864422078658
+    second: hannit_250
+  - first:
+      213: -6422007237104269497
+    second: hannit_251
+  - first:
+      213: -4082437489496408638
+    second: hannit_252
+  - first:
+      213: -598822234814424443
+    second: hannit_253
+  - first:
+      213: -5032215969957095763
+    second: hannit_254
+  - first:
+      213: 8921439370213870501
+    second: hannit_255
+  - first:
+      213: -3922132665485479785
+    second: hannit_256
+  - first:
+      213: -4973996388165328530
+    second: hannit_257
+  - first:
+      213: 9078211429499467258
+    second: hannit_258
+  - first:
+      213: 448866543180351692
+    second: hannit_259
+  - first:
+      213: -1655672182983016576
+    second: hannit_260
+  - first:
+      213: -1312314256299931080
+    second: hannit_261
+  - first:
+      213: 8518241914514553921
+    second: hannit_262
+  - first:
+      213: 8495737634910542955
+    second: hannit_263
+  - first:
+      213: 890354272577720029
+    second: hannit_264
+  - first:
+      213: 6073623920551938596
+    second: hannit_265
+  - first:
+      213: -6510881461944923031
+    second: hannit_266
+  - first:
+      213: -4039395077086465631
+    second: hannit_267
+  - first:
+      213: -1858119174122171744
+    second: hannit_268
+  - first:
+      213: 1943729637859367399
+    second: hannit_269
+  - first:
+      213: -3543168235471186753
+    second: hannit_270
+  - first:
+      213: -1911763809667762946
+    second: hannit_271
+  - first:
+      213: 879476640650089888
+    second: hannit_272
+  - first:
+      213: 5741295429360834416
+    second: hannit_273
+  - first:
+      213: -8320497737185157723
+    second: hannit_274
+  - first:
+      213: -3884363339960863110
+    second: hannit_275
+  - first:
+      213: 5480775091282037855
+    second: hannit_276
+  - first:
+      213: 2019646460542121774
+    second: hannit_277
+  - first:
+      213: 98647309119353425
+    second: hannit_278
+  - first:
+      213: 9180571380200913237
+    second: hannit_279
+  - first:
+      213: -4961750251543028419
+    second: hannit_280
+  - first:
+      213: -6006182208437965204
+    second: hannit_281
+  - first:
+      213: -710253776652590976
+    second: hannit_282
+  - first:
+      213: 6143262454037716293
+    second: hannit_283
+  - first:
+      213: -3999861568534304654
+    second: hannit_284
+  - first:
+      213: 7427338531046802908
+    second: hannit_285
+  - first:
+      213: 1438926619865131424
+    second: hannit_286
+  - first:
+      213: -2493391934725346341
+    second: hannit_287
+  - first:
+      213: -8611632575394129
+    second: hannit_288
+  - first:
+      213: 6397249480326923236
+    second: hannit_289
+  - first:
+      213: 4718773147010693618
+    second: hannit_290
+  - first:
+      213: 6807860113796080451
+    second: hannit_291
+  - first:
+      213: -2058548988439312410
+    second: hannit_292
+  - first:
+      213: 1809848065638907028
+    second: hannit_293
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hannit_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 477
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf94e4559c044443bb8ababb3e28fb8
+      internalID: -3897287886090675468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 477
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5acc03075b383a4a8f26213fd81fa48
+      internalID: 3511616642710829928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 477
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90a39c4cce3b7a40bb423fc60aaa20b
+      internalID: -752216125311803065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 480
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b366cc425707a4eb69eab6343bb2fe
+      internalID: 4465686377994174494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 480
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e1d8ebbf313d74f875bb652b6c4974
+      internalID: -8920057666503571927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 477
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ea02273a1a9064b82cf6f6b4ce64a0
+      internalID: -800265557927240678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 477
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c618bac8e49b334ebf8e897c74a824e
+      internalID: 5319669911569729636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 477
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599f801d21933024d9524a931a763c62
+      internalID: -2341817677221425604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 480
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141fbb9a5dd2fc64ab970f65a2ed030e
+      internalID: -1047397124177184666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 480
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e082858c28372841ba5794bf303044a
+      internalID: 7071388257894970348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 477
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573a195ba6515c549a159f07296c8294
+      internalID: -1994639515232269914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 478
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed2274b09cad784ba42792619dde1cf
+      internalID: -7576427907584681741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 481
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab7cd5a80241a648aea55dda7c60a59
+      internalID: -5878368071487280746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_13
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 481
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a43ce702f6bbc4c82a1dbb0eee7b38
+      internalID: -7874003035454500243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 482
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22e440c69a20384ebb65593bcd5ea70
+      internalID: 4682799904483389071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_15
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 482
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b82499d0b33b449a1ccba491e43d98
+      internalID: -1044932539135429262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_16
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 481
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e4e0544c987d141bacd567b51f2341
+      internalID: 1837158362605308430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_17
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 479
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37e7310f77972f4cbb09ef12af4dab7
+      internalID: -7400238711498257369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_18
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 477
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6c11b613696f543b1253eb81cdf209
+      internalID: -3904011907379891492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_19
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 478
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba098d24b3a863418e156cfcbfd01ef
+      internalID: 3837037471819901782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_20
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 481
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01798f56ebe366d47bff67e641cbbfe9
+      internalID: 4222358540997765424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_21
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 481
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908b1f260fb5f9445b68ca7f21ac587a
+      internalID: 1397760784844913400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_22
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 482
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222f2f4037d274d4bab141f3b842f500
+      internalID: -8364266169276181149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 447
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471ddc30027d1aa488782920f7d6d0bc
+      internalID: -8158855369068068011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 446
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf95b05250dcd5248adf41ec599ceea7
+      internalID: 5896207083780215646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 444
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd12e54a2850364c90028b15233dffc
+      internalID: -3790015883959034676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_26
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 445
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da17800e718a4644b9c07d504adb340f
+      internalID: -1624276297813884136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 445
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e5cfc78b1cd2e49a31f9fa6db511c4
+      internalID: -966384733982644770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_28
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 450
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da33eb20b29a664eb05f6a574295719
+      internalID: 78794972983497125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_29
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 450
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789072b99ebb4d849abf1e099b2a5285
+      internalID: -6447963843439503498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_30
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 450
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdecb58d0a95a845b14f4cf226ba5e0
+      internalID: -4336458447572465359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_31
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 450
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0443c7fde55b4d4faad83565b9d22a9
+      internalID: -5166637827317773404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 450
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250f6e774ea06694a93f38fbe7dec199
+      internalID: 7251956051601575828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_33
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 450
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ce36032901369438940713efb7436e
+      internalID: 195707077370356305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_34
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 442
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f62852397b3374ea7485d7136924ea
+      internalID: 4452468396332956306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_35
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 442
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028a853665ee7d44180cb256b180e900
+      internalID: -5008535347751765034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_36
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 449
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418bbe4593a266d45a50e81fec8880cf
+      internalID: -2410385717274543492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_37
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 449
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bff6a32b66201b488c0cd942dfd4b0a
+      internalID: 8446533669945803027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_38
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 448
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8359b73dd6b2564286232b1b8a3dd52
+      internalID: 8445819224273611605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_39
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 448
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720afe3466b8d1e42b76f17741cdf215
+      internalID: -464773224714105220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_40
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 449
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267bbceab2a98a042b3692ed0ca359c9
+      internalID: 6559917524542623936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 449
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d672f429d7b6046b05f101d0b59fa7
+      internalID: 1243520436283663823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_42
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 448
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f51d59a90c4c7a40a4255fc333552ab
+      internalID: -1834689802587864254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_43
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 448
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ab54b282dd59c4282f91dc319637d0
+      internalID: 285817231927218448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_44
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 442
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcff272e4597aa409e4982438a0671d
+      internalID: 605797772426728425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_45
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 443
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367d37ca92ba91445919dd62779f5acc
+      internalID: 5811724381693214608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_46
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 444
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a123e405da12949875bc40ec248b4c
+      internalID: -1587956575257401859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 409
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3c6dd34cdd2554d8d39303c3465eb5
+      internalID: 2055247967925614201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_48
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 409
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1486cf7d0176b684999e5810d78a8cd7
+      internalID: -7128488994864991608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_49
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 409
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362ea383665e0fc438a2d5571c31f6ce
+      internalID: 8953294833530410067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 408
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49285101d7c491a48a82e03c2e91826e
+      internalID: -4046659178977592449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_51
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 407
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1afdb9fa2aacd44b48198419b1d603
+      internalID: 7881133032900856055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_52
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 408
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a9936749d82794ba225ca042579889
+      internalID: 6983813678140696702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_53
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 409
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b24e6e650215e48bdbe17c475cf0d8
+      internalID: -5912069083918629210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_54
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 409
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d137cb764b1978a49ab2eae89855a2c1
+      internalID: -9029248490713951685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_55
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 409
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ede0a5e080dbd44a6567d5b6a186a0
+      internalID: -5156164232647017484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_56
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 409
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a79e0b44c5b2684bab1b0e962817645
+      internalID: 9176065145377721663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_57
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 408
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9e9ead101d5fa4c84f7b6eae1b9439
+      internalID: 852224677004270398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_58
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 408
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1af42adabf1fa40918ade1dd92de79
+      internalID: 3973487770187494800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_59
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 399
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204d812662d6c834495a5d5e9a98913c
+      internalID: -1799061191183718564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_60
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 411
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6e9e2dd66a9024882c6ba4a9a7b5d4
+      internalID: -773651168358350817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_61
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 412
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1949cb00dea81e40bec374949d53c29
+      internalID: 4938597845298719914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_62
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 412
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17163948aecff334691a6c58f48fec70
+      internalID: -6676390631333263986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_63
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 411
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22124807b28ab534f8fdbcadfaa40314
+      internalID: 7481086920093555262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_64
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 409
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80575ae6dd03abb46918320db82f3eeb
+      internalID: -4520643448889637022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 365
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5d4bc79bd61ca4d896b4ff59653ea9
+      internalID: 2439162539385030981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_66
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 356
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960a09eb64b5cde469825f395b271199
+      internalID: -6502778337455371280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_67
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 368
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02011c1506a419946863e956d3904947
+      internalID: -7344096036067206829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_68
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 369
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cbc76f5b03a3042869c062b95988e0
+      internalID: 7367342180547124224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_69
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 369
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce1cde4e8bfb1b4a85d3cbf12e13efe
+      internalID: -3311697097191244016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_70
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 368
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b540c88eadaa70e46b983bae199588f8
+      internalID: -7660362672508869415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_71
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 366
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153b6d2b855bb8c4eaee1bdafcb36abb
+      internalID: 4034033033764580477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_72
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 367
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bce92ca7539fb459545576264b14b6
+      internalID: -8103990597301570188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 367
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc129ad866733ed4dad5c9b08c538488
+      internalID: 1363656168137655764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_74
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 364
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b553c3b4fa9da478d592c2627151f8
+      internalID: -2234577094047791304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_75
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 364
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3562b68d45629af47bc2172ed3a98ef5
+      internalID: -4501035491955862778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_76
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 364
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedba7c22e876f94d8dd4768232a0feb
+      internalID: 9081256837435927590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_77
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 364
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cfb45d7d8257249beddf4f435dd4e2
+      internalID: 2194297915162210144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_78
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 364
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82f8d31acdca1041926ad7e43b19b76
+      internalID: -162977736294442756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_79
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 364
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508739f0e24437948bfb47d4fc4d8732
+      internalID: -2118740983320226424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_80
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 366
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd43ccfb28e6c2f4c88fbfc01aa2c721
+      internalID: -6619612617361381360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_81
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 366
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd3927edcaac874abd0a71566df228c
+      internalID: -8164629609018927469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_82
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 365
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9223d6c73d41745b1a6562d68f2079
+      internalID: 8339589796237319954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_83
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 322
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5781b80ca6aa202428b3efb32d2542e8
+      internalID: -3926824575038455506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_84
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 341
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ad1064409132945a640a1d87786310
+      internalID: -3793665203057484041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_85
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 341
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0347e1a222c17ef459abee7f099152a3
+      internalID: -7550055163942406836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_86
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 322
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91535375547b1d44ca2f8ab947d61698
+      internalID: 2253457967770773116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_87
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 322
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b81849d30b72648ba0811b57231b96
+      internalID: 3184493208376723079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_88
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 323
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60fdacbfdf6fe74ba5c9a41a4652ce3
+      internalID: 361594081170161770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_89
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 323
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8232d69b876ce4c9e5d5a191c43274
+      internalID: 6783538805605560671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_90
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 323
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a69f1431557e3642aaed0cbc4cb1102
+      internalID: -5117086267753795810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_91
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 323
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f09bb951df7ae448ad1b1de2a1cc345
+      internalID: 2490669611980499703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_92
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 323
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90e3f0897c864248a8d920e8599c458
+      internalID: 8525709614183510255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_93
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 323
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d0f281eb7f8104eaec6217401d3ebd
+      internalID: -7992933754310907629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_94
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 321
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68135736cf765d74cbefdae2d0e9cbfb
+      internalID: -8513575828117801019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_95
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 321
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7213e206bac9254a9b46b1a252a010c
+      internalID: -2249397339634818704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_96
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 321
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa738bd86e97f974389898b386c059a6
+      internalID: -477842009770930637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_97
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 321
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eafb52ec275cfa448edc70436f66af8
+      internalID: 307713824859998622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_98
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 321
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680a2a2cb15ecfd468bf4543828a58ce
+      internalID: 4718045289021181201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_99
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 321
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacb0a47e15c74d4bb8d710d2a5343a1
+      internalID: -8166811487694655658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_100
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 321
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db75fcdd76d7ad4488ed3238b278334a
+      internalID: 6754045449368757040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_101
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 321
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdf6e00a9b31ab4b82d03a13e4abef9
+      internalID: 8419859569645468799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_102
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 321
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea6c8d29aa83a145a12e57d3279f1e9
+      internalID: 7683158434452092828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_103
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 321
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ad4dec5830a9b48bbc371d237a89fc
+      internalID: 2889208560637063164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_104
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 321
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbc45de5672e59439c02be0eb17c9f0
+      internalID: -8664013550852505248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_105
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7448c12437a0f994d8b5ecc1c9e0fdd5
+      internalID: -6531468737032397635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_106
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1a80586c6ea1645b0959fe593ed3dc
+      internalID: 7590341154985294721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_107
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4a28627fa936b4796305d274608bac
+      internalID: 9094575816613269586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_108
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244a912d9711e5844bcb6c2c9f97d774
+      internalID: -1666061373335260176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf63de8382fc7644b8a439717f6ca8a7
+      internalID: -6113359301992930918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_110
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c1ac9199da69f47bcc35379d522c65
+      internalID: 8577693866694771784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_111
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 286
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ad6c0757e5ccb41942abead13183da
+      internalID: 6078645193133651005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_112
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 286
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94edf00142f58f74fb37a1bf5e50ea39
+      internalID: 8352857087073379905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_113
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 286
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7120a8da0fcbf4f80826ac98993394
+      internalID: 1646283358305373899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_114
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 286
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a87606bd44ec5c48843e937c4cb3907
+      internalID: 3761857840710695023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_115
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 286
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4175fb8d5a2035543a0b2e0cb430e9db
+      internalID: 4234768220428115802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_116
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 286
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b433025e23f834c95d597b2979af52
+      internalID: 6505289796373399009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_117
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 286
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41029c17c659ce44ebde6e8a31547f10
+      internalID: 5159295599123458109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_118
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 287
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e3ff963daa5a54e8eff781a0a2875f
+      internalID: 1076929046625687164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_119
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 287
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fb1c24d27baf943bbb704d57688527
+      internalID: -4746642278175844968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_120
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 287
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a826965d4597ba46bd5bfe5a23efe82
+      internalID: -2359049996873935512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_121
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 287
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6acc76a232e3c429c4c1096636fb30
+      internalID: -8289292392073557084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_122
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 286
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c8bfd58c1e8e4419e2440497cd4ac6
+      internalID: -1129880598583427765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_123
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 286
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc384b459d065148a004e8dd195722d
+      internalID: -2106287315021533458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_124
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 286
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2cb896904734940a29bfcdd4d4ed75
+      internalID: 6998768675894699779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_125
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 286
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e0baaea2336534bbad76e9488e43ad
+      internalID: -8443108202688591979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_126
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b33ea36b0eb6047bdb83b6f581bfa1
+      internalID: 4832861930269717738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_127
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a39ecdbdb61cd49a362733bb0bc3d1
+      internalID: -1866257068798919572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_128
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 251
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0feae12f8129a498ba9a303d914741
+      internalID: -911056794206621894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_129
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 251
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c097375b265d5546a6bb6da3f8ffd73
+      internalID: -8645387782569037406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_130
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 269
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69e6ffa68be0bf4cbf4e3ef0a03b106
+      internalID: -7312019479600504465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_131
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 269
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa9f6d35e5492d44a8db646de589ede
+      internalID: -5997106927305876781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_132
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 251
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42910b402410da44eb3937ad04ed3756
+      internalID: 9170659187717063903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_133
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 251
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e368585610ba60143ae5afeae817b3c8
+      internalID: 50667708269706651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_134
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 251
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f175dd831d92b844d83a39d7e78964d8
+      internalID: -9087258140928774358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_135
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 251
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27082717c132af144b084b937b16c82a
+      internalID: 8146826324911605898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 251
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac51584b678740548ab7cd2825c3759e
+      internalID: 2941117263587028850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_137
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 251
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1dbcb292fa8cc47863fb95ab8db566
+      internalID: -8598428447816409926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_138
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 252
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84f3acb75fce4d43850a7a6c8a92ae4
+      internalID: -5492493147831351535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_139
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 252
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f7b9fc2ef4f694db0fa130d37da2bb
+      internalID: 6882370029454813411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_140
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 252
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba5b7c790c17364683b202d0595efdb
+      internalID: 6855774770935237258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_141
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 252
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba53127848df53448a78d3c5dbacba14
+      internalID: -5995627484801438042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_142
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 252
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a45b1296d754c45a2283bd40238742
+      internalID: -6060531314998890358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_143
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 252
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9645a35e2d7ce4fb0ebdc418e0d8b3
+      internalID: 7817321459005465526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_144
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 251
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8936ffd6c2877c4aab775d0d5bfe401
+      internalID: 3959158203372228514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_145
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 251
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f148d1d3e957f44adf13ef8cd9ca36
+      internalID: 5915793235642290209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_146
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 251
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95ce42e5c2971f4fbcd3bea62df7d08
+      internalID: 1676736418987028610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_147
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 251
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5a1f36a61128942805cc9bc848dcfe
+      internalID: 1231157258217284975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_148
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 251
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a65d09b4d0ae24d8d7859cbee777e2
+      internalID: 344412553882480483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_149
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 251
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909560d6630be1a44b4e33b1bb070a5c
+      internalID: 4241792858629156831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_150
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 216
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa80027cb8597b4e9889e86a3e9b31a
+      internalID: -2468538287374744063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_151
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 219
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3f45942b4af5941bde66c724cef26f
+      internalID: 7224028983283826712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_152
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 218
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b91d205389a49a429beb962194a0fbd
+      internalID: -6494175379922896716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_153
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 216
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cdc8a1a921df147bcc4e4dd1049375
+      internalID: -1537631521886095102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_154
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 219
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf65bc772b49e34e89fe505539307af
+      internalID: 3027502409976737902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_155
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 218
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13036353e1b681d4186aecaf40bdbf08
+      internalID: 1337639011290115823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_156
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 216
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d799c712c284f4cb672e6c74d9e224
+      internalID: 230742195524185237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_157
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 219
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4d31f20804b434099f24f83b5938be
+      internalID: -1566857169963263408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_158
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 218
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef230907d0ce53499ac4188d828045a
+      internalID: -5708211592489755393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_159
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 216
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf27ab49c6983104aae8dc442acb78a6
+      internalID: -5208270305289285461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_160
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 219
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5124d59b9b68c4d4391697d47d748ede
+      internalID: 8367136524015678243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_161
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 218
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45fad9a390be7d47a24ede71baffb76
+      internalID: 751012901149478340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_162
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 216
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798957495fade494680a50ebb6fab1e7
+      internalID: 6493167059084720302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_163
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 219
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9ea7a276e052f40aaa56a6e44aaa3d
+      internalID: 2856180318310653045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_164
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 219
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e9e259fa12d4349ab61b1698c6a2ad
+      internalID: 2009348289449669956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_165
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 217
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa899d894ce7ef40bc28be2d023ea48
+      internalID: 1565396087901255557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_166
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 219
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed05e35721a5f441bc9be5ff3393437
+      internalID: -7198303847619676242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_167
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 219
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45c42499fb8df54d80818cd20e5a4af
+      internalID: -5267321264543648211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_168
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 217
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e93eaa4d3ac91479ec077b7cf3f2d6
+      internalID: -5746125356428069782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_169
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 219
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189323cf629abdf47adccaefb3e000eb
+      internalID: -7274906135308488524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_170
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 219
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8408e0e1ccdc0994cb16fd9fc00fd139
+      internalID: -1941297204412197271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_171
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 217
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8702816eea4f14996304431ac1f123
+      internalID: 6042390034330920367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_172
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 219
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd629febf9f05a4eb0565006c64c436
+      internalID: 5366541488769989913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_173
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 219
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f06559a96778748a9941bedab4148d
+      internalID: -1432005147560421019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_174
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 217
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9113dba49066f4479d1c7ae15a270f0
+      internalID: 7683223483315604106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_175
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 216
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616c3ff7ad9c43446a407b113b6d9117
+      internalID: -3261100648627334230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_176
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 181
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d89feb5aae2efb4cb1dbb667a74c2d8
+      internalID: -3866723692449710283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_177
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 180
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69454a0c9a6166f49800df5398912a2b
+      internalID: -237825603450401538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_178
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 182
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2293db2826e2748be007c9fbe787ce
+      internalID: 3994013239158326187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_179
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 182
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ae827d03dab794794a76eb2fc136be
+      internalID: -1860818756791062647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_180
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 181
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b16c6bff353bc143bbb25996f95bfcc
+      internalID: -2230664606851919937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_181
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 181
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6332ff4dd26e2e46a504d5a4cb6e12c
+      internalID: 4958007211472664718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_182
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 181
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cde9b38efc07545b0a4513a6453fac
+      internalID: -3850732374124516832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_183
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 180
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd183920a7813a4c832aa06c71876f7
+      internalID: -4329505029165160261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_184
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 182
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bb34ec88ab6054cbe2850219429f07
+      internalID: 650045061133290735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_185
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 182
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54943f2f9708376478e6c8e8831797f9
+      internalID: -3323062949536570848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_186
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 181
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6d3471f6c564c4384ab7efd5443c9b
+      internalID: -8992648780007778028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_187
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 181
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dffe7f2f01b1f04e9ee83a939c82e5a
+      internalID: 2186926466991900298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_188
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 181
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f6ca11665892d4f8fb4acd29338f6d
+      internalID: -4319214248223416564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_189
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 180
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cad32fcbb48a340bec330a239e21a7
+      internalID: -1501026436563803686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_190
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 182
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffc417103e76714cbd09a3a3b210ce0
+      internalID: 370551233950564106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_191
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 182
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa597b80186a69e4e9f92de45bbdf321
+      internalID: 6557949049339001789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_192
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 181
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bf74059bc54654a9c61fccb06fe4cd
+      internalID: 5463340627450996242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_193
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 181
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f397108536847d342b14342d24d62b26
+      internalID: 7598130951781892883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_194
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 181
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad18e38c6beb1144394dd9685d05b8ee
+      internalID: -4257697990346717521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_195
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 180
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75da16c6acf6d2e4a81e321d6b852334
+      internalID: -5855856785146389844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_196
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 182
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94adb370bcf3ec4c879e98bb1085089
+      internalID: -911215771884144310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_197
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96920c98d8beeba4ab82c92b60c0d6a9
+      internalID: 2118730175842507405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_198
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 145
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4dcf64eb0f3a145ac9b5cc9ed52769
+      internalID: 5643440512502850308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_199
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 147
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89060663ace1ab04a852a85de53002e2
+      internalID: -1337829395141893781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_200
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 146
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccc903ba2a9e5a42a8b3cca26552006
+      internalID: -8082850388030658086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_201
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 144
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a8a600e7e828d4d8ca8e49e2ecfd71
+      internalID: 7832457598241702192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_202
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 147
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d49fbee829de140bb15536c4cad33a
+      internalID: 6773901739310560627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_203
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 146
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e49eca0e38cf94ab8745730b0f5a6a
+      internalID: -6861648521448826707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_204
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 144
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029558754d36a2745a94931420c828e8
+      internalID: 3462106445493814158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_205
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 147
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e90901e7b7233940976a1fa7e85a4db
+      internalID: -6092666425413981822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_206
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 146
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dccd07384f2c54ba405a099ed8672f
+      internalID: -2085299423006010427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_207
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 144
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522361c5f1b03f9448f756cebe1bdb34
+      internalID: 5565235812119797521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_208
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 147
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145ac4e007d34a0409d17ff2a76a7305
+      internalID: -5561531084042572281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_209
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 146
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23efe75a3647da9469a56e4aa4a2dc1b
+      internalID: 4324534085471379756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_210
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 144
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b55fc461d68c5f43bb02db91fdc6622
+      internalID: 8225660736909410666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_211
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 147
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a5c21439d82c643b9bec915acb6307
+      internalID: -6330079198600650758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_212
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 147
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2082457bdd29f94eb70bb1a1923a2ba
+      internalID: 9003685907471033800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_213
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 145
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7ab3d3275d4884e9619f11d8402977
+      internalID: 9105419200889463293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_214
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 147
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94a30a38b13e174c94be749dfcd5f8f
+      internalID: 6174008695556107387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_215
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 147
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593ea726882b6ea4c921fe211300d2b3
+      internalID: 2995929452593426282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_216
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 145
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b235e2502b14a4e96c3eee1c85cdd0
+      internalID: -8332837045137389542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_217
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 147
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cbcd5361b4f1b4caeed394767b0141
+      internalID: 2091706153673336239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_218
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 147
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc01e03325dd8864484f80be5b603642
+      internalID: 2739891404030469761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_219
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 145
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fd19abfd0ecf546ac52b2a3635ce13
+      internalID: -7232949528226873123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_220
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 147
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6b9b07deb9e5b4bbd78e0f28040584
+      internalID: -7701497636902955628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_221
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 147
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d68eccab9c47d46b22e04b0d1881bc
+      internalID: -5822255903112749019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_222
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 145
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80caa486b9ecda4b8d3b5fd9ad18f5e
+      internalID: -291341467417176669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_223
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 109
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25e263f22fb65246ac3da1370994e9e
+      internalID: 1880889407915570720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_224
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 109
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0e82ff6bfafef4fa24c12b43f3b65c
+      internalID: -2249925915065107817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_225
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 108
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a385cd95f470644a4eae73d65e3ac2
+      internalID: -3736007011737634274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_226
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 110
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e531467fea803947abe415e202028ee
+      internalID: 3281849356852109397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_227
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 110
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add7422e372b6f342a7be661bc58783b
+      internalID: -1094477421748573832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_228
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 109
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c6cd2028a58fe4498a75f0dcd849ad
+      internalID: -1620408208505431954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_229
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 109
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f61cf79b60263c4e850639d3a54637a
+      internalID: 6677155369049909985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_230
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 109
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1fccc023fa4bb4d8e8c04bbdb1527d
+      internalID: -5941335540212885155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_231
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 108
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47086d25f9bb4c4429c56b75295b40a0
+      internalID: 8253385858391295786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_232
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 110
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63370edf180f1a44aacc4da9fe62a6e7
+      internalID: -3215191100088178737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_233
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 110
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115a73a563ab28c4993ec925c620f4f0
+      internalID: -5161839373619722417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_234
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 109
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1a834f446e830489a1e0e397c0149c
+      internalID: -8339862449539712549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_235
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 109
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c498f12ad757eea4faf9850723d0ec45
+      internalID: -8829988276781393221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_236
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 109
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7d0fee4d9584e4ab0a3ddd049f72db
+      internalID: 5605087253218493583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_237
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 108
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c4ac3e5e374bb44817716914767342
+      internalID: -4186243460392280231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_238
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 110
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da630f473faed548b88ad346be7ddeb
+      internalID: 4308796724240939890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_239
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 110
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b402c81606c25140bf28a14c8ef9607
+      internalID: 2310627853095379133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_240
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 109
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1411f063f3f42c42acdc2bfffa994ad
+      internalID: -7888373080202647689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_241
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 109
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92aff5b29e632f043aec0c0103cf192f
+      internalID: -6647952221928112576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_242
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 109
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3a4fb389194004099b9ab406995ccd
+      internalID: -6022238870441355057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_243
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 108
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3544f952da3de04e97913f19ff9d078
+      internalID: -3838974243031889831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_244
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 74
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990f8abbaa3e19c4ca8149cd852a6d43
+      internalID: -8361876594579277651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_245
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 74
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa460eb943acee4491af55c46b1f7ce
+      internalID: 8944562552099561026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_246
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 73
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e393de38ead2d9b4b8aa78d1e646e07c
+      internalID: -6357546893120830714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_247
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a71e16a56c27b547b5126c4ed70181c
+      internalID: -7167885422157767360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_248
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 73
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f63ed08f15afbf4a898030903313ee7
+      internalID: 4224856833499942700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_249
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 73
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c479e8462168044eab7608941374caa
+      internalID: 2574988484208045267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_250
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77251d964a86262408a3536e2c665317
+      internalID: 4282956864422078658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_251
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 73
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46afb50fa06cdc42999efb3b89152be
+      internalID: -6422007237104269497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_252
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 73
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934411d42857a1342aead0787bdfc3b0
+      internalID: -4082437489496408638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_253
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f635851b4feee5a4e9248c157a274dca
+      internalID: -598822234814424443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_254
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca58539eb1162744a00fe37387128ea
+      internalID: -5032215969957095763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_255
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7624c97de9e365345be893724458a7ab
+      internalID: 8921439370213870501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_256
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a72c31d3666a434e8f6ea69caa923c4
+      internalID: -3922132665485479785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_257
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9943348830e267d4d8416ffc807c22ce
+      internalID: -4973996388165328530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_258
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0fb66fc476bf641885ab8a516b64f8
+      internalID: 9078211429499467258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_259
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c74a19437948c40ad0117f6666e738
+      internalID: 448866543180351692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_260
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 73
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980bda47654e65645920396f9a23a16d
+      internalID: -1655672182983016576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_261
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 73
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc1efcac791ba845b37506a95cd9b2d
+      internalID: -1312314256299931080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_262
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184dc3d4c946a564b9a8304cf9c9b393
+      internalID: 8518241914514553921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_263
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 73
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfd04fc33c63f74c9ac242692818f7f
+      internalID: 8495737634910542955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_264
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65abb86128f634646b4c903373c5ed0d
+      internalID: 890354272577720029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_265
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564fbda514a58ef449afcd8ffb94871e
+      internalID: 6073623920551938596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_266
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2af5fe022a88e64e866592d094841f4
+      internalID: -6510881461944923031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_267
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3bffe326d7f0e4f99366ae0b7bff4b
+      internalID: -4039395077086465631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_268
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a035398c3dbc7db4494e00db59c09c74
+      internalID: -1858119174122171744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_269
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e9ff42d00dee84bb4354414c222523
+      internalID: 1943729637859367399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_270
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 39
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b274c66faf97d046b9ea41f33d5cd5d
+      internalID: -3543168235471186753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_271
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472c436970e1c8142a91584a95bfe309
+      internalID: -1911763809667762946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_272
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d7b6563d1cfb04d93097c85238d5b7
+      internalID: 879476640650089888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_273
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 39
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c59fda48097994ba377b433ad7f93a
+      internalID: 5741295429360834416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_274
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30f16c6d05a48a40a55a8125d071b08
+      internalID: -8320497737185157723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_275
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13eef0a45fe049d44bf3aa2a2c9e1f80
+      internalID: -3884363339960863110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_276
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 39
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc847f0f86294f64388c0f77aa787067
+      internalID: 5480775091282037855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_277
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c5564740c303b4097614987e33241b
+      internalID: 2019646460542121774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_278
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d7c72da9f44ff49bd48827d12a9430
+      internalID: 98647309119353425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_279
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 39
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24437f2ea6eed024496de09f166782e5
+      internalID: 9180571380200913237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_280
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b45d38794a6a247ba6d843caa23628
+      internalID: -4961750251543028419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_281
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8867419502a5ce1479174ce8e514c801
+      internalID: -6006182208437965204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_282
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 39
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9093f41aa0e1d341b35a92d92981a4c
+      internalID: -710253776652590976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_283
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c1d5751b06fc34ba4e799356b5a92a
+      internalID: 6143262454037716293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_284
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2741b3346968934299e86c003fb405f
+      internalID: -3999861568534304654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_285
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 39
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab0b0c0400990747a5cc2616512b9bd
+      internalID: 7427338531046802908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_286
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d344ee75246c44e4fbe2b3b5b882e211
+      internalID: 1438926619865131424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_287
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c2a983e40c9a347846c25b6257021b
+      internalID: -2493391934725346341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_288
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 39
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ec3c6d14216544684550abd1c9078d
+      internalID: -8611632575394129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_289
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbedd6d70108f9f418dff855072de470
+      internalID: 6397249480326923236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_290
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad93d39e17c0dc48a65243cce540f78
+      internalID: 4718773147010693618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_291
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 39
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe16793b9c02c04097244ce3ae2b773
+      internalID: 6807860113796080451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_292
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e078b15a3260046a127f43a15b2796
+      internalID: -2058548988439312410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hannit_293
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0418c93f716e544b80944c3a9ab3f3
+      internalID: 1809848065638907028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 03a6719c76ce0264db97df798f55f650
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

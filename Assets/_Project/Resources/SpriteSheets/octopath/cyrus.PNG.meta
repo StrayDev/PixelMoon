@@ -1,0 +1,6703 @@
+fileFormatVersion: 2
+guid: 2929622266f615c4e9703e0837b58e6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4144380411920898281
+    second: cyrus_0
+  - first:
+      213: 5665668510139618348
+    second: cyrus_1
+  - first:
+      213: 8134777836796652943
+    second: cyrus_2
+  - first:
+      213: 2422369730678983861
+    second: cyrus_3
+  - first:
+      213: 425610915619326581
+    second: cyrus_4
+  - first:
+      213: 6799412547133689485
+    second: cyrus_5
+  - first:
+      213: -5057220277839377167
+    second: cyrus_6
+  - first:
+      213: -83372425812975880
+    second: cyrus_7
+  - first:
+      213: -4112074062996755140
+    second: cyrus_8
+  - first:
+      213: -8919215576862943169
+    second: cyrus_9
+  - first:
+      213: -6433975363627686071
+    second: cyrus_10
+  - first:
+      213: 8948035665067913123
+    second: cyrus_11
+  - first:
+      213: 4449911992823207336
+    second: cyrus_12
+  - first:
+      213: -3346026685733551980
+    second: cyrus_13
+  - first:
+      213: 199581805523358483
+    second: cyrus_14
+  - first:
+      213: -7009175254177887348
+    second: cyrus_15
+  - first:
+      213: 7946229898159078426
+    second: cyrus_16
+  - first:
+      213: 5878084264083330371
+    second: cyrus_17
+  - first:
+      213: 338330665583286117
+    second: cyrus_18
+  - first:
+      213: 289615583527244312
+    second: cyrus_19
+  - first:
+      213: 4045791641126928567
+    second: cyrus_20
+  - first:
+      213: -3391831429108199137
+    second: cyrus_21
+  - first:
+      213: 849941822658618172
+    second: cyrus_22
+  - first:
+      213: -5614503453025701429
+    second: cyrus_23
+  - first:
+      213: 4645108457237775648
+    second: cyrus_24
+  - first:
+      213: -2857837466433589767
+    second: cyrus_25
+  - first:
+      213: -6144707174134447305
+    second: cyrus_26
+  - first:
+      213: 3436957485279128347
+    second: cyrus_27
+  - first:
+      213: 1534400614518500993
+    second: cyrus_28
+  - first:
+      213: -3456502316981247439
+    second: cyrus_29
+  - first:
+      213: 31450670654252595
+    second: cyrus_30
+  - first:
+      213: -4920316124354269894
+    second: cyrus_31
+  - first:
+      213: 2545841125954718236
+    second: cyrus_32
+  - first:
+      213: 9145786089352595610
+    second: cyrus_33
+  - first:
+      213: -7527472504092636680
+    second: cyrus_34
+  - first:
+      213: -3198815963664912937
+    second: cyrus_35
+  - first:
+      213: 4606991937777877739
+    second: cyrus_36
+  - first:
+      213: -6189414192767988381
+    second: cyrus_37
+  - first:
+      213: 7335709842094373264
+    second: cyrus_38
+  - first:
+      213: -7292710033735907761
+    second: cyrus_39
+  - first:
+      213: -92955107268265201
+    second: cyrus_40
+  - first:
+      213: -9107316815707400657
+    second: cyrus_41
+  - first:
+      213: -5426929191246593161
+    second: cyrus_42
+  - first:
+      213: -8293678199962549704
+    second: cyrus_43
+  - first:
+      213: 7641839001536019566
+    second: cyrus_44
+  - first:
+      213: 5710596142961599135
+    second: cyrus_45
+  - first:
+      213: -4807129147627743123
+    second: cyrus_46
+  - first:
+      213: -1413827121532003705
+    second: cyrus_47
+  - first:
+      213: -2455988861542208291
+    second: cyrus_48
+  - first:
+      213: 5044652091421286052
+    second: cyrus_49
+  - first:
+      213: 8443022368006932524
+    second: cyrus_50
+  - first:
+      213: 6542454341368937872
+    second: cyrus_51
+  - first:
+      213: 3785635371505219959
+    second: cyrus_52
+  - first:
+      213: 5047331467906676770
+    second: cyrus_53
+  - first:
+      213: -3124171357657188526
+    second: cyrus_54
+  - first:
+      213: -8078809866247856279
+    second: cyrus_55
+  - first:
+      213: 2126195677262268079
+    second: cyrus_56
+  - first:
+      213: 3573081955657912090
+    second: cyrus_57
+  - first:
+      213: -7787017367957187839
+    second: cyrus_58
+  - first:
+      213: -8940428085586704905
+    second: cyrus_59
+  - first:
+      213: 1439501289705347089
+    second: cyrus_60
+  - first:
+      213: -5108757101358439410
+    second: cyrus_61
+  - first:
+      213: 3650972297340682016
+    second: cyrus_62
+  - first:
+      213: -8917369636417062537
+    second: cyrus_63
+  - first:
+      213: -8150453078848822833
+    second: cyrus_64
+  - first:
+      213: -1877444978254061230
+    second: cyrus_65
+  - first:
+      213: 2348071037673504244
+    second: cyrus_66
+  - first:
+      213: -3946661184828253636
+    second: cyrus_67
+  - first:
+      213: -8245461762766395554
+    second: cyrus_68
+  - first:
+      213: -5259349362814194754
+    second: cyrus_69
+  - first:
+      213: -6171329165332982668
+    second: cyrus_70
+  - first:
+      213: -7639697716757310628
+    second: cyrus_71
+  - first:
+      213: 1076866923707361323
+    second: cyrus_72
+  - first:
+      213: 4972579561061693695
+    second: cyrus_73
+  - first:
+      213: -5118794003820900961
+    second: cyrus_74
+  - first:
+      213: -2331960003617261838
+    second: cyrus_75
+  - first:
+      213: 6159851126684888565
+    second: cyrus_76
+  - first:
+      213: -5201856717084290138
+    second: cyrus_77
+  - first:
+      213: 5479289340171839208
+    second: cyrus_78
+  - first:
+      213: 3690004670752917104
+    second: cyrus_79
+  - first:
+      213: -130267380720457239
+    second: cyrus_80
+  - first:
+      213: 8396922303148478009
+    second: cyrus_81
+  - first:
+      213: 1719833078842906165
+    second: cyrus_82
+  - first:
+      213: -8632338182126770077
+    second: cyrus_83
+  - first:
+      213: 7477615978433478774
+    second: cyrus_84
+  - first:
+      213: -2100691608871958558
+    second: cyrus_85
+  - first:
+      213: 4110292152806707692
+    second: cyrus_86
+  - first:
+      213: 276284866181503763
+    second: cyrus_87
+  - first:
+      213: -7626644614946184715
+    second: cyrus_88
+  - first:
+      213: -9063193773633943294
+    second: cyrus_89
+  - first:
+      213: 1408672367199093111
+    second: cyrus_90
+  - first:
+      213: -3003984456578450944
+    second: cyrus_91
+  - first:
+      213: -8857805391895849575
+    second: cyrus_92
+  - first:
+      213: 9063651473604057079
+    second: cyrus_93
+  - first:
+      213: 4441906860172887986
+    second: cyrus_94
+  - first:
+      213: -6888981229700126328
+    second: cyrus_95
+  - first:
+      213: -7375278044605434048
+    second: cyrus_96
+  - first:
+      213: 4931509141929877606
+    second: cyrus_97
+  - first:
+      213: -2040745864384087900
+    second: cyrus_98
+  - first:
+      213: -1867456337803141143
+    second: cyrus_99
+  - first:
+      213: -7730092538741755891
+    second: cyrus_100
+  - first:
+      213: -1418616415687558492
+    second: cyrus_101
+  - first:
+      213: 1482492403151589109
+    second: cyrus_102
+  - first:
+      213: -5927725496293412964
+    second: cyrus_103
+  - first:
+      213: 5531469948813633714
+    second: cyrus_104
+  - first:
+      213: -3730031880145853804
+    second: cyrus_105
+  - first:
+      213: -6782803652890285204
+    second: cyrus_106
+  - first:
+      213: 6467825204608306094
+    second: cyrus_107
+  - first:
+      213: -2519482925046391002
+    second: cyrus_108
+  - first:
+      213: 5786026230931268686
+    second: cyrus_109
+  - first:
+      213: -2366861025724053631
+    second: cyrus_110
+  - first:
+      213: 2500520977392370432
+    second: cyrus_111
+  - first:
+      213: -3588088508278443475
+    second: cyrus_112
+  - first:
+      213: 525881727526815979
+    second: cyrus_113
+  - first:
+      213: -8179633507951219759
+    second: cyrus_114
+  - first:
+      213: 974808602265836177
+    second: cyrus_115
+  - first:
+      213: 3564651381703927234
+    second: cyrus_116
+  - first:
+      213: -8852778351816631536
+    second: cyrus_117
+  - first:
+      213: -7696727915097987645
+    second: cyrus_118
+  - first:
+      213: 1942860490691707591
+    second: cyrus_119
+  - first:
+      213: -5993421274236674304
+    second: cyrus_120
+  - first:
+      213: -4664692246920316623
+    second: cyrus_121
+  - first:
+      213: 5331556720545041402
+    second: cyrus_122
+  - first:
+      213: -91476069210874561
+    second: cyrus_123
+  - first:
+      213: -1396939296714569795
+    second: cyrus_124
+  - first:
+      213: 997157050012074427
+    second: cyrus_125
+  - first:
+      213: 8924253924657835977
+    second: cyrus_126
+  - first:
+      213: -1696049028066307154
+    second: cyrus_127
+  - first:
+      213: -4088226483689765114
+    second: cyrus_128
+  - first:
+      213: 7833715515265598063
+    second: cyrus_129
+  - first:
+      213: 7548141441728062936
+    second: cyrus_130
+  - first:
+      213: 8305873838282954042
+    second: cyrus_131
+  - first:
+      213: -307831565031470261
+    second: cyrus_132
+  - first:
+      213: 6451980918619336571
+    second: cyrus_133
+  - first:
+      213: 93940547039849815
+    second: cyrus_134
+  - first:
+      213: 5827346242345796322
+    second: cyrus_135
+  - first:
+      213: 4121127249990578788
+    second: cyrus_136
+  - first:
+      213: -445457799778281555
+    second: cyrus_137
+  - first:
+      213: 5616077981181294457
+    second: cyrus_138
+  - first:
+      213: 2758171162745524655
+    second: cyrus_139
+  - first:
+      213: -1500145388732988093
+    second: cyrus_140
+  - first:
+      213: 8533149259196085238
+    second: cyrus_141
+  - first:
+      213: -2815653647008535431
+    second: cyrus_142
+  - first:
+      213: -8999285764885033140
+    second: cyrus_143
+  - first:
+      213: 9065551882297901832
+    second: cyrus_144
+  - first:
+      213: -5731505370435428511
+    second: cyrus_145
+  - first:
+      213: 3547136394971202526
+    second: cyrus_146
+  - first:
+      213: 3785141615165678806
+    second: cyrus_147
+  - first:
+      213: 2229390510432607307
+    second: cyrus_148
+  - first:
+      213: -4924080857407340129
+    second: cyrus_149
+  - first:
+      213: -1322091730463353859
+    second: cyrus_150
+  - first:
+      213: 8375121639169496831
+    second: cyrus_151
+  - first:
+      213: -3624031422924904246
+    second: cyrus_152
+  - first:
+      213: 5950324984630629583
+    second: cyrus_153
+  - first:
+      213: 1124096119977866286
+    second: cyrus_154
+  - first:
+      213: 466009813052840358
+    second: cyrus_155
+  - first:
+      213: 5271985854443591694
+    second: cyrus_156
+  - first:
+      213: 1509757526446903759
+    second: cyrus_157
+  - first:
+      213: -3163445470874628434
+    second: cyrus_158
+  - first:
+      213: -7117069358286169981
+    second: cyrus_159
+  - first:
+      213: 7167031572274575641
+    second: cyrus_160
+  - first:
+      213: -4189262368514625074
+    second: cyrus_161
+  - first:
+      213: 3906441791295644112
+    second: cyrus_162
+  - first:
+      213: 3414105873732549911
+    second: cyrus_163
+  - first:
+      213: -8966209575986841875
+    second: cyrus_164
+  - first:
+      213: -6195200026638095867
+    second: cyrus_165
+  - first:
+      213: -6948394651484701690
+    second: cyrus_166
+  - first:
+      213: 6266709149136420422
+    second: cyrus_167
+  - first:
+      213: -418540648079350099
+    second: cyrus_168
+  - first:
+      213: 466637796482824613
+    second: cyrus_169
+  - first:
+      213: -3473847998769109277
+    second: cyrus_170
+  - first:
+      213: 4986726042565018073
+    second: cyrus_171
+  - first:
+      213: -816944598116717821
+    second: cyrus_172
+  - first:
+      213: -2373820208892644131
+    second: cyrus_173
+  - first:
+      213: -4211707150674656278
+    second: cyrus_174
+  - first:
+      213: -2481974364767911518
+    second: cyrus_175
+  - first:
+      213: -1363511173369787149
+    second: cyrus_176
+  - first:
+      213: -5947902707898387970
+    second: cyrus_177
+  - first:
+      213: 7421685480123103280
+    second: cyrus_178
+  - first:
+      213: -3200180109009207720
+    second: cyrus_179
+  - first:
+      213: 3739990492773940914
+    second: cyrus_180
+  - first:
+      213: 1594650217645181081
+    second: cyrus_181
+  - first:
+      213: 7394440649143590220
+    second: cyrus_182
+  - first:
+      213: -2637714126205143664
+    second: cyrus_183
+  - first:
+      213: -205026831520537640
+    second: cyrus_184
+  - first:
+      213: -848879190543184615
+    second: cyrus_185
+  - first:
+      213: 7574328620254961769
+    second: cyrus_186
+  - first:
+      213: -789781721326729930
+    second: cyrus_187
+  - first:
+      213: -501933103825130389
+    second: cyrus_188
+  - first:
+      213: 3459690789794103189
+    second: cyrus_189
+  - first:
+      213: -6404455319804831806
+    second: cyrus_190
+  - first:
+      213: 4285037423356033450
+    second: cyrus_191
+  - first:
+      213: 5274277438370545450
+    second: cyrus_192
+  - first:
+      213: -5927851354834367048
+    second: cyrus_193
+  - first:
+      213: 5836035099806945718
+    second: cyrus_194
+  - first:
+      213: -5551531889289510374
+    second: cyrus_195
+  - first:
+      213: 3690835095864507136
+    second: cyrus_196
+  - first:
+      213: 2593090485019098276
+    second: cyrus_197
+  - first:
+      213: 7078523655868194864
+    second: cyrus_198
+  - first:
+      213: 5399611629547743331
+    second: cyrus_199
+  - first:
+      213: 1592996082180202522
+    second: cyrus_200
+  - first:
+      213: -7499702035118633411
+    second: cyrus_201
+  - first:
+      213: 8810201874138926368
+    second: cyrus_202
+  - first:
+      213: -923312665475799358
+    second: cyrus_203
+  - first:
+      213: -6395573148290236288
+    second: cyrus_204
+  - first:
+      213: -7009391932840489220
+    second: cyrus_205
+  - first:
+      213: 5484795123045463253
+    second: cyrus_206
+  - first:
+      213: 2693129313345756261
+    second: cyrus_207
+  - first:
+      213: 8653477678566389665
+    second: cyrus_208
+  - first:
+      213: -2581560761532677627
+    second: cyrus_209
+  - first:
+      213: 7722539102728819421
+    second: cyrus_210
+  - first:
+      213: -766049000474500827
+    second: cyrus_211
+  - first:
+      213: 2964998445561903666
+    second: cyrus_212
+  - first:
+      213: -8814486189646357494
+    second: cyrus_213
+  - first:
+      213: -1690746275317112169
+    second: cyrus_214
+  - first:
+      213: -1851525987623633645
+    second: cyrus_215
+  - first:
+      213: -1548225832258580816
+    second: cyrus_216
+  - first:
+      213: -2830353945291556469
+    second: cyrus_217
+  - first:
+      213: 33703200735742947
+    second: cyrus_218
+  - first:
+      213: 4102889308566805338
+    second: cyrus_219
+  - first:
+      213: -6633337667546232067
+    second: cyrus_220
+  - first:
+      213: -4706964375194694989
+    second: cyrus_221
+  - first:
+      213: 3548884387251194551
+    second: cyrus_222
+  - first:
+      213: -3175142323848381425
+    second: cyrus_223
+  - first:
+      213: -3886127370847618569
+    second: cyrus_224
+  - first:
+      213: -6593618527225377451
+    second: cyrus_225
+  - first:
+      213: 6288703929104894500
+    second: cyrus_226
+  - first:
+      213: 2191425325052292005
+    second: cyrus_227
+  - first:
+      213: 4168853799509279376
+    second: cyrus_228
+  - first:
+      213: -4819364066249733375
+    second: cyrus_229
+  - first:
+      213: 540423922343213989
+    second: cyrus_230
+  - first:
+      213: -5402175572564725820
+    second: cyrus_231
+  - first:
+      213: -5888495537649864314
+    second: cyrus_232
+  - first:
+      213: -1942818768975776181
+    second: cyrus_233
+  - first:
+      213: -5317905529187215111
+    second: cyrus_234
+  - first:
+      213: 3622420459672958773
+    second: cyrus_235
+  - first:
+      213: 2510575217857240090
+    second: cyrus_236
+  - first:
+      213: -2434374947525809463
+    second: cyrus_237
+  - first:
+      213: 4042251469999952717
+    second: cyrus_238
+  - first:
+      213: 4025948656683131302
+    second: cyrus_239
+  - first:
+      213: -894945940466975642
+    second: cyrus_240
+  - first:
+      213: -6405720720953199882
+    second: cyrus_241
+  - first:
+      213: -992887159767867682
+    second: cyrus_242
+  - first:
+      213: 1361092155331511832
+    second: cyrus_243
+  - first:
+      213: 1454006527510597685
+    second: cyrus_244
+  - first:
+      213: -1355918892378255156
+    second: cyrus_245
+  - first:
+      213: 7966039347519380646
+    second: cyrus_246
+  - first:
+      213: -1583016168254705153
+    second: cyrus_247
+  - first:
+      213: -488419470410670937
+    second: cyrus_248
+  - first:
+      213: -7486050372743457158
+    second: cyrus_249
+  - first:
+      213: -6832130032125388088
+    second: cyrus_250
+  - first:
+      213: 14271763634683782
+    second: cyrus_251
+  - first:
+      213: 5721967454630298463
+    second: cyrus_252
+  - first:
+      213: -527070349780556313
+    second: cyrus_253
+  - first:
+      213: 404077600307318060
+    second: cyrus_254
+  - first:
+      213: -6113823954289043196
+    second: cyrus_255
+  - first:
+      213: -3845734627317631729
+    second: cyrus_256
+  - first:
+      213: 78717938897708839
+    second: cyrus_257
+  - first:
+      213: -1855393119776326700
+    second: cyrus_258
+  - first:
+      213: -1138267863640589380
+    second: cyrus_259
+  - first:
+      213: 1835048938513707086
+    second: cyrus_260
+  - first:
+      213: 2506463255587588641
+    second: cyrus_261
+  - first:
+      213: -7283521060715266090
+    second: cyrus_262
+  - first:
+      213: 8997388397107752030
+    second: cyrus_263
+  - first:
+      213: -6846174323450687247
+    second: cyrus_264
+  - first:
+      213: 5093675931321190144
+    second: cyrus_265
+  - first:
+      213: -3756679893983548244
+    second: cyrus_266
+  - first:
+      213: 511122389293207637
+    second: cyrus_267
+  - first:
+      213: -2434959917461140496
+    second: cyrus_268
+  - first:
+      213: 4683521119926376232
+    second: cyrus_269
+  - first:
+      213: 4687485382927222706
+    second: cyrus_270
+  - first:
+      213: 6117595442943528683
+    second: cyrus_271
+  - first:
+      213: 7711374758419911645
+    second: cyrus_272
+  - first:
+      213: -1395450412483232877
+    second: cyrus_273
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cyrus_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 476
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eff88b1baaddae479ce60a832a625ea
+      internalID: 4144380411920898281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 476
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9f149089a11654b96a9581fd720e05
+      internalID: 5665668510139618348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 476
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbf1dde45aba324294c51ad71f5e480
+      internalID: 8134777836796652943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 476
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c1b8dfb33c7d9438405f03f10f3538
+      internalID: 2422369730678983861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 476
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfed6040bea058842b875bff55fde5b1
+      internalID: 425610915619326581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 476
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddffa07aa8637284ca918247730f9006
+      internalID: 6799412547133689485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 476
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688d1c58b8de4134d9f4486b9a8071a9
+      internalID: -5057220277839377167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 477
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a061fc912fb384499f0472f673595ae
+      internalID: -83372425812975880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135b19089e06c784e8ea6be2744016e7
+      internalID: -4112074062996755140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_9
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 480
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4754cd6a577ce41a86936a7f88fba3
+      internalID: -8919215576862943169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_10
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 481
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cbb72407ddda642b1e08c99c2217bf
+      internalID: -6433975363627686071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_11
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 481
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d772cb17e16406247bb40c41bd442505
+      internalID: 8948035665067913123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_12
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 481
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264d2e17f7fc78648af90e570094a5f3
+      internalID: 4449911992823207336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_13
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 480
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1b3373e779421488451ccdac1958a1
+      internalID: -3346026685733551980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_14
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 478
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17af370511f8c34b808228bdb37fdca
+      internalID: 199581805523358483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_15
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 476
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae91bf7565db1de4fa819e35f2cc67da
+      internalID: -7009175254177887348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_16
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 477
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0808b675a7e515b43a2bd9ce757b7cb8
+      internalID: 7946229898159078426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_17
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 480
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8176a389a58f6e4abc437fbe085c5a5
+      internalID: 5878084264083330371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_18
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 480
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cbf1a0b9831da4c91e3da68cb2011e
+      internalID: 338330665583286117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_19
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 481
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cae24c847322b4a88e7adc35356ce2
+      internalID: 289615583527244312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 445
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b8676a7d04d5d49933f641014fd4d8
+      internalID: 4045791641126928567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 445
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b288353cb0465f41b7afdc867f43b25
+      internalID: -3391831429108199137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 444
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ad8ea298ca505499d43f767c3b224b
+      internalID: 849941822658618172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_23
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 442
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d48469afdafd6c4bb4c28454db7d88d
+      internalID: -5614503453025701429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 443
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd637677872c7004ba7d1a5bb79f4067
+      internalID: 4645108457237775648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 443
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07af5670117eb0b4989b7d87e3f32919
+      internalID: -2857837466433589767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 448
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ab8932a3656d74186ed033f2bdcbf9
+      internalID: -6144707174134447305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_27
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 448
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8569ae7c95289c44b2259e36c07d50b
+      internalID: 3436957485279128347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 448
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcffd03adafbee24687a1794ab12cf53
+      internalID: 1534400614518500993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 448
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77460811c746bd4d8a587f8c2fd8777
+      internalID: -3456502316981247439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_30
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 448
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7850257c5e657c4f94dc84daefd1174
+      internalID: 31450670654252595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_31
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 448
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b0b438d3c22e44ca53b352c0c92fec
+      internalID: -4920316124354269894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_32
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 440
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44376486f8b69042ab25a3a115118f0
+      internalID: 2545841125954718236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_33
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 440
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ffcce73c397ad4bb19b23e114913f2
+      internalID: 9145786089352595610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 447
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df37914cdbbae247b759d76a2e352c4
+      internalID: -7527472504092636680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_35
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 447
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2156fa6ba00a41044a3590440fea356f
+      internalID: -3198815963664912937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_36
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 446
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e39766e969bc9428d6ad11116055ed
+      internalID: 4606991937777877739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_37
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 446
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde2d0867a452514aacb74835b76097d
+      internalID: -6189414192767988381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_38
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 447
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b99ec0a8941e7c4bba714315f33fa06
+      internalID: 7335709842094373264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_39
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 447
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44222b3d3639d294bbe3ef90d7647570
+      internalID: -7292710033735907761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_40
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 446
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9673e18461ebc48b8a249da743e45a
+      internalID: -92955107268265201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_41
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 446
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f32038dc5641604286207a6d18e573f
+      internalID: -9107316815707400657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 407
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b109b6fc58f6eb49847fa1f411644f7
+      internalID: -5426929191246593161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_43
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 407
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a03b027caa99a4c9f99416ca8ba2ec
+      internalID: -8293678199962549704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_44
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 404
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a95e976f6a09e43927b6aed9b99649
+      internalID: 7641839001536019566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_45
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 404
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db2e53cbb15bb6478ed0491654dfe47
+      internalID: 5710596142961599135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_46
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 404
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe183ffc535b8746afbc5babbb7bfa5
+      internalID: -4807129147627743123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_47
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 404
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea13c8d1cf41eea4a96fdc6e71b4ec1a
+      internalID: -1413827121532003705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_48
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 404
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451385b1d29d45943a08596421e0e3d2
+      internalID: -2455988861542208291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_49
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 404
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c136418ad0f4a14ca67cf1d1610bbf4
+      internalID: 5044652091421286052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_50
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 404
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92d9274e2fd63248aedfdf00bb3e61e
+      internalID: 8443022368006932524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_51
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 404
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d194d20058e5cf43b69b1fbd24fe7ec
+      internalID: 6542454341368937872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 424
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dd5e8bb1b10774f920adb8f30a6176
+      internalID: 3785635371505219959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_53
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 424
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4979a65c0746a444876dd9173233ae7
+      internalID: 5047331467906676770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_54
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 405
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c952fbe5a4abf409973f75c53a7ae3
+      internalID: -3124171357657188526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_55
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 405
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a7aac1ec293094b945e536700b3a23
+      internalID: -8078809866247856279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_56
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 406
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aeda75dc9123a42855d1ac9d9bfb6d
+      internalID: 2126195677262268079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_57
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 406
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab689d67df328334793523af418f6135
+      internalID: 3573081955657912090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_58
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 406
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c7ecc5a4ad8a54a8c04d65e92409b7
+      internalID: -7787017367957187839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_59
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 406
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2b773a8a0cabe45a80d31c4e30cf44
+      internalID: -8940428085586704905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_60
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 406
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5a39044429fc745bc58c51137bba71
+      internalID: 1439501289705347089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_61
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 406
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a74f0885a999364e833f05fc0f068c7
+      internalID: -5108757101358439410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_62
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 404
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb08523e1ce2f446bf5b01d153e8e56
+      internalID: 3650972297340682016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 368
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49ce293d974c8e4a9a8d953469db19b
+      internalID: -8917369636417062537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_64
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 368
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766aaa6fffbf10146ae766bf4a96d2a5
+      internalID: -8150453078848822833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_65
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 373
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1a485f97377a748b3b582c9a925760
+      internalID: -1877444978254061230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_66
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 373
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa50493b60ae394faf84ea129d30604
+      internalID: 2348071037673504244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_67
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 368
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d035cb250e351064cb23760dd6c36210
+      internalID: -3946661184828253636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_68
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 368
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55315e922dd9a5f4d9fac32c743e58cb
+      internalID: -8245461762766395554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_69
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 368
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c910b16ec47f904997e9c257bdace95
+      internalID: -5259349362814194754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_70
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 368
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a319e3e1cc0912f4faae38da70470ab3
+      internalID: -6171329165332982668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_71
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 368
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7719fb6eeecd35449996ee51df3e5ed
+      internalID: -7639697716757310628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_72
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 368
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56413d5970772764b86d2d37608d557b
+      internalID: 1076866923707361323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_73
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 368
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55c62339939cc547a1603ce080e59b9
+      internalID: 4972579561061693695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_74
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 368
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14ba8fb1464e49448956746de073568
+      internalID: -5118794003820900961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_75
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 368
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f521db271dfcb428652744ef089d98
+      internalID: -2331960003617261838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_76
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 368
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e13b2d9efa4da40a9b4bcb04ae4cf5
+      internalID: 6159851126684888565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_77
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 368
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502db1b34f8342b4ab23645b088452a0
+      internalID: -5201856717084290138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_78
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 368
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e1bb9423c95fc48abcfad6032e0826
+      internalID: 5479289340171839208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_79
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 368
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627cd0078dd23534eac9a86979fd77ba
+      internalID: 3690004670752917104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_80
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 368
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c92ba327cca30246ae890fbc704131f
+      internalID: -130267380720457239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_81
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 368
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382e7ee509b49c14c84738d008840cfe
+      internalID: 8396922303148478009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_82
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 368
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a095ec5c63de294c97cc067f6b87133
+      internalID: 1719833078842906165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_83
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 368
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b141820477b32a746b1e03c521fb519a
+      internalID: -8632338182126770077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_84
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 368
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1c8e0440bc0684488cc3da456ccd82
+      internalID: 7477615978433478774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_85
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 332
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0400bfba464e244db3bd69fbe735fd9
+      internalID: -2100691608871958558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_86
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 332
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b12b13669097074f854e3368fe0e3bf
+      internalID: 4110292152806707692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_87
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 332
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beb2d1a40ccdcc42b820e3f14da8eec
+      internalID: 276284866181503763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_88
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 332
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccbe11d51aaf834fa524e33d8801523
+      internalID: -7626644614946184715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_89
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 332
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b941f5e3a67a36046bb7229fccbe3fbb
+      internalID: -9063193773633943294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_90
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 333
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedc0ae591a29b24b8c175d49b4ad25a
+      internalID: 1408672367199093111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_91
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 333
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510c7ecdffb0a894d95f9c4206706054
+      internalID: -3003984456578450944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_92
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 333
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3d6061b0161984c8dee3a429b3e421
+      internalID: -8857805391895849575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_93
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 333
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3eaf4e739ecfd74a84aef9478c4359a
+      internalID: 9063651473604057079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_94
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 332
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd37e1210eb6e346b31963e161737e0
+      internalID: 4441906860172887986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_95
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 332
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b2162a7e72f0f40a9f5a1ede394518
+      internalID: -6888981229700126328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_96
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 332
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c789fb50edcabbf458a8a60ee9649009
+      internalID: -7375278044605434048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_97
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 332
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1cfab564ce99f44b7fc0aff24187ec
+      internalID: 4931509141929877606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_98
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 332
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc23c31293765e48aa0219a140f1e6e
+      internalID: -2040745864384087900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_99
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 332
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd7427f59efb41449ed9e3823489c54
+      internalID: -1867456337803141143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_100
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 332
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dd068ff0d7414419a82869561bea7c
+      internalID: -7730092538741755891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_101
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 332
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b3d35036a9b1c41986feb7402f652c
+      internalID: -1418616415687558492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_102
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 332
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bd33a8fcf9a5a4bad6f5d2b7483310
+      internalID: 1482492403151589109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_103
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 332
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbd3abeec4ce0c42a0ed222adb1fdae
+      internalID: -5927725496293412964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_104
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 351
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd19a7297f94c04419af66cdf2aaca6d
+      internalID: 5531469948813633714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_105
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 351
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e600cab5af03c4c8900c5ced84905f
+      internalID: -3730031880145853804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_106
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 332
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e947ce985952b3f449f5eb7d13dab599
+      internalID: -6782803652890285204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_107
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 296
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e0e74ebf1310a429b28a6bd4665286
+      internalID: 6467825204608306094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_108
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 297
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2df5ee89839f5408461bf264a9cd31
+      internalID: -2519482925046391002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_109
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 297
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17060a154585a8844a8e5a8260d94647
+      internalID: 5786026230931268686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_110
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 297
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8534239a5e878a84cbc035b8c75a544a
+      internalID: -2366861025724053631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_111
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 297
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585c5ebaf0817de4d90bb7941d8264c5
+      internalID: 2500520977392370432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_112
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd807af467c9dd43a605bb5fc188656
+      internalID: -3588088508278443475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_113
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 296
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f72a0b640809b34e853803a14c5221a
+      internalID: 525881727526815979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_114
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 296
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c1e15f10fa64f4891e09b77f967f10
+      internalID: -8179633507951219759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_115
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614cb9452919c294496f0e7cd2a411c2
+      internalID: 974808602265836177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_116
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101e42b455791304da31159644a4eff8
+      internalID: 3564651381703927234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_117
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c0a8a006fa3d44aa51be2f33015a89
+      internalID: -8852778351816631536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_118
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c3a77d54c9bc444842592afe96e5d8
+      internalID: -7696727915097987645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_119
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ffb0ba85fa8b6439fa3937fec289c0
+      internalID: 1942860490691707591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_120
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0aa75bfc710b146b058c64dfd81600
+      internalID: -5993421274236674304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 296
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c7b6b0605b17748b280fb51f1302fa
+      internalID: -4664692246920316623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_122
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 296
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a62d6ffbff2fe445b6aeb08ac1cad78
+      internalID: 5331556720545041402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_123
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 296
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4587a9e4b0319a46a87b0b882c1875d
+      internalID: -91476069210874561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_124
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 296
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d6ed8b3012a1742a494e2a7d98c919
+      internalID: -1396939296714569795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_125
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 296
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7644b3051ffd24e8b93931f08bab1b
+      internalID: 997157050012074427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_126
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 296
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1585e6dc040e7e040918ef3e0df783a6
+      internalID: 8924253924657835977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_127
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 296
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94763dffd4beb241b77fb3b5565eb54
+      internalID: -1696049028066307154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_128
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 296
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e16acc7c2d9d3a49b46df5ac989e70e
+      internalID: -4088226483689765114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_129
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 296
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ea202fc8244d54998b1b861c0fb9df
+      internalID: 7833715515265598063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_130
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 299
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5ad074d1bed9b4f87ef4842e040788
+      internalID: 7548141441728062936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_131
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 262
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bdafb74ba65e24d8a32934b412461c
+      internalID: 8305873838282954042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_132
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 260
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7080ce5c3ca174189908488ef7c086
+      internalID: -307831565031470261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_133
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 263
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042ab325aededa04fa734638beae2175
+      internalID: 6451980918619336571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_134
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 262
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a1c2893f1d779408c7087d77694dd0
+      internalID: 93940547039849815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_135
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 260
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ca37b4d0c4c5d4ab475992c92957a3
+      internalID: 5827346242345796322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_136
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 263
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca06873d4d63e544b1e59487c77dcec
+      internalID: 4121127249990578788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_137
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 262
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15367a4ab6a35964ab406a262e8697f1
+      internalID: -445457799778281555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_138
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 260
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87637f1eb92f105478c652a315ed4029
+      internalID: 5616077981181294457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_139
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 263
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f10a543740a5c44ad6c8288df68c29
+      internalID: 2758171162745524655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_140
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 262
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fd31d6b758fb04098c694c7baefbf6
+      internalID: -1500145388732988093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_141
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 260
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22615ce06cf382a49a79677b0de06de8
+      internalID: 8533149259196085238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_142
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 263
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ec3bcc1e1a87448962cadff8c8aaa8
+      internalID: -2815653647008535431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_143
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 263
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24964b356340c8340bb9f44741d41716
+      internalID: -8999285764885033140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_144
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 261
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270b1f7e7583b844b97a13d781bb54a2
+      internalID: 9065551882297901832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_145
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 263
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe71e7b319cb654ca498e8ff691c2b1
+      internalID: -5731505370435428511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_146
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 263
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87af9b12761fce1408fc575c39e63d6b
+      internalID: 3547136394971202526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_147
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 261
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad60678cd952c4542b495679a7e8b0dd
+      internalID: 3785141615165678806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_148
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 263
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063ba56deb0fd594292c13500291324b
+      internalID: 2229390510432607307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_149
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 263
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f656929b1999e5c48903a6c7d3ead315
+      internalID: -4924080857407340129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_150
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 261
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c34f461c2c88b43ba6eb39d6e4acd6
+      internalID: -1322091730463353859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_151
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 263
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43d8ecba6b3fdf4a804883712ddc96b
+      internalID: 8375121639169496831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_152
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 263
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e596465e5f07f4593b8fa7ddd3b9ee
+      internalID: -3624031422924904246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_153
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 261
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b5e94662fca7440b254c6f2bc34f04
+      internalID: 5950324984630629583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_154
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 259
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c8f353bf57dfc43a87d9431a0fd8cd
+      internalID: 1124096119977866286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_155
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 260
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a00b63b48c90c64e8743cff348a0a62
+      internalID: 466009813052840358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_156
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 259
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86468a7b4eee994449f1a5cd1d03c144
+      internalID: 5271985854443591694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_157
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 224
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e65c27d8962d7f4d99df18d86dc11ce
+      internalID: 1509757526446903759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_158
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 224
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f92b416b3bb4346b5298d35c51b5c9
+      internalID: -3163445470874628434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_159
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 223
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c7b236946e31744b7f842657663660
+      internalID: -7117069358286169981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_160
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 222
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23452372547ad5441aac8d821b73d8e7
+      internalID: 7167031572274575641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_161
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 223
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79bb7951e4765c4aae707baa74caaa3
+      internalID: -4189262368514625074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_162
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 222
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8436d41eb80aade41a756885b79dcee4
+      internalID: 3906441791295644112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_163
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 224
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce6324b0e9050a4291104edaf89ad06
+      internalID: 3414105873732549911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_164
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 224
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f735e1c0348d194d9c6ab0905624612
+      internalID: -8966209575986841875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_165
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 223
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecd34643f688d24f8fb3998f744470d
+      internalID: -6195200026638095867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_166
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 222
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac99f7e148782e84594585cf78c5b802
+      internalID: -6948394651484701690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_167
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 223
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9575e6558bc4e41904a649b4a302c9
+      internalID: 6266709149136420422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_168
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 222
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b3bfc4853d4a841853475aa256ca6a
+      internalID: -418540648079350099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_169
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 224
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40b53123cd6ac1448c70c4eeb813a34
+      internalID: 466637796482824613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_170
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 224
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05eb054b0cc88ef4796d7e634513b22d
+      internalID: -3473847998769109277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_171
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 223
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b951596b679f3d942a63f7eff21d585c
+      internalID: 4986726042565018073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_172
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 222
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091bef1b61b647e42af0b987d9563b77
+      internalID: -816944598116717821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_173
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 223
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ebd68f9198e6b4ca7ae287e2d409bc
+      internalID: -2373820208892644131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_174
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 222
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab50cbfff2ea8e4989fb76e5444ab77
+      internalID: -4211707150674656278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_175
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 224
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8fbae4a3b17c746a7e92d11bb9bb37
+      internalID: -2481974364767911518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_176
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 224
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7139ffebf3bbb4e9f598cc85d2555c
+      internalID: -1363511173369787149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_177
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 186
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b776b35faeedd440bdc8182c50ca4db
+      internalID: -5947902707898387970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_178
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 188
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31df463e698d3734c9d83b94c563ebf6
+      internalID: 7421685480123103280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_179
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 187
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d98146033eb3e49995a2cda161d7e5
+      internalID: -3200180109009207720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_180
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 185
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff688ad4c47c1bb4185b8e776a82dc7c
+      internalID: 3739990492773940914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_181
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 188
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62343cf8dd90d854b8bd47c94b8d374f
+      internalID: 1594650217645181081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_182
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 187
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c9408839eaa6b4c84666f2b04054b1
+      internalID: 7394440649143590220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_183
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 185
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89a75e06472ea24493092f26535abf6
+      internalID: -2637714126205143664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_184
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 188
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ab27633626aba45886c65ebc0e7cd1
+      internalID: -205026831520537640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_185
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 187
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc08e70e106ac3c42b244f314d59a67e
+      internalID: -848879190543184615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_186
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 185
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b142ad46b75ff846870dee9c1900ad6
+      internalID: 7574328620254961769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_187
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 188
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571f917646141f6469338207e6f3f13d
+      internalID: -789781721326729930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_188
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 187
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd3ef971d6aeba478410e7f8d6ca496
+      internalID: -501933103825130389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_189
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 185
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bae48235d22a64f9e4b7c49d2180e9
+      internalID: 3459690789794103189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_190
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 188
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f210057e6b325a74cbe540cea93c9712
+      internalID: -6404455319804831806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_191
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 188
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4256e82c9854c44b30c5f8fc08fed6
+      internalID: 4285037423356033450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_192
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 186
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecba218e25558d14c9c50f7490a3bbf9
+      internalID: 5274277438370545450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_193
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 188
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c992f5f9120d594facbd139e9ddb1a1
+      internalID: -5927851354834367048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_194
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 188
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d394e6d717c45b0449b96d6c3e7b1970
+      internalID: 5836035099806945718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_195
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 186
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ccbc4e9b11f2947931b6d1218376a2
+      internalID: -5551531889289510374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_196
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 188
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f3a6503531c834ebe7edc3f3fd908c
+      internalID: 3690835095864507136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_197
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 188
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4b9e39089c8ac419537b60a48b86c5
+      internalID: 2593090485019098276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_198
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 186
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ad2eac63e6fcf44884c91738214b6b
+      internalID: 7078523655868194864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_199
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 188
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25acf1341020d84cbb3fe4be498835c
+      internalID: 5399611629547743331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_200
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 188
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f20708a10ef4af4c9de1553ea3e50e8
+      internalID: 1592996082180202522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_201
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 186
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6689e608ef0a6924e9e55b0917b51338
+      internalID: -7499702035118633411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_202
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 185
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867347bc1da8d2647b493c042d8c6a1e
+      internalID: 8810201874138926368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_203
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 149
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549cec3aa083fc74d978c02671435715
+      internalID: -923312665475799358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_204
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 148
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64799e4464ef38b4c9d3ab0b9ed72999
+      internalID: -6395573148290236288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_205
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 150
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d6dd264272c544da5c6a8bb16f10ed
+      internalID: -7009391932840489220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_206
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 150
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865e2953e89d8484d9d892c542b75d83
+      internalID: 5484795123045463253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_207
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 149
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36afb7fff702004ba9efb4e7162ad6c
+      internalID: 2693129313345756261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_208
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 148
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef9ea226dfa03b45aa8b6a6655f8f74
+      internalID: 8653477678566389665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_209
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 149
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bed6daf7f5ab4743b78884f9a0babed
+      internalID: -2581560761532677627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_210
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 148
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac7bf8680ed239469d173c37c687707
+      internalID: 7722539102728819421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_211
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 150
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8b69cb2835b014a900acdfaaaf6014
+      internalID: -766049000474500827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_212
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 150
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9fc42cb2579324990a7fb7222e4f76
+      internalID: 2964998445561903666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_213
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 149
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1c1740e1c5e7c48a88d9d6abe17eea
+      internalID: -8814486189646357494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_214
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 148
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa32bbd9f585db4f86754880d3408c2
+      internalID: -1690746275317112169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_215
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 149
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b416fc20a72f6c43a889253ca27ec02
+      internalID: -1851525987623633645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_216
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 148
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fb9c4063dfcbf4fbdc4905dd10a51a
+      internalID: -1548225832258580816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_217
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 150
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d009d598d05608c44857d0c76469c9fd
+      internalID: -2830353945291556469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_218
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 150
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea5ddb78d5d35c44a1e5afc7141c98b
+      internalID: 33703200735742947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_219
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 149
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eb2567ac1fbc541b6450e00df7f691
+      internalID: 4102889308566805338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_220
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 148
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005d715cced777b4e926a6bff19b1ebe
+      internalID: -6633337667546232067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_221
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 149
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956d923f1d447014a9cc2c1b1721f3a6
+      internalID: -4706964375194694989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_222
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 148
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba1ac10138f16744ad42009156a7226
+      internalID: 3548884387251194551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_223
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 150
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0b105993c613341bf6ec2e219e6cc4
+      internalID: -3175142323848381425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_224
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 113
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c271c6a085cfe348a04ad88fe427cf0
+      internalID: -3886127370847618569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_225
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 112
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad7f3eccff1d284881e1559009d443e
+      internalID: -6593618527225377451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_226
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934c97dc0e230dd449de1fd35c9a376f
+      internalID: 6288703929104894500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_227
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 112
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a490ee22fef6424384ef1939d806bd3
+      internalID: 2191425325052292005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_228
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 112
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adf2ba4232a9ae4d8ac49721167d8e9
+      internalID: 4168853799509279376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_229
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 112
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9bffe97da4fd346b4616456dd38d52
+      internalID: -4819364066249733375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_230
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 112
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ad276a13a612c489a9beedf1b254cc
+      internalID: 540423922343213989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_231
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca89c8bc2fa41348aee4a1084f45e34
+      internalID: -5402175572564725820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_232
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 112
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d0570de15c4c8468915c7757c56689
+      internalID: -5888495537649864314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_233
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 112
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a5bcccc4c8a1c44b173ed4f3afa006
+      internalID: -1942818768975776181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_234
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 112
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1612280c83de343a4dc7cebc9cd02d
+      internalID: -5317905529187215111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_235
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 112
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a6b1adcc5d31b47b7c68c57311d10e
+      internalID: 3622420459672958773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_236
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 112
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537cef1eb063bac46b6b7b4983684cc1
+      internalID: 2510575217857240090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_237
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 112
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d56acf09d1cef4e8aa1f5f01888d0f
+      internalID: -2434374947525809463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_238
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 112
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e862b0149fc8e5442a2b84f06dc93627
+      internalID: 4042251469999952717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_239
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 112
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f80a2370d2ecb468244c02617a3f5d
+      internalID: 4025948656683131302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_240
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 112
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ad9b1d55624e04ebbb8513655bce50
+      internalID: -894945940466975642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_241
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 112
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b2ed58905e71b4da9cff669b1bc4ad
+      internalID: -6405720720953199882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_242
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371f966ecb0cae64c864a9d9bea39d8e
+      internalID: -992887159767867682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_243
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 112
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2faf6dbe2e728943b992920b3fd719d
+      internalID: 1361092155331511832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_244
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 112
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701295aa54c918f4194bc2157e0d93eb
+      internalID: 1454006527510597685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_245
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 112
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d2a5b9e1897ee4a854810b469df6b2
+      internalID: -1355918892378255156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_246
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 112
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed773c39668ecd43abef129a9dbffb8
+      internalID: 7966039347519380646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_247
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 112
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9593a87e67e6e043aa9e3390412d56d
+      internalID: -1583016168254705153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_248
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 113
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb4f06c4466c6c43a4feeda9e9713fe
+      internalID: -488419470410670937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_249
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 112
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a882772b54db5345bef09bdf526f4f6
+      internalID: -7486050372743457158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_250
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 76
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8901ffff8f7701b4bb96d99d4b6133c1
+      internalID: -6832130032125388088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_251
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 77
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf97fbe6d6dea144958e5746a381d80
+      internalID: 14271763634683782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_252
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 76
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3b0cea745ae2c4b9318791704e26aa
+      internalID: 5721967454630298463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_253
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 76
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa5f503427a1d94eb0f1caf3a565c2b
+      internalID: -527070349780556313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_254
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 77
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7150cebde9c1c4a9ccaabd7b4aad61
+      internalID: 404077600307318060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_255
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 76
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e86621e3840a52448da3ac9b1257788
+      internalID: -6113823954289043196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_256
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 76
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffc39120fc11c442b75c03072ce87e4
+      internalID: -3845734627317631729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_257
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 77
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b606c09ac8f5c28449fb605365aadd5c
+      internalID: 78717938897708839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_258
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 76
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5a912f54a0d5f4ba070ef7ce86f961
+      internalID: -1855393119776326700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_259
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 76
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf6c60beead8a245a2f333bad7b844e
+      internalID: -1138267863640589380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_260
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 77
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d446a660a05694e449053622779ced82
+      internalID: 1835048938513707086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_261
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 76
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c592d5e69ba2d464d8c3ab688ac7b5ff
+      internalID: 2506463255587588641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_262
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 76
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ca6fae9ce39a948ab4156fa8c4ae50
+      internalID: -7283521060715266090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_263
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 77
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6b48126da2a4c449be3cee4a2bf62c
+      internalID: 8997388397107752030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_264
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 76
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba64f1225a770545a4cfb246ec0b252
+      internalID: -6846174323450687247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_265
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 76
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57da16f9350457340a7e0a782d89790b
+      internalID: 5093675931321190144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_266
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 77
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8204d94f65a1f614496db999571cbb75
+      internalID: -3756679893983548244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_267
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 76
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6f0210b9d14e343970898f2c754bea
+      internalID: 511122389293207637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_268
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 76
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd74c1498539965469e2206379f8cec0
+      internalID: -2434959917461140496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_269
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 77
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad45ec5b073c414b966147f738579a5
+      internalID: 4683521119926376232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_270
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 76
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f28142ac8e38341aef9551bfe177bb
+      internalID: 4687485382927222706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_271
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 76
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8689f861d10890f449b6e5366350904c
+      internalID: 6117595442943528683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_272
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 76
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80c7fd1fc4314a4f94bce85973dc844
+      internalID: 7711374758419911645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyrus_273
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 76
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8d72fe6f01a5440b022d029b6e83bd
+      internalID: -1395450412483232877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 43350fbac8d7a7b48915d81ed9635ee5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
