@@ -1,6 +1,7 @@
-﻿using UnityEngine;
+﻿using PixelMoon.Core;
+using UnityEngine;
 
-namespace PixelMoon.GameState
+namespace PixelMoon.UI
 {
     public class PauseMenu : MonoBehaviour
     {
@@ -15,7 +16,7 @@ namespace PixelMoon.GameState
         {
             if (Input.GetKeyDown(KeyCode.Escape))
             {
-                if (GameState.isPaused)
+                if (GameState.IsPaused)
                 {
                     ResumeGame();
                 }
@@ -30,7 +31,7 @@ namespace PixelMoon.GameState
         {
             pauseMenu.SetActive(true);
             Time.timeScale = 0f;
-            GameState.Set(States.IsPaused);
+            GameState.Set(GameStates.IsPaused);
         }
 
         public void ResumeGame()

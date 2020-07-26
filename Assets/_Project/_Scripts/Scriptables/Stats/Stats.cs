@@ -5,7 +5,9 @@ namespace PixelMoon.Scriptables.Stats
     [CreateAssetMenu(fileName = "new Stats", menuName = "Entity/Stats")]
     public class Stats : ScriptableObject
     {
-        [SerializeField] public int Level { get; private set; }
+        [SerializeField] public bool isTemplate;
+        
+        [SerializeField] [Range(1, 999)] public int Level;
 
         [SerializeField] [Range(1, 999)] public int Health;
         [SerializeField] [Range(1, 999)] public int MaxHealth;
@@ -19,20 +21,13 @@ namespace PixelMoon.Scriptables.Stats
         [SerializeField] [Range(1, 99)] public int Vitality;
         [SerializeField] [Range(1, 99)] public int Potential;
 
-        public int Initiative { get => Level + Agility; }
-        public int Damage { get => Level + Strength; }
+        public int Initiative => Level + Agility; 
+        public int Damage => Level + Strength; 
 
         public bool TakeDamage(int damage)
         {
             Health -= damage;
-            if (Health <= 0)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            return Health <= 0;
         }       
 
         public void HealDamage()

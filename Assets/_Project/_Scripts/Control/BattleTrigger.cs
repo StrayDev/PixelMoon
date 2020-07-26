@@ -1,4 +1,4 @@
-﻿using PixelMoon.GameState;
+﻿using PixelMoon.Core;
 using UnityEngine;
 
 namespace PixelMoon.Control
@@ -9,7 +9,7 @@ namespace PixelMoon.Control
         {
             if (collision.gameObject.tag == "Enemy")
             {
-                GameState.GameState.Set(States.InBattle);
+                GameState.Set(GameStates.InBattle);
             }
         }
     }

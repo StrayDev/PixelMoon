@@ -1,4 +1,5 @@
-﻿using PixelMoon.Scriptables.Presets;
+﻿using PixelMoon.Core;
+using PixelMoon.Scriptables.Presets;
 using UnityEngine;
 
 namespace PixelMoon.Systems
@@ -16,7 +17,7 @@ namespace PixelMoon.Systems
         {
             if (!Preset) return;
         
-            if (GameState.GameState.isPlaying && Application.isPlaying)
+            if (GameState.IsPlaying && Application.isPlaying)
             {
                 TimeOfDay += Time.deltaTime * TimeSpeed;
                 TimeOfDay %= 24; //Clamps between 0-24

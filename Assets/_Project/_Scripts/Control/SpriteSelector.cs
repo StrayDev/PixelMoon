@@ -27,14 +27,14 @@ namespace PixelMoon.Control
         public void RefreshList()
         {
             //load up the files
-            directory = new DirectoryInfo("Assets/Resources/SpriteSheets/Entities/");
+            directory = new DirectoryInfo("Assets/_Project/Resources/SpriteSheets/Entities/");
             files = directory.GetFiles("*.png");
 
             //create array and loop through
             fileNames = new string[files.Length];
             for (int i = 0; i < files.Length; i++)
             {
-                fileNames[i] = Path.GetFileNameWithoutExtension($"Assets/Resources/SpriteSheets/Entities/{files[i].Name}");
+                fileNames[i] = Path.GetFileNameWithoutExtension($"Assets/_Project/Resources/SpriteSheets/Entities/{files[i].Name}");
             }
         }
 

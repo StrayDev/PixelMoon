@@ -13,7 +13,7 @@ namespace PixelMoon.Scriptables.Behaviours
             entity.DirectionState.SetDirectionWithVector(input);
             entity.MovementState.CheckMovementModifiers(input, Input.GetKey(KeyCode.LeftShift), Input.GetKey(KeyCode.LeftControl));
 
-            Move.WithVelocity(entity.GetComponent<Rigidbody>(), CurrentSpeed(entity), input);
+            Move.WithVelocity(entity.Rb, CurrentSpeed(entity), input);
         }
 
         private float CurrentSpeed(Entity entity)
